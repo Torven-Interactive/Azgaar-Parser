@@ -6,6 +6,51 @@ Instead of forcing your engine to parse a single 1-million-line browser export, 
 
 ---
 
+
+## 📦 Installation
+
+This API is hosted and distributed via **JitPack**. Add the repository and dependency to your build configuration:
+
+### Maven (`pom.xml`)
+
+Add the JitPack repository:
+```xml
+<repositories>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
+</repositories>
+```
+
+Add the dependency:
+```xml
+<dependency>
+    <groupId>com.github.Torven-Interactive</groupId>
+    <artifactId>Azgaar-Parser</artifactId>
+    <version>v0.5-beta</version>
+</dependency>
+```
+
+### Gradle (`build.gradle`)
+
+Add the repository to your root `build.gradle` file:
+```groovy
+repositories {
+    mavenCentral()
+    maven { url 'https://jitpack.io' }
+}
+```
+
+Add the dependency:
+```groovy
+dependencies {
+    implementation 'com.github.Torven-Interactive:Azgaar-Parser:v0.5-beta'
+}
+```
+
+---
+
 ## ❤️ Standing on the Shoulders of Giants: Tribute to Azgaar
 
 This project is a companion API built entirely out of deep respect, gratitude, and admiration for **Azgaar (Ilya Atkin)**, the brilliant mind behind **Azgaar's Fantasy Map Generator**. What Ilya has created over years of open-source dedication is nothing short of a masterpiece—providing worldbuilders, writers, and indie game developers with arguably the most sophisticated procedural world-generation sandbox on the web.
