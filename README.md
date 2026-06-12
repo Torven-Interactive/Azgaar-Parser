@@ -126,5 +126,13 @@ The stable pipeline successfully passes integration sweeps with zero hidden cras
 *   **Geopolitical Canvas**: `111 Sovereign States` tracking dynamic border cells.
 *   **Linguistic Register**: `67 Functional World Cultures` tracking heritage and syllable generation charts.
 
+## 📋 Road to v1.1 / Bug Tracker
+- [x] High-precision geometric vertex-stitching cell math (`v0.1`)
+- [x] Modular Interface-driven `TaskSystem` decoupling (`v0.3`)
+- [x] Stateful Multi-Layer compilation and path flattening (`v0.5`)
+- [x] Implement user-facing symmetrical incremental data-loading classes (`v1.0`)
+- [ ] ⏳ **FUTURE ME TASK**: Patch `StateTask` ghost elements leak (Filter out `removed: true` and inactive placeholder indices to drop loaded state count from 111 down to the editor-accurate 92).
+- [ ] ⏳ **FUTURE ME TASK**: Patch Redudant Array well extracting azgaar.json.
+
 ## 📄 License
 This project is open-source and available under the MIT License.
