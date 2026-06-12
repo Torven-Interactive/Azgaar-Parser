@@ -1,1223 +1,1221 @@
 {
-  "cultures": {
-    "cultures": [
-      {
-        "name": "Wildlands",
-        "i": 0,
-        "base": 1,
-        "origins": [
-          null
-        ],
-        "shield": "round",
-        "urban": 0,
-        "rural": 0,
-        "area": 0,
-        "cells": 0
-      },
-      {
-        "name": "Eurabic",
-        "base": 18,
-        "shield": "round",
-        "center": 1432,
-        "i": 1,
-        "color": "#aff05b",
-        "type": "River",
-        "expansionism": 1.2,
-        "origins": [
-          0
-        ],
-        "code": "Eu",
-        "urban": 0,
-        "rural": 0,
-        "area": 0,
-        "cells": 0,
-        "removed": true
-      },
-      {
-        "name": "Shwazen",
-        "base": 0,
-        "shield": "hessen",
-        "center": 3231,
-        "i": 2,
-        "color": "#80b1d3",
-        "type": "Generic",
-        "expansionism": 1.3,
-        "origins": [
-          0
-        ],
-        "code": "Sh",
-        "urban": 0,
-        "rural": 0,
-        "area": 0,
-        "cells": 0,
-        "removed": true
-      },
-      {
-        "name": "Tallian",
-        "base": 3,
-        "shield": "horsehead2",
-        "center": 1544,
-        "i": 3,
-        "color": "#eb8de7",
-        "type": "Generic",
-        "expansionism": 1.3,
-        "origins": [
-          0
-        ],
-        "code": "Ta",
-        "urban": 0,
-        "rural": 0,
-        "area": 0,
-        "cells": 0,
-        "removed": true
-      },
-      {
-        "name": "Romian",
-        "base": 8,
-        "shield": "roman",
-        "center": 20,
-        "i": 4,
-        "color": "#8dd3c7",
-        "type": "Generic",
-        "expansionism": 1,
-        "origins": [
-          0
-        ],
-        "code": "Ro",
-        "urban": 0,
-        "rural": 0,
-        "area": 0,
-        "cells": 0,
-        "removed": true
-      },
-      {
-        "name": "Slovan",
-        "base": 5,
-        "shield": "round",
-        "center": 3751,
-        "i": 5,
-        "color": "#ccebc5",
-        "type": "Generic",
-        "expansionism": 1.1,
-        "origins": [
-          0
-        ],
-        "code": "Sl",
-        "urban": 0,
-        "rural": 0,
-        "area": 0,
-        "cells": 0,
-        "removed": true
-      },
-      {
-        "name": "Koryo",
-        "base": 10,
-        "shield": "round",
-        "center": 3539,
-        "i": 6,
-        "color": "#ffed6f",
-        "type": "Generic",
-        "expansionism": 1.3,
-        "origins": [
-          0
-        ],
-        "code": "Ko",
-        "urban": 0,
-        "rural": 0,
-        "area": 0,
-        "cells": 0,
-        "removed": true
-      },
-      {
-        "name": "Portuzian",
-        "base": 13,
-        "shield": "spanish",
-        "center": 72,
-        "i": 7,
-        "color": "#b3de69",
-        "type": "Generic",
-        "expansionism": 1.2,
-        "origins": [
-          0
-        ],
-        "code": "Po",
-        "urban": 0,
-        "rural": 0,
-        "area": 0,
-        "cells": 0,
-        "removed": true
-      },
-      {
-        "name": "Luari",
-        "base": 2,
-        "shield": "oldFrench",
-        "center": 3333,
-        "i": 8,
-        "color": "#c6b9c1",
-        "type": "Naval",
-        "expansionism": 1.9,
-        "origins": [
-          0
-        ],
-        "code": "Lu",
-        "urban": 0,
-        "rural": 0,
-        "area": 0,
-        "cells": 0,
-        "removed": true
-      },
-      {
-        "name": "Carnatic",
-        "base": 26,
-        "shield": "round",
-        "center": 1094,
-        "i": 9,
-        "color": "#6e40aa",
-        "type": "Generic",
-        "expansionism": 1.3,
-        "origins": [
-          0
-        ],
-        "code": "Ca",
-        "urban": 0,
-        "rural": 0,
-        "area": 0,
-        "cells": 0,
-        "removed": true
-      },
-      {
-        "name": "Elladan",
-        "base": 7,
-        "shield": "boeotian",
-        "center": 2851,
-        "i": 10,
-        "color": "#fb8072",
-        "type": "River",
-        "expansionism": 0.9,
-        "origins": [
-          0
-        ],
-        "code": "El",
-        "urban": 0,
-        "rural": 0,
-        "area": 0,
-        "cells": 0,
-        "removed": true
-      },
-      {
-        "name": "Angshire",
-        "base": 1,
-        "shield": "heater",
-        "center": 1140,
-        "i": 11,
-        "color": "#fccde5",
-        "type": "Generic",
-        "expansionism": 1.1,
-        "origins": [
-          0
-        ],
-        "code": "An",
-        "urban": 0,
-        "rural": 0,
-        "area": 0,
-        "cells": 0,
-        "removed": true
-      },
-      {
-        "name": "Efratic",
-        "base": 23,
-        "shield": "diamond",
-        "center": 2422,
-        "i": 12,
-        "color": "#bc80bd",
-        "type": "River",
-        "expansionism": 0.9,
-        "origins": [
-          0
-        ],
-        "code": "Ef",
-        "urban": 0,
-        "rural": 0,
-        "area": 0,
-        "cells": 0,
-        "removed": true
-      },
-      {
-        "name": "Hebrew",
-        "base": 42,
-        "shield": "oval",
-        "center": 2499,
-        "i": 13,
-        "color": "#fdb462",
-        "type": "Generic",
-        "expansionism": 1,
-        "origins": [
-          0
-        ],
-        "code": "He",
-        "urban": 0,
-        "rural": 0,
-        "area": 0,
-        "cells": 0,
-        "removed": true
-      },
-      {
-        "name": "Norse",
-        "base": 6,
-        "shield": "heater",
-        "center": 3084,
-        "i": 14,
-        "color": "#dababf",
-        "type": "Generic",
-        "expansionism": 1,
-        "origins": [
-          0
-        ],
-        "code": "No",
-        "urban": 0,
-        "rural": 0,
-        "area": 0,
-        "cells": 0,
-        "removed": true
-      },
-      {
-        "name": "Vengrian",
-        "color": "#22e597",
-        "base": 15,
-        "center": 1766,
-        "i": 15,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 13,
-        "area": 747,
-        "rural": 98.73871743679047,
-        "urban": 0,
-        "origins": [
-          0
-        ],
-        "code": "Ve",
-        "shield": ""
-      },
-      {
-        "name": "Turchian",
-        "color": "#42f471",
-        "base": 16,
-        "center": 359,
-        "i": 16,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 70,
-        "area": 3465,
-        "rural": 443.70343697071075,
-        "urban": 2.235,
-        "origins": [
-          0
-        ],
-        "code": "Tu",
-        "shield": ""
-      },
-      {
-        "name": "Berberan",
-        "color": "#bfde43",
-        "base": 17,
-        "center": 1380,
-        "i": 17,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 28,
-        "area": 1404,
-        "rural": 151.55329370498657,
-        "urban": 2.489,
-        "origins": [
-          0
-        ],
-        "code": "Be",
-        "shield": ""
-      },
-      {
-        "name": "Eurabic",
-        "color": "#6252c5",
-        "base": 18,
-        "center": 708,
-        "i": 18,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 76,
-        "area": 4771,
-        "rural": 488.4368129968643,
-        "urban": 17.774,
-        "origins": [
-          0
-        ],
-        "code": "EU",
-        "shield": ""
-      },
-      {
-        "name": "Inuk",
-        "color": "#fd9335",
-        "base": 19,
-        "center": 1036,
-        "i": 19,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 42,
-        "area": 2416,
-        "rural": 223.20221483707428,
-        "urban": 12.551,
-        "origins": [
-          0
-        ],
-        "code": "In",
-        "shield": ""
-      },
-      {
-        "name": "Euskati",
-        "color": "#ff704d",
-        "base": 20,
-        "center": 1540,
-        "i": 20,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 231,
-        "area": 16487,
-        "rural": 1326.1003966331482,
-        "urban": 27.968999999999994,
-        "origins": [
-          0
-        ],
-        "code": "ES",
-        "shield": ""
-      },
-      {
-        "name": "Yoruba",
-        "color": "#e5b32e",
-        "base": 21,
-        "center": 652,
-        "i": 21,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 7,
-        "area": 544,
-        "rural": 95.21000242233276,
-        "urban": 0,
-        "origins": [
-          0
-        ],
-        "code": "Yo",
-        "shield": ""
-      },
-      {
-        "name": "Keltan",
-        "color": "#dfbb2f",
-        "base": 22,
-        "center": 1300,
-        "i": 22,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 131,
-        "area": 7844,
-        "rural": 1044.4347567558289,
-        "urban": 7.9879999999999995,
-        "origins": [
-          0
-        ],
-        "code": "Ke",
-        "shield": ""
-      },
-      {
-        "name": "Efratic",
-        "color": "#27e98f",
-        "base": 23,
-        "center": 744,
-        "i": 23,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 49,
-        "area": 2442,
-        "rural": 320.8227801322937,
-        "urban": 2.49,
-        "origins": [
-          0
-        ],
-        "code": "EF",
-        "shield": ""
-      },
-      {
-        "name": "Tehrani",
-        "color": "#25a7da",
-        "base": 24,
-        "center": 440,
-        "i": 24,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 4,
-        "area": 129,
-        "rural": 15.494405627250671,
-        "urban": 0,
-        "origins": [
-          0
-        ],
-        "code": "Te",
-        "shield": ""
-      },
-      {
-        "name": "Maui",
-        "color": "#21e499",
-        "base": 25,
-        "center": 233,
-        "i": 25,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 22,
-        "area": 934,
-        "rural": 138.78166246414185,
-        "urban": 2.269,
-        "origins": [
-          0
-        ],
-        "code": "Ma",
-        "shield": ""
-      },
-      {
-        "name": "Carnatic",
-        "color": "#bfde43",
-        "base": 26,
-        "center": 2490,
-        "i": 26,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 56,
-        "area": 3171,
-        "rural": 281.6365977525711,
-        "urban": 12.017,
-        "origins": [
-          0
-        ],
-        "code": "CA",
-        "shield": ""
-      },
-      {
-        "name": "Inqan",
-        "color": "#7140ab",
-        "base": 27,
-        "center": 2882,
-        "i": 27,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 23,
-        "area": 1126,
-        "rural": 168.64506125450134,
-        "urban": 12.364,
-        "origins": [
-          0
-        ],
-        "code": "IN",
-        "shield": ""
-      },
-      {
-        "name": "Kiswaili",
-        "color": "#1ad7af",
-        "base": 28,
-        "center": 2586,
-        "i": 28,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 98,
-        "area": 6525,
-        "rural": 882.3025795817375,
-        "urban": 0.98,
-        "origins": [
-          0
-        ],
-        "code": "Ki",
-        "shield": ""
-      },
-      {
-        "name": "Vietic",
-        "color": "#5e58cb",
-        "base": 29,
-        "center": 2144,
-        "i": 29,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 101,
-        "area": 6237,
-        "rural": 793.90314245224,
-        "urban": 17.023,
-        "origins": [
-          0
-        ],
-        "code": "Vi",
-        "shield": ""
-      },
-      {
-        "name": "Guantzu",
-        "color": "#c1dc41",
-        "base": 30,
-        "center": 2593,
-        "i": 30,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 11,
-        "area": 561,
-        "rural": 34.47396332025528,
-        "urban": 0,
-        "origins": [
-          0
-        ],
-        "code": "Gu",
-        "shield": ""
-      },
-      {
-        "name": "Ulus",
-        "color": "#d23ea8",
-        "base": 31,
-        "center": 1670,
-        "i": 31,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 54,
-        "area": 3393,
-        "rural": 530.0916457176208,
-        "urban": 19.872,
-        "origins": [
-          0
-        ],
-        "code": "Ul",
-        "shield": ""
-      },
-      {
-        "name": "Hebrew",
-        "color": "#72f65b",
-        "base": 42,
-        "center": 2246,
-        "i": 32,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 18,
-        "area": 996,
-        "rural": 56.452204167842865,
-        "urban": 2.707,
-        "origins": [
-          0
-        ],
-        "code": "HE",
-        "shield": ""
-      },
-      {
-        "name": "Veszfeny",
-        "color": "#6d41ac",
-        "base": 15,
-        "center": 3305,
-        "i": 33,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 53,
-        "area": 3133,
-        "rural": 484.82823181152344,
-        "urban": 31.623,
-        "origins": [
-          0
-        ],
-        "code": "VE",
-        "shield": ""
-      },
-      {
-        "name": "Leoronia",
-        "color": "#1fb5d2",
-        "base": 3,
-        "center": 3657,
-        "i": 34,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 28,
-        "area": 1574,
-        "rural": 200.8173688352108,
-        "urban": 9.530999999999999,
-        "origins": [
-          0
-        ],
-        "code": "Le",
-        "shield": ""
-      },
-      {
-        "name": "Valfano",
-        "color": "#ff7d42",
-        "base": 3,
-        "center": 3472,
-        "i": 35,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 32,
-        "area": 2212,
-        "rural": 269.6563874781132,
-        "urban": 4.355,
-        "origins": [
-          0
-        ],
-        "code": "Va",
-        "shield": ""
-      },
-      {
-        "name": "Liyah",
-        "color": "#e9429a",
-        "base": 18,
-        "center": 3622,
-        "i": 36,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 75,
-        "area": 4065,
-        "rural": 571.7537371516228,
-        "urban": 26.615,
-        "origins": [
-          0
-        ],
-        "code": "Li",
-        "shield": ""
-      },
-      {
-        "name": "Vorokov",
-        "color": "#ff833d",
-        "base": 5,
-        "center": 3230,
-        "i": 37,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 14,
-        "area": 801,
-        "rural": 87.11428293585777,
-        "urban": 0,
-        "origins": [
-          0
-        ],
-        "code": "Vo",
-        "shield": ""
-      },
-      {
-        "name": "Hatha",
-        "color": "#8df457",
-        "base": 26,
-        "center": 3404,
-        "i": 38,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 35,
-        "area": 2204,
-        "rural": 70.0878621339798,
-        "urban": 0.299,
-        "origins": [
-          0
-        ],
-        "code": "Ha",
-        "shield": ""
-      },
-      {
-        "name": "Anjaouaz",
-        "color": "#da3fa4",
-        "base": 17,
-        "center": 3222,
-        "i": 39,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 29,
-        "area": 1998,
-        "rural": 56.06738543510437,
-        "urban": 1.247,
-        "origins": [
-          0
-        ],
-        "code": "AN",
-        "shield": ""
-      },
-      {
-        "name": "Munur",
-        "color": "#ff7e41",
-        "base": 26,
-        "center": 3091,
-        "i": 40,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 56,
-        "area": 2998,
-        "rural": 368.5766208767891,
-        "urban": 9.723,
-        "origins": [
-          0
-        ],
-        "code": "Mu",
-        "shield": ""
-      },
-      {
-        "name": "Winan",
-        "color": "#1ad4b3",
-        "base": 10,
-        "center": 3401,
-        "i": 41,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 35,
-        "area": 1976,
-        "rural": 56.47398629784584,
-        "urban": 0.494,
-        "origins": [
-          0
-        ],
-        "code": "Wi",
-        "shield": ""
-      },
-      {
-        "name": "Biyon",
-        "color": "#ff5374",
-        "base": 42,
-        "center": 3274,
-        "i": 42,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 13,
-        "area": 606,
-        "rural": 24.6719731092453,
-        "urban": 1.704,
-        "origins": [
-          0
-        ],
-        "code": "Bi",
-        "shield": ""
-      },
-      {
-        "name": "Egegati",
-        "color": "#ed4396",
-        "base": 28,
-        "center": 3690,
-        "i": 43,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 4,
-        "area": 239,
-        "rural": 7.420469880104065,
-        "urban": 0.804,
-        "origins": [
-          0
-        ],
-        "code": "Eg",
-        "shield": ""
-      },
-      {
-        "name": "Mandya",
-        "color": "#6351c3",
-        "base": 26,
-        "center": 3331,
-        "i": 44,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 8,
-        "area": 284,
-        "rural": 42.046908497810364,
-        "urban": 1.359,
-        "origins": [
-          0
-        ],
-        "code": "MA",
-        "shield": ""
-      },
-      {
-        "name": "Bet Ga",
-        "color": "#ff8040",
-        "base": 42,
-        "center": 3004,
-        "i": 45,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 80,
-        "area": 4621,
-        "rural": 256.4781545102596,
-        "urban": 11.011,
-        "origins": [
-          0
-        ],
-        "code": "BG",
-        "shield": ""
-      },
-      {
-        "name": "Vimonta",
-        "color": "#ff6d51",
-        "base": 3,
-        "center": 2708,
-        "i": 46,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 34,
-        "area": 1655,
-        "rural": 232.48143255710602,
-        "urban": 13.9,
-        "origins": [
-          0
-        ],
-        "code": "VI",
-        "shield": ""
-      },
-      {
-        "name": "Khayamid",
-        "color": "#56f665",
-        "base": 42,
-        "center": 2206,
-        "i": 47,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 25,
-        "area": 1053,
-        "rural": 74.99611800909042,
-        "urban": 3.8229999999999995,
-        "origins": [
-          0
-        ],
-        "code": "Kh",
-        "shield": ""
-      },
-      {
-        "name": "Alhasen",
-        "color": "#733fac",
-        "base": 13,
-        "center": 2551,
-        "i": 48,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 29,
-        "area": 1571,
-        "rural": 79.22186523675919,
-        "urban": 1.794,
-        "origins": [
-          0
-        ],
-        "code": "Al",
-        "shield": ""
-      },
-      {
-        "name": "Bjortor",
-        "color": "#3391e1",
-        "base": 19,
-        "center": 1744,
-        "i": 49,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 65,
-        "area": 3567,
-        "rural": 300.4273762702942,
-        "urban": 2.064,
-        "origins": [
-          0
-        ],
-        "code": "Bj",
-        "shield": ""
-      },
-      {
-        "name": "Vyatnia",
-        "color": "#22e597",
-        "base": 5,
-        "center": 1124,
-        "i": 50,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 72,
-        "area": 3129,
-        "rural": 324.5620564818382,
-        "urban": 4.182,
-        "origins": [
-          0
-        ],
-        "code": "Vy",
-        "shield": ""
-      },
-      {
-        "name": "Bafahya",
-        "color": "#91f457",
-        "base": 24,
-        "center": 1718,
-        "i": 51,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 12,
-        "area": 496,
-        "rural": 21.57163965702057,
-        "urban": 0.268,
-        "origins": [
-          0
-        ],
-        "code": "Ba",
-        "shield": ""
-      },
-      {
-        "name": "Shipavar",
-        "color": "#fe9136",
-        "base": 26,
-        "center": 2614,
-        "i": 52,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 48,
-        "area": 2512,
-        "rural": 308.30527371168137,
-        "urban": 1.034,
-        "origins": [
-          0
-        ],
-        "code": "SH",
-        "shield": ""
-      },
-      {
-        "name": "Binh",
-        "color": "#20e39c",
-        "base": 29,
-        "center": 1996,
-        "i": 53,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 61,
-        "area": 3980,
-        "rural": 490.7892920970917,
-        "urban": 3.671,
-        "origins": [
-          0
-        ],
-        "code": "BI",
-        "shield": ""
-      },
-      {
-        "name": "Quilana",
-        "color": "#31ef81",
-        "base": 27,
-        "center": 1709,
-        "i": 54,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 22,
-        "area": 1143,
-        "rural": 150.1156679391861,
-        "urban": 2.627,
-        "origins": [
-          0
-        ],
-        "code": "Qu",
-        "shield": ""
-      },
-      {
-        "name": "Vruch",
-        "color": "#bae449",
-        "base": 5,
-        "center": 2003,
-        "i": 55,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 31,
-        "area": 2175,
-        "rural": 65.09973812103271,
-        "urban": 0,
-        "origins": [
-          0
-        ],
-        "code": "Vr",
-        "shield": ""
-      },
-      {
-        "name": "Mundlura",
-        "color": "#6bf75d",
-        "base": 26,
-        "center": 1468,
-        "i": 56,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 28,
-        "area": 1738,
-        "rural": 220.6101315021515,
-        "urban": 12.335,
-        "origins": [
-          0
-        ],
-        "code": "MU",
-        "shield": ""
-      },
-      {
-        "name": "Songu",
-        "color": "#6d41ad",
-        "base": 29,
-        "center": 1887,
-        "i": 57,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 42,
-        "area": 2029,
-        "rural": 260.50786274671555,
-        "urban": 10.909,
-        "origins": [
-          0
-        ],
-        "code": "So",
-        "shield": ""
-      },
-      {
-        "name": "Uiryeju",
-        "color": "#f89a32",
-        "base": 10,
-        "center": 2271,
-        "i": 58,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 5,
-        "area": 313,
-        "rural": 14.37625253200531,
-        "urban": 0,
-        "origins": [
-          0
-        ],
-        "code": "Ui",
-        "shield": ""
-      },
-      {
-        "name": "Do An",
-        "color": "#b5e950",
-        "base": 29,
-        "center": 2350,
-        "i": 59,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 7,
-        "area": 280,
-        "rural": 27.271316051483154,
-        "urban": 0.183,
-        "origins": [
-          0
-        ],
-        "code": "DA",
-        "shield": ""
-      },
-      {
-        "name": "Nam Binh",
-        "color": "#963db3",
-        "base": 29,
-        "center": 1325,
-        "i": 60,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 24,
-        "area": 1209,
-        "rural": 161.58762907981873,
-        "urban": 6.922,
-        "origins": [
-          0
-        ],
-        "code": "NB",
-        "shield": ""
-      },
-      {
-        "name": "Sersuit",
-        "color": "#e2b82f",
-        "base": 19,
-        "center": 977,
-        "i": 61,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 8,
-        "area": 542,
-        "rural": 27.757785081863403,
-        "urban": 0.464,
-        "origins": [
-          0
-        ],
-        "code": "Se",
-        "shield": ""
-      },
-      {
-        "name": "Mbasulu",
-        "color": "#2a9ede",
-        "base": 28,
-        "center": 1203,
-        "i": 62,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 10,
-        "area": 583,
-        "rural": 57.41788160800934,
-        "urban": 1.289,
-        "origins": [
-          0
-        ],
-        "code": "Mb",
-        "shield": ""
-      },
-      {
-        "name": "Johabid",
-        "color": "#e1409f",
-        "base": 18,
-        "center": 1094,
-        "i": 63,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 30,
-        "area": 1311,
-        "rural": 139.50773710012436,
-        "urban": 2.224,
-        "origins": [
-          0
-        ],
-        "code": "Jo",
-        "shield": ""
-      },
-      {
-        "name": "Pilbowen",
-        "color": "#5e58cb",
-        "base": 1,
-        "center": 454,
-        "i": 64,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 35,
-        "area": 1748,
-        "rural": 211.81738364696503,
-        "urban": 8.799999999999999,
-        "origins": [
-          0
-        ],
-        "code": "Pi",
-        "shield": ""
-      },
-      {
-        "name": "Otyevo",
-        "color": "#6f40aa",
-        "base": 42,
-        "center": 192,
-        "i": 65,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 17,
-        "area": 928,
-        "rural": 138.2008044719696,
-        "urban": 12.991,
-        "origins": [
-          0
-        ],
-        "code": "Ot",
-        "shield": ""
-      },
-      {
-        "name": "Bartei",
-        "color": "#9df257",
-        "base": 13,
-        "center": 131,
-        "i": 66,
-        "expansionism": 1,
-        "type": "Generic",
-        "cells": 1,
-        "area": 35,
-        "rural": 1.0165027379989624,
-        "urban": 2.01,
-        "origins": [
-          0
-        ],
-        "code": "BA",
-        "shield": ""
-      }
-    ]
-  },
+  "cultures": [
+    {
+      "name": "Wildlands",
+      "i": 0,
+      "base": 1,
+      "origins": [
+        null
+      ],
+      "shield": "round",
+      "urban": 0,
+      "rural": 0,
+      "area": 0,
+      "cells": 0
+    },
+    {
+      "name": "Eurabic",
+      "base": 18,
+      "shield": "round",
+      "center": 1432,
+      "i": 1,
+      "color": "#aff05b",
+      "type": "River",
+      "expansionism": 1.2,
+      "origins": [
+        0
+      ],
+      "code": "Eu",
+      "urban": 0,
+      "rural": 0,
+      "area": 0,
+      "cells": 0,
+      "removed": true
+    },
+    {
+      "name": "Shwazen",
+      "base": 0,
+      "shield": "hessen",
+      "center": 3231,
+      "i": 2,
+      "color": "#80b1d3",
+      "type": "Generic",
+      "expansionism": 1.3,
+      "origins": [
+        0
+      ],
+      "code": "Sh",
+      "urban": 0,
+      "rural": 0,
+      "area": 0,
+      "cells": 0,
+      "removed": true
+    },
+    {
+      "name": "Tallian",
+      "base": 3,
+      "shield": "horsehead2",
+      "center": 1544,
+      "i": 3,
+      "color": "#eb8de7",
+      "type": "Generic",
+      "expansionism": 1.3,
+      "origins": [
+        0
+      ],
+      "code": "Ta",
+      "urban": 0,
+      "rural": 0,
+      "area": 0,
+      "cells": 0,
+      "removed": true
+    },
+    {
+      "name": "Romian",
+      "base": 8,
+      "shield": "roman",
+      "center": 20,
+      "i": 4,
+      "color": "#8dd3c7",
+      "type": "Generic",
+      "expansionism": 1,
+      "origins": [
+        0
+      ],
+      "code": "Ro",
+      "urban": 0,
+      "rural": 0,
+      "area": 0,
+      "cells": 0,
+      "removed": true
+    },
+    {
+      "name": "Slovan",
+      "base": 5,
+      "shield": "round",
+      "center": 3751,
+      "i": 5,
+      "color": "#ccebc5",
+      "type": "Generic",
+      "expansionism": 1.1,
+      "origins": [
+        0
+      ],
+      "code": "Sl",
+      "urban": 0,
+      "rural": 0,
+      "area": 0,
+      "cells": 0,
+      "removed": true
+    },
+    {
+      "name": "Koryo",
+      "base": 10,
+      "shield": "round",
+      "center": 3539,
+      "i": 6,
+      "color": "#ffed6f",
+      "type": "Generic",
+      "expansionism": 1.3,
+      "origins": [
+        0
+      ],
+      "code": "Ko",
+      "urban": 0,
+      "rural": 0,
+      "area": 0,
+      "cells": 0,
+      "removed": true
+    },
+    {
+      "name": "Portuzian",
+      "base": 13,
+      "shield": "spanish",
+      "center": 72,
+      "i": 7,
+      "color": "#b3de69",
+      "type": "Generic",
+      "expansionism": 1.2,
+      "origins": [
+        0
+      ],
+      "code": "Po",
+      "urban": 0,
+      "rural": 0,
+      "area": 0,
+      "cells": 0,
+      "removed": true
+    },
+    {
+      "name": "Luari",
+      "base": 2,
+      "shield": "oldFrench",
+      "center": 3333,
+      "i": 8,
+      "color": "#c6b9c1",
+      "type": "Naval",
+      "expansionism": 1.9,
+      "origins": [
+        0
+      ],
+      "code": "Lu",
+      "urban": 0,
+      "rural": 0,
+      "area": 0,
+      "cells": 0,
+      "removed": true
+    },
+    {
+      "name": "Carnatic",
+      "base": 26,
+      "shield": "round",
+      "center": 1094,
+      "i": 9,
+      "color": "#6e40aa",
+      "type": "Generic",
+      "expansionism": 1.3,
+      "origins": [
+        0
+      ],
+      "code": "Ca",
+      "urban": 0,
+      "rural": 0,
+      "area": 0,
+      "cells": 0,
+      "removed": true
+    },
+    {
+      "name": "Elladan",
+      "base": 7,
+      "shield": "boeotian",
+      "center": 2851,
+      "i": 10,
+      "color": "#fb8072",
+      "type": "River",
+      "expansionism": 0.9,
+      "origins": [
+        0
+      ],
+      "code": "El",
+      "urban": 0,
+      "rural": 0,
+      "area": 0,
+      "cells": 0,
+      "removed": true
+    },
+    {
+      "name": "Angshire",
+      "base": 1,
+      "shield": "heater",
+      "center": 1140,
+      "i": 11,
+      "color": "#fccde5",
+      "type": "Generic",
+      "expansionism": 1.1,
+      "origins": [
+        0
+      ],
+      "code": "An",
+      "urban": 0,
+      "rural": 0,
+      "area": 0,
+      "cells": 0,
+      "removed": true
+    },
+    {
+      "name": "Efratic",
+      "base": 23,
+      "shield": "diamond",
+      "center": 2422,
+      "i": 12,
+      "color": "#bc80bd",
+      "type": "River",
+      "expansionism": 0.9,
+      "origins": [
+        0
+      ],
+      "code": "Ef",
+      "urban": 0,
+      "rural": 0,
+      "area": 0,
+      "cells": 0,
+      "removed": true
+    },
+    {
+      "name": "Hebrew",
+      "base": 42,
+      "shield": "oval",
+      "center": 2499,
+      "i": 13,
+      "color": "#fdb462",
+      "type": "Generic",
+      "expansionism": 1,
+      "origins": [
+        0
+      ],
+      "code": "He",
+      "urban": 0,
+      "rural": 0,
+      "area": 0,
+      "cells": 0,
+      "removed": true
+    },
+    {
+      "name": "Norse",
+      "base": 6,
+      "shield": "heater",
+      "center": 3084,
+      "i": 14,
+      "color": "#dababf",
+      "type": "Generic",
+      "expansionism": 1,
+      "origins": [
+        0
+      ],
+      "code": "No",
+      "urban": 0,
+      "rural": 0,
+      "area": 0,
+      "cells": 0,
+      "removed": true
+    },
+    {
+      "name": "Vengrian",
+      "color": "#22e597",
+      "base": 15,
+      "center": 1766,
+      "i": 15,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 13,
+      "area": 747,
+      "rural": 98.73871743679047,
+      "urban": 0,
+      "origins": [
+        0
+      ],
+      "code": "Ve",
+      "shield": ""
+    },
+    {
+      "name": "Turchian",
+      "color": "#42f471",
+      "base": 16,
+      "center": 359,
+      "i": 16,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 70,
+      "area": 3465,
+      "rural": 443.70343697071075,
+      "urban": 2.235,
+      "origins": [
+        0
+      ],
+      "code": "Tu",
+      "shield": ""
+    },
+    {
+      "name": "Berberan",
+      "color": "#bfde43",
+      "base": 17,
+      "center": 1380,
+      "i": 17,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 28,
+      "area": 1404,
+      "rural": 151.55329370498657,
+      "urban": 2.489,
+      "origins": [
+        0
+      ],
+      "code": "Be",
+      "shield": ""
+    },
+    {
+      "name": "Eurabic",
+      "color": "#6252c5",
+      "base": 18,
+      "center": 708,
+      "i": 18,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 76,
+      "area": 4771,
+      "rural": 488.4368129968643,
+      "urban": 17.774,
+      "origins": [
+        0
+      ],
+      "code": "EU",
+      "shield": ""
+    },
+    {
+      "name": "Inuk",
+      "color": "#fd9335",
+      "base": 19,
+      "center": 1036,
+      "i": 19,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 42,
+      "area": 2416,
+      "rural": 223.20221483707428,
+      "urban": 12.551,
+      "origins": [
+        0
+      ],
+      "code": "In",
+      "shield": ""
+    },
+    {
+      "name": "Euskati",
+      "color": "#ff704d",
+      "base": 20,
+      "center": 1540,
+      "i": 20,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 231,
+      "area": 16487,
+      "rural": 1326.1003966331482,
+      "urban": 27.968999999999994,
+      "origins": [
+        0
+      ],
+      "code": "ES",
+      "shield": ""
+    },
+    {
+      "name": "Yoruba",
+      "color": "#e5b32e",
+      "base": 21,
+      "center": 652,
+      "i": 21,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 7,
+      "area": 544,
+      "rural": 95.21000242233276,
+      "urban": 0,
+      "origins": [
+        0
+      ],
+      "code": "Yo",
+      "shield": ""
+    },
+    {
+      "name": "Keltan",
+      "color": "#dfbb2f",
+      "base": 22,
+      "center": 1300,
+      "i": 22,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 131,
+      "area": 7844,
+      "rural": 1044.4347567558289,
+      "urban": 7.9879999999999995,
+      "origins": [
+        0
+      ],
+      "code": "Ke",
+      "shield": ""
+    },
+    {
+      "name": "Efratic",
+      "color": "#27e98f",
+      "base": 23,
+      "center": 744,
+      "i": 23,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 49,
+      "area": 2442,
+      "rural": 320.8227801322937,
+      "urban": 2.49,
+      "origins": [
+        0
+      ],
+      "code": "EF",
+      "shield": ""
+    },
+    {
+      "name": "Tehrani",
+      "color": "#25a7da",
+      "base": 24,
+      "center": 440,
+      "i": 24,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 4,
+      "area": 129,
+      "rural": 15.494405627250671,
+      "urban": 0,
+      "origins": [
+        0
+      ],
+      "code": "Te",
+      "shield": ""
+    },
+    {
+      "name": "Maui",
+      "color": "#21e499",
+      "base": 25,
+      "center": 233,
+      "i": 25,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 22,
+      "area": 934,
+      "rural": 138.78166246414185,
+      "urban": 2.269,
+      "origins": [
+        0
+      ],
+      "code": "Ma",
+      "shield": ""
+    },
+    {
+      "name": "Carnatic",
+      "color": "#bfde43",
+      "base": 26,
+      "center": 2490,
+      "i": 26,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 56,
+      "area": 3171,
+      "rural": 281.6365977525711,
+      "urban": 12.017,
+      "origins": [
+        0
+      ],
+      "code": "CA",
+      "shield": ""
+    },
+    {
+      "name": "Inqan",
+      "color": "#7140ab",
+      "base": 27,
+      "center": 2882,
+      "i": 27,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 23,
+      "area": 1126,
+      "rural": 168.64506125450134,
+      "urban": 12.364,
+      "origins": [
+        0
+      ],
+      "code": "IN",
+      "shield": ""
+    },
+    {
+      "name": "Kiswaili",
+      "color": "#1ad7af",
+      "base": 28,
+      "center": 2586,
+      "i": 28,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 98,
+      "area": 6525,
+      "rural": 882.3025795817375,
+      "urban": 0.98,
+      "origins": [
+        0
+      ],
+      "code": "Ki",
+      "shield": ""
+    },
+    {
+      "name": "Vietic",
+      "color": "#5e58cb",
+      "base": 29,
+      "center": 2144,
+      "i": 29,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 101,
+      "area": 6237,
+      "rural": 793.90314245224,
+      "urban": 17.023,
+      "origins": [
+        0
+      ],
+      "code": "Vi",
+      "shield": ""
+    },
+    {
+      "name": "Guantzu",
+      "color": "#c1dc41",
+      "base": 30,
+      "center": 2593,
+      "i": 30,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 11,
+      "area": 561,
+      "rural": 34.47396332025528,
+      "urban": 0,
+      "origins": [
+        0
+      ],
+      "code": "Gu",
+      "shield": ""
+    },
+    {
+      "name": "Ulus",
+      "color": "#d23ea8",
+      "base": 31,
+      "center": 1670,
+      "i": 31,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 54,
+      "area": 3393,
+      "rural": 530.0916457176208,
+      "urban": 19.872,
+      "origins": [
+        0
+      ],
+      "code": "Ul",
+      "shield": ""
+    },
+    {
+      "name": "Hebrew",
+      "color": "#72f65b",
+      "base": 42,
+      "center": 2246,
+      "i": 32,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 18,
+      "area": 996,
+      "rural": 56.452204167842865,
+      "urban": 2.707,
+      "origins": [
+        0
+      ],
+      "code": "HE",
+      "shield": ""
+    },
+    {
+      "name": "Veszfeny",
+      "color": "#6d41ac",
+      "base": 15,
+      "center": 3305,
+      "i": 33,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 53,
+      "area": 3133,
+      "rural": 484.82823181152344,
+      "urban": 31.623,
+      "origins": [
+        0
+      ],
+      "code": "VE",
+      "shield": ""
+    },
+    {
+      "name": "Leoronia",
+      "color": "#1fb5d2",
+      "base": 3,
+      "center": 3657,
+      "i": 34,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 28,
+      "area": 1574,
+      "rural": 200.8173688352108,
+      "urban": 9.530999999999999,
+      "origins": [
+        0
+      ],
+      "code": "Le",
+      "shield": ""
+    },
+    {
+      "name": "Valfano",
+      "color": "#ff7d42",
+      "base": 3,
+      "center": 3472,
+      "i": 35,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 32,
+      "area": 2212,
+      "rural": 269.6563874781132,
+      "urban": 4.355,
+      "origins": [
+        0
+      ],
+      "code": "Va",
+      "shield": ""
+    },
+    {
+      "name": "Liyah",
+      "color": "#e9429a",
+      "base": 18,
+      "center": 3622,
+      "i": 36,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 75,
+      "area": 4065,
+      "rural": 571.7537371516228,
+      "urban": 26.615,
+      "origins": [
+        0
+      ],
+      "code": "Li",
+      "shield": ""
+    },
+    {
+      "name": "Vorokov",
+      "color": "#ff833d",
+      "base": 5,
+      "center": 3230,
+      "i": 37,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 14,
+      "area": 801,
+      "rural": 87.11428293585777,
+      "urban": 0,
+      "origins": [
+        0
+      ],
+      "code": "Vo",
+      "shield": ""
+    },
+    {
+      "name": "Hatha",
+      "color": "#8df457",
+      "base": 26,
+      "center": 3404,
+      "i": 38,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 35,
+      "area": 2204,
+      "rural": 70.0878621339798,
+      "urban": 0.299,
+      "origins": [
+        0
+      ],
+      "code": "Ha",
+      "shield": ""
+    },
+    {
+      "name": "Anjaouaz",
+      "color": "#da3fa4",
+      "base": 17,
+      "center": 3222,
+      "i": 39,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 29,
+      "area": 1998,
+      "rural": 56.06738543510437,
+      "urban": 1.247,
+      "origins": [
+        0
+      ],
+      "code": "AN",
+      "shield": ""
+    },
+    {
+      "name": "Munur",
+      "color": "#ff7e41",
+      "base": 26,
+      "center": 3091,
+      "i": 40,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 56,
+      "area": 2998,
+      "rural": 368.5766208767891,
+      "urban": 9.723,
+      "origins": [
+        0
+      ],
+      "code": "Mu",
+      "shield": ""
+    },
+    {
+      "name": "Winan",
+      "color": "#1ad4b3",
+      "base": 10,
+      "center": 3401,
+      "i": 41,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 35,
+      "area": 1976,
+      "rural": 56.47398629784584,
+      "urban": 0.494,
+      "origins": [
+        0
+      ],
+      "code": "Wi",
+      "shield": ""
+    },
+    {
+      "name": "Biyon",
+      "color": "#ff5374",
+      "base": 42,
+      "center": 3274,
+      "i": 42,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 13,
+      "area": 606,
+      "rural": 24.6719731092453,
+      "urban": 1.704,
+      "origins": [
+        0
+      ],
+      "code": "Bi",
+      "shield": ""
+    },
+    {
+      "name": "Egegati",
+      "color": "#ed4396",
+      "base": 28,
+      "center": 3690,
+      "i": 43,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 4,
+      "area": 239,
+      "rural": 7.420469880104065,
+      "urban": 0.804,
+      "origins": [
+        0
+      ],
+      "code": "Eg",
+      "shield": ""
+    },
+    {
+      "name": "Mandya",
+      "color": "#6351c3",
+      "base": 26,
+      "center": 3331,
+      "i": 44,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 8,
+      "area": 284,
+      "rural": 42.046908497810364,
+      "urban": 1.359,
+      "origins": [
+        0
+      ],
+      "code": "MA",
+      "shield": ""
+    },
+    {
+      "name": "Bet Ga",
+      "color": "#ff8040",
+      "base": 42,
+      "center": 3004,
+      "i": 45,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 80,
+      "area": 4621,
+      "rural": 256.4781545102596,
+      "urban": 11.011,
+      "origins": [
+        0
+      ],
+      "code": "BG",
+      "shield": ""
+    },
+    {
+      "name": "Vimonta",
+      "color": "#ff6d51",
+      "base": 3,
+      "center": 2708,
+      "i": 46,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 34,
+      "area": 1655,
+      "rural": 232.48143255710602,
+      "urban": 13.9,
+      "origins": [
+        0
+      ],
+      "code": "VI",
+      "shield": ""
+    },
+    {
+      "name": "Khayamid",
+      "color": "#56f665",
+      "base": 42,
+      "center": 2206,
+      "i": 47,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 25,
+      "area": 1053,
+      "rural": 74.99611800909042,
+      "urban": 3.8229999999999995,
+      "origins": [
+        0
+      ],
+      "code": "Kh",
+      "shield": ""
+    },
+    {
+      "name": "Alhasen",
+      "color": "#733fac",
+      "base": 13,
+      "center": 2551,
+      "i": 48,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 29,
+      "area": 1571,
+      "rural": 79.22186523675919,
+      "urban": 1.794,
+      "origins": [
+        0
+      ],
+      "code": "Al",
+      "shield": ""
+    },
+    {
+      "name": "Bjortor",
+      "color": "#3391e1",
+      "base": 19,
+      "center": 1744,
+      "i": 49,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 65,
+      "area": 3567,
+      "rural": 300.4273762702942,
+      "urban": 2.064,
+      "origins": [
+        0
+      ],
+      "code": "Bj",
+      "shield": ""
+    },
+    {
+      "name": "Vyatnia",
+      "color": "#22e597",
+      "base": 5,
+      "center": 1124,
+      "i": 50,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 72,
+      "area": 3129,
+      "rural": 324.5620564818382,
+      "urban": 4.182,
+      "origins": [
+        0
+      ],
+      "code": "Vy",
+      "shield": ""
+    },
+    {
+      "name": "Bafahya",
+      "color": "#91f457",
+      "base": 24,
+      "center": 1718,
+      "i": 51,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 12,
+      "area": 496,
+      "rural": 21.57163965702057,
+      "urban": 0.268,
+      "origins": [
+        0
+      ],
+      "code": "Ba",
+      "shield": ""
+    },
+    {
+      "name": "Shipavar",
+      "color": "#fe9136",
+      "base": 26,
+      "center": 2614,
+      "i": 52,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 48,
+      "area": 2512,
+      "rural": 308.30527371168137,
+      "urban": 1.034,
+      "origins": [
+        0
+      ],
+      "code": "SH",
+      "shield": ""
+    },
+    {
+      "name": "Binh",
+      "color": "#20e39c",
+      "base": 29,
+      "center": 1996,
+      "i": 53,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 61,
+      "area": 3980,
+      "rural": 490.7892920970917,
+      "urban": 3.671,
+      "origins": [
+        0
+      ],
+      "code": "BI",
+      "shield": ""
+    },
+    {
+      "name": "Quilana",
+      "color": "#31ef81",
+      "base": 27,
+      "center": 1709,
+      "i": 54,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 22,
+      "area": 1143,
+      "rural": 150.1156679391861,
+      "urban": 2.627,
+      "origins": [
+        0
+      ],
+      "code": "Qu",
+      "shield": ""
+    },
+    {
+      "name": "Vruch",
+      "color": "#bae449",
+      "base": 5,
+      "center": 2003,
+      "i": 55,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 31,
+      "area": 2175,
+      "rural": 65.09973812103271,
+      "urban": 0,
+      "origins": [
+        0
+      ],
+      "code": "Vr",
+      "shield": ""
+    },
+    {
+      "name": "Mundlura",
+      "color": "#6bf75d",
+      "base": 26,
+      "center": 1468,
+      "i": 56,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 28,
+      "area": 1738,
+      "rural": 220.6101315021515,
+      "urban": 12.335,
+      "origins": [
+        0
+      ],
+      "code": "MU",
+      "shield": ""
+    },
+    {
+      "name": "Songu",
+      "color": "#6d41ad",
+      "base": 29,
+      "center": 1887,
+      "i": 57,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 42,
+      "area": 2029,
+      "rural": 260.50786274671555,
+      "urban": 10.909,
+      "origins": [
+        0
+      ],
+      "code": "So",
+      "shield": ""
+    },
+    {
+      "name": "Uiryeju",
+      "color": "#f89a32",
+      "base": 10,
+      "center": 2271,
+      "i": 58,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 5,
+      "area": 313,
+      "rural": 14.37625253200531,
+      "urban": 0,
+      "origins": [
+        0
+      ],
+      "code": "Ui",
+      "shield": ""
+    },
+    {
+      "name": "Do An",
+      "color": "#b5e950",
+      "base": 29,
+      "center": 2350,
+      "i": 59,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 7,
+      "area": 280,
+      "rural": 27.271316051483154,
+      "urban": 0.183,
+      "origins": [
+        0
+      ],
+      "code": "DA",
+      "shield": ""
+    },
+    {
+      "name": "Nam Binh",
+      "color": "#963db3",
+      "base": 29,
+      "center": 1325,
+      "i": 60,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 24,
+      "area": 1209,
+      "rural": 161.58762907981873,
+      "urban": 6.922,
+      "origins": [
+        0
+      ],
+      "code": "NB",
+      "shield": ""
+    },
+    {
+      "name": "Sersuit",
+      "color": "#e2b82f",
+      "base": 19,
+      "center": 977,
+      "i": 61,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 8,
+      "area": 542,
+      "rural": 27.757785081863403,
+      "urban": 0.464,
+      "origins": [
+        0
+      ],
+      "code": "Se",
+      "shield": ""
+    },
+    {
+      "name": "Mbasulu",
+      "color": "#2a9ede",
+      "base": 28,
+      "center": 1203,
+      "i": 62,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 10,
+      "area": 583,
+      "rural": 57.41788160800934,
+      "urban": 1.289,
+      "origins": [
+        0
+      ],
+      "code": "Mb",
+      "shield": ""
+    },
+    {
+      "name": "Johabid",
+      "color": "#e1409f",
+      "base": 18,
+      "center": 1094,
+      "i": 63,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 30,
+      "area": 1311,
+      "rural": 139.50773710012436,
+      "urban": 2.224,
+      "origins": [
+        0
+      ],
+      "code": "Jo",
+      "shield": ""
+    },
+    {
+      "name": "Pilbowen",
+      "color": "#5e58cb",
+      "base": 1,
+      "center": 454,
+      "i": 64,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 35,
+      "area": 1748,
+      "rural": 211.81738364696503,
+      "urban": 8.799999999999999,
+      "origins": [
+        0
+      ],
+      "code": "Pi",
+      "shield": ""
+    },
+    {
+      "name": "Otyevo",
+      "color": "#6f40aa",
+      "base": 42,
+      "center": 192,
+      "i": 65,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 17,
+      "area": 928,
+      "rural": 138.2008044719696,
+      "urban": 12.991,
+      "origins": [
+        0
+      ],
+      "code": "Ot",
+      "shield": ""
+    },
+    {
+      "name": "Bartei",
+      "color": "#9df257",
+      "base": 13,
+      "center": 131,
+      "i": 66,
+      "expansionism": 1,
+      "type": "Generic",
+      "cells": 1,
+      "area": 35,
+      "rural": 1.0165027379989624,
+      "urban": 2.01,
+      "origins": [
+        0
+      ],
+      "code": "BA",
+      "shield": ""
+    }
+  ],
   "religions": {
     "religions": [
       {
@@ -3080,225 +3078,223 @@
       }
     ]
   },
-  "markets": {
-    "markers": [
-      {
-        "icon": "🌋",
-        "type": "volcanoes",
-        "dx": 52,
-        "px": 13,
-        "x": 986.71,
-        "y": 188.23,
-        "cell": 641,
-        "i": 0
-      },
-      {
-        "icon": "♨️",
-        "type": "hot-springs",
-        "dy": 52,
-        "x": 1019.59,
-        "y": 434.48,
-        "cell": 3219,
-        "i": 1
-      },
-      {
-        "icon": "💧",
-        "type": "water-sources",
-        "x": 1187.39,
-        "y": 353.98,
-        "cell": 2591,
-        "i": 2
-      },
-      {
-        "icon": "⛏️",
-        "type": "mines",
-        "dx": 48,
-        "px": 13,
-        "x": 855.6319580078125,
-        "y": 414.8133239746094,
-        "cell": 3070,
-        "i": 3
-      },
-      {
-        "icon": "⟱",
-        "type": "waterfalls",
-        "dy": 54,
-        "px": 16,
-        "x": 970.88,
-        "y": 455.84,
-        "cell": 3402,
-        "i": 4
-      },
-      {
-        "icon": "⚔️",
-        "type": "battlefields",
-        "dy": 52,
-        "x": 1066.43,
-        "y": 290.1,
-        "cell": 1946,
-        "i": 5
-      },
-      {
-        "icon": "🗝️",
-        "type": "dungeons",
-        "dy": 51,
-        "px": 13,
-        "x": 995.61,
-        "y": 193.33,
-        "cell": 717,
-        "i": 6
-      },
-      {
-        "icon": "🗝️",
-        "type": "dungeons",
-        "dy": 51,
-        "px": 13,
-        "x": 864.9,
-        "y": 272.37,
-        "cell": 1743,
-        "i": 7
-      },
-      {
-        "icon": "🗝️",
-        "type": "dungeons",
-        "dy": 51,
-        "px": 13,
-        "x": 1046.75,
-        "y": 459.83,
-        "cell": 3411,
-        "i": 8
-      },
-      {
-        "icon": "🐉",
-        "type": "lake-monsters",
-        "dy": 48,
-        "x": 825.06,
-        "y": 247.06,
-        "cell": 1373,
-        "i": 9
-      },
-      {
-        "icon": "👹",
-        "type": "hill-monsters",
-        "dy": 54,
-        "px": 13,
-        "x": 875.17,
-        "y": 418.96,
-        "cell": 3130,
-        "i": 10
-      },
-      {
-        "icon": "🌳",
-        "type": "sacred-forests",
-        "x": 865.99,
-        "y": 269.36,
-        "cell": 1631,
-        "i": 11
-      },
-      {
-        "icon": "🗿",
-        "type": "statues",
-        "x": 161.01,
-        "y": 237.96,
-        "cell": 1209,
-        "i": 12
-      },
-      {
-        "icon": "🗿",
-        "type": "statues",
-        "x": 1047.68,
-        "y": 282.59,
-        "cell": 1845,
-        "i": 13
-      },
-      {
-        "icon": "🏺",
-        "type": "ruins",
-        "x": 1245.6,
-        "y": 287.5,
-        "cell": 1873,
-        "i": 14
-      },
-      {
-        "icon": "🏺",
-        "type": "ruins",
-        "x": 847.98,
-        "y": 259.28,
-        "cell": 1509,
-        "i": 15
-      },
-      {
-        "icon": "📚",
-        "type": "libraries",
-        "x": 140.12554931640625,
-        "y": 240.48776245117188,
-        "cell": 1205,
-        "i": 16
-      },
-      {
-        "icon": "🛶",
-        "type": "canoes",
-        "x": 1077.61,
-        "y": 135.69,
-        "cell": 298,
-        "i": 17
-      },
-      {
-        "icon": "🐗",
-        "type": "migration",
-        "x": 923.7,
-        "y": 412.3,
-        "cell": 3016,
-        "i": 18
-      },
-      {
-        "icon": "🦇",
-        "type": "caves",
-        "x": 1003.33,
-        "y": 425.16,
-        "cell": 3152,
-        "i": 19
-      },
-      {
-        "icon": "🪦",
-        "type": "necropolises",
-        "x": 939.32,
-        "y": 441.66,
-        "cell": 3275,
-        "i": 20
-      },
-      {
-        "icon": "🧙",
-        "type": "encounters",
-        "x": 885.71,
-        "y": 264.7,
-        "cell": 1633,
-        "i": 21
-      },
-      {
-        "icon": "🧙",
-        "type": "encounters",
-        "x": 968.65,
-        "y": 416,
-        "cell": 3088,
-        "i": 22
-      },
-      {
-        "icon": "🧙",
-        "type": "encounters",
-        "x": 1191.61,
-        "y": 223.46,
-        "cell": 1067,
-        "i": 23
-      },
-      {
-        "icon": "🧙",
-        "type": "encounters",
-        "x": 274.95,
-        "y": 344.26,
-        "cell": 2457,
-        "i": 24
-      }
-    ]
-  }
+  "markets": [
+    {
+      "icon": "🌋",
+      "type": "volcanoes",
+      "dx": 52,
+      "px": 13,
+      "x": 986.71,
+      "y": 188.23,
+      "cell": 641,
+      "i": 0
+    },
+    {
+      "icon": "♨️",
+      "type": "hot-springs",
+      "dy": 52,
+      "x": 1019.59,
+      "y": 434.48,
+      "cell": 3219,
+      "i": 1
+    },
+    {
+      "icon": "💧",
+      "type": "water-sources",
+      "x": 1187.39,
+      "y": 353.98,
+      "cell": 2591,
+      "i": 2
+    },
+    {
+      "icon": "⛏️",
+      "type": "mines",
+      "dx": 48,
+      "px": 13,
+      "x": 855.6319580078125,
+      "y": 414.8133239746094,
+      "cell": 3070,
+      "i": 3
+    },
+    {
+      "icon": "⟱",
+      "type": "waterfalls",
+      "dy": 54,
+      "px": 16,
+      "x": 970.88,
+      "y": 455.84,
+      "cell": 3402,
+      "i": 4
+    },
+    {
+      "icon": "⚔️",
+      "type": "battlefields",
+      "dy": 52,
+      "x": 1066.43,
+      "y": 290.1,
+      "cell": 1946,
+      "i": 5
+    },
+    {
+      "icon": "🗝️",
+      "type": "dungeons",
+      "dy": 51,
+      "px": 13,
+      "x": 995.61,
+      "y": 193.33,
+      "cell": 717,
+      "i": 6
+    },
+    {
+      "icon": "🗝️",
+      "type": "dungeons",
+      "dy": 51,
+      "px": 13,
+      "x": 864.9,
+      "y": 272.37,
+      "cell": 1743,
+      "i": 7
+    },
+    {
+      "icon": "🗝️",
+      "type": "dungeons",
+      "dy": 51,
+      "px": 13,
+      "x": 1046.75,
+      "y": 459.83,
+      "cell": 3411,
+      "i": 8
+    },
+    {
+      "icon": "🐉",
+      "type": "lake-monsters",
+      "dy": 48,
+      "x": 825.06,
+      "y": 247.06,
+      "cell": 1373,
+      "i": 9
+    },
+    {
+      "icon": "👹",
+      "type": "hill-monsters",
+      "dy": 54,
+      "px": 13,
+      "x": 875.17,
+      "y": 418.96,
+      "cell": 3130,
+      "i": 10
+    },
+    {
+      "icon": "🌳",
+      "type": "sacred-forests",
+      "x": 865.99,
+      "y": 269.36,
+      "cell": 1631,
+      "i": 11
+    },
+    {
+      "icon": "🗿",
+      "type": "statues",
+      "x": 161.01,
+      "y": 237.96,
+      "cell": 1209,
+      "i": 12
+    },
+    {
+      "icon": "🗿",
+      "type": "statues",
+      "x": 1047.68,
+      "y": 282.59,
+      "cell": 1845,
+      "i": 13
+    },
+    {
+      "icon": "🏺",
+      "type": "ruins",
+      "x": 1245.6,
+      "y": 287.5,
+      "cell": 1873,
+      "i": 14
+    },
+    {
+      "icon": "🏺",
+      "type": "ruins",
+      "x": 847.98,
+      "y": 259.28,
+      "cell": 1509,
+      "i": 15
+    },
+    {
+      "icon": "📚",
+      "type": "libraries",
+      "x": 140.12554931640625,
+      "y": 240.48776245117188,
+      "cell": 1205,
+      "i": 16
+    },
+    {
+      "icon": "🛶",
+      "type": "canoes",
+      "x": 1077.61,
+      "y": 135.69,
+      "cell": 298,
+      "i": 17
+    },
+    {
+      "icon": "🐗",
+      "type": "migration",
+      "x": 923.7,
+      "y": 412.3,
+      "cell": 3016,
+      "i": 18
+    },
+    {
+      "icon": "🦇",
+      "type": "caves",
+      "x": 1003.33,
+      "y": 425.16,
+      "cell": 3152,
+      "i": 19
+    },
+    {
+      "icon": "🪦",
+      "type": "necropolises",
+      "x": 939.32,
+      "y": 441.66,
+      "cell": 3275,
+      "i": 20
+    },
+    {
+      "icon": "🧙",
+      "type": "encounters",
+      "x": 885.71,
+      "y": 264.7,
+      "cell": 1633,
+      "i": 21
+    },
+    {
+      "icon": "🧙",
+      "type": "encounters",
+      "x": 968.65,
+      "y": 416,
+      "cell": 3088,
+      "i": 22
+    },
+    {
+      "icon": "🧙",
+      "type": "encounters",
+      "x": 1191.61,
+      "y": 223.46,
+      "cell": 1067,
+      "i": 23
+    },
+    {
+      "icon": "🧙",
+      "type": "encounters",
+      "x": 274.95,
+      "y": 344.26,
+      "cell": 2457,
+      "i": 24
+    }
+  ]
 }

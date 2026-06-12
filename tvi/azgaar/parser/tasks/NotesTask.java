@@ -2,8 +2,11 @@ package tvi.azgaar.parser.tasks;
 
 import com.google.gson.*;
 import tvi.azgaar.parser.Task;
+import tvi.azgaar.parser.models.linguistic.NameBase;
 
 import java.io.FileReader;
+import java.util.ArrayList;
+import java.util.List;
 
 public class NotesTask implements Task {
 

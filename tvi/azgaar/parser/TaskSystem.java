@@ -3,11 +3,15 @@ package tvi.azgaar.parser;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonObject;
+import tvi.azgaar.parser.models.geography.MapNode;
+import tvi.azgaar.parser.models.geopol.State;
+import tvi.azgaar.parser.models.linguistic.Culture;
 import tvi.azgaar.parser.tasks.*;
 
 import java.io.File;
 import java.io.FileWriter;
 import java.util.HashMap;
+import java.util.List;
 
 public class TaskSystem {
     private final HashMap<String, Task> tasks;
@@ -81,6 +85,46 @@ public class TaskSystem {
 
         writeJsonToFile(societyOutput, outputPath + "society.json");
         System.out.println("🟢 [TaskSystem Success] All 3 data compilation layers successfully baked!");
+    }
+
+    // 📥 Layer 1: Geography & Property Ingestion (loadSteps = 0)
+    public List<MapNode> loadGeographyLayer(String outputPath) {
+        System.out.println("📥 [TaskSystem] Loading Layer 1: Geography & Cell Properties...");
+        String mapPath = outputPath + "map.json";
+
+        // MeshTask.load returns your fully hydrated List<MapNode> containing all your property bags!
+        MeshTask meshTask = (MeshTask) tasks.get("MESH");
+        List<MapNode> masterNodes = (List<MapNode>) meshTask.load(mapPath);
+
+        loadingSteps = 1; // Explicitly advance checkpoint to step 1
+        return masterNodes;
+    }
+
+    // 📥 Layer 2: Geopolitics Ingestion (loadSteps = 1)
+    public List<State> loadGeopoliticsLayer(String outputPath) {
+        System.out.println("📥 [TaskSystem] Loading Layer 2: Geopolitics...");
+        String statesPath = outputPath + "states.json";
+
+        // StateTask.load handles reading the clean state arrays
+        StateTask stateTask = (StateTask) tasks.get("STATES");
+        List<State> masterStates = (List<State>) stateTask.load(statesPath);
+
+        loadingSteps = 2; // Explicitly advance checkpoint to step 2
+        return masterStates;
+    }
+
+    // 📥 Layer 3: Society & Linguistics Ingestion (loadSteps = 2)
+    public List<Culture> loadSocietyLayer(String outputPath) {
+        System.out.println("📥 [TaskSystem] Loading Layer 3: Society & Linguistics...");
+        String societyPath = outputPath + "society.json";
+
+        // CultureTask.load handles reading the clean culture arrays
+        CultureTask cultureTask = (CultureTask) tasks.get("CULTURES");
+        List<Culture> masterCultures = (List<Culture>) cultureTask.load(societyPath);
+
+        loadingSteps = 3; // Gate completely cleared!
+        System.out.println("🟢 [TaskSystem Success] All 3 data layers successfully hydrated from your JSON products!");
+        return masterCultures;
     }
 
     private void writeJsonToFile(JsonObject json, String destinationPath) {

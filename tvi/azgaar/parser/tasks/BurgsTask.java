@@ -1,11 +1,14 @@
 package tvi.azgaar.parser.tasks;
 
 import com.google.gson.*;
-import tvi.azgaar.parser.Task;
+import tvi.azgaar.parser.ExtendedTask;
+import tvi.azgaar.parser.models.geopol.Burg;
 
 import java.io.FileReader;
+import java.util.ArrayList;
+import java.util.List;
 
-public class BurgsTask implements Task {
+public class BurgsTask extends ExtendedTask {
 
     @Override
     public JsonElement execute(String inputPath) {
@@ -40,6 +43,25 @@ public class BurgsTask implements Task {
         }
 
         return new JsonArray();
+    }
+
+    @Override
+    public Object load(String inputPath) {
+        System.out.println("📥 [BurgsTask Loader] Hydrating city settlements and populations...");
+        List<Burg> activeBurgs = new ArrayList<>();
+        try (FileReader reader = new FileReader(inputPath)) {
+            JsonObject root = JsonParser.parseReader(reader).getAsJsonObject();
+            if (root.has("burgs")) {
+                com.google.gson.Gson gson = new com.google.gson.Gson();
+                for (JsonElement elem : root.getAsJsonArray("burgs")) {
+                    activeBurgs.add(gson.fromJson(elem, Burg.class));
+                }
+            }
+        } catch (Exception e) {
+            System.err.println("🔴 [BurgsTask Loader Error] Failed to read burg arrays.");
+            e.printStackTrace();
+        }
+        return activeBurgs;
     }
 }
 

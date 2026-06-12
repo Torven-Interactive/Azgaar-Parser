@@ -24,4 +24,11 @@ public class State {
     public int getCultureId() { return cultureId; }
     public int getReligionId() { return religionId; }
     public List<Integer> getOwnedNodes() { return ownedNodes; }
+
+    public void setId(int id) { this.id = id; }
+    public void setName(String name) { this.name = name; }
+    public void setColor(String color) { this.color = color; }
+    public void setCultureId(int cultureId) { this.cultureId = cultureId; }
+    public void setReligionId(int religionId) { this.religionId = religionId; }
+    public void setOwnedNodes(List<Integer> ownedNodes) { this.ownedNodes = ownedNodes; }
 }

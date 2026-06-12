@@ -1,11 +1,14 @@
 package tvi.azgaar.parser.tasks;
 
 import com.google.gson.*;
-import tvi.azgaar.parser.Task;
+import tvi.azgaar.parser.ExtendedTask;
+import tvi.azgaar.parser.models.linguistic.Religion;
 
 import java.io.FileReader;
+import java.util.ArrayList;
+import java.util.List;
 
-public class ReligionTask implements Task {
+public class ReligionTask extends ExtendedTask {
 
     @Override
     public JsonElement execute(String inputPath) {
@@ -43,5 +46,24 @@ public class ReligionTask implements Task {
         }
 
         return new JsonArray();
+    }
+
+    @Override
+    public Object load(String inputPath) {
+        System.out.println("📥 [ReligionTask Loader] Hydrating clerical belief frameworks...");
+        List<Religion> activeReligions = new ArrayList<>();
+        try (FileReader reader = new FileReader(inputPath)) {
+            JsonObject root = JsonParser.parseReader(reader).getAsJsonObject();
+            if (root.has("religions")) {
+                com.google.gson.Gson gson = new com.google.gson.Gson();
+                for (JsonElement elem : root.getAsJsonArray("religions")) {
+                    activeReligions.add(gson.fromJson(elem, Religion.class));
+                }
+            }
+        } catch (Exception e) {
+            System.err.println("🔴 [ReligionTask Loader Error] Failed to read religion arrays.");
+            e.printStackTrace();
+        }
+        return activeReligions;
     }
 }

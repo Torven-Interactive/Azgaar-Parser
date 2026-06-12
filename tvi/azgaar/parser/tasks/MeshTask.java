@@ -1,13 +1,16 @@
 package tvi.azgaar.parser.tasks;
 
-import com.google.gson.JsonArray;
-import com.google.gson.JsonElement;
-import com.google.gson.JsonObject;
-import com.google.gson.JsonParser;
-import tvi.azgaar.parser.Task;
-import java.io.FileReader;
+import com.google.gson.*;
+import tvi.azgaar.parser.ExtendedTask;
+import tvi.azgaar.parser.models.geography.MapNode;
 
-public class MeshTask implements Task {
+import java.awt.*;
+import java.io.File;
+import java.io.FileReader;
+import java.util.ArrayList;
+import java.util.List;
+
+public class MeshTask extends ExtendedTask {
 
     @Override
     public JsonElement execute(String inputPath) {
@@ -109,6 +112,108 @@ public class MeshTask implements Task {
         }
 
         return new JsonArray();
+    }
+
+    @Override
+    public Object load(String inputPath) {
+        System.out.println("📐 [MeshTask Master Loader] Reconstructing map nodes and properties...");
+        List<MapNode> fullyHydratedNodes = new ArrayList<>();
+
+        // Correct parent container directory pathing context
+        File currentFile = new File(inputPath);
+        String parentDir = currentFile.getParent();
+        if (parentDir == null) {
+            parentDir = ".";
+        }
+        parentDir += File.separator;
+
+        JsonArray routes = new JsonArray();
+        JsonArray features = new JsonArray();
+        JsonArray zones = new JsonArray();
+        JsonArray notes = new JsonArray();
+        JsonArray markers = new JsonArray();
+
+        // 1. PRE-LOAD ALL SIBLING LAYER DATA ARRAYS STRAIGHT FROM THE FLAT FILES
+        try (FileReader r = new FileReader(inputPath)) {
+            JsonObject root = JsonParser.parseReader(r).getAsJsonObject();
+            if (root.has("routes")) routes = root.getAsJsonArray("routes");
+            if (root.has("features")) features = root.getAsJsonArray("features");
+        } catch (Exception e) {
+            System.err.println("⚠️ Could not pre-read map.json headers");
+        }
+
+        File statesFile = new File(parentDir + "states.json");
+        if (statesFile.exists()) {
+            try (FileReader r = new FileReader(statesFile)) {
+                JsonObject root = JsonParser.parseReader(r).getAsJsonObject();
+                if (root.has("zones")) zones = root.getAsJsonArray("zones");
+            } catch (Exception e) {
+                System.err.println("⚠️ Could not pre-read states.json headers");
+            }
+        }
+
+        File societyFile = new File(parentDir + "society.json");
+        if (societyFile.exists()) {
+            try (FileReader r = new FileReader(societyFile)) {
+                JsonObject root = JsonParser.parseReader(r).getAsJsonObject();
+                if (root.has("notes")) notes = root.getAsJsonArray("notes");
+
+                // FIX: Checking and extracting from your correct flat root key string
+                if (root.has("markers")) markers = root.getAsJsonArray("markers");
+            } catch (Exception e) {
+                System.err.println("⚠️ Could not pre-read society.json headers");
+            }
+        }
+
+        // 2. RECONSTRUCT THE CELLS AND INJECT EVERY ATTRIBUTES ARRAY INTO THE MAPNODE BAG
+        try (FileReader reader = new FileReader(inputPath)) {
+            JsonObject root = JsonParser.parseReader(reader).getAsJsonObject();
+            if (!root.has("nodes")) return fullyHydratedNodes;
+            JsonArray nodesArray = root.getAsJsonArray("nodes");
+
+            for (JsonElement cellElem : nodesArray) {
+                JsonObject cell = cellElem.getAsJsonObject();
+
+                int cellId = cell.has("id") ? cell.get("id").getAsInt() : -1;
+                int centerX = cell.has("x") ? (int) Math.round(cell.get("x").getAsDouble() * 15) : 0;
+                int centerY = cell.has("y") ? (int) Math.round(cell.get("y").getAsDouble() * 15) : 0;
+
+                java.awt.Polygon polygon = new java.awt.Polygon();
+                if (cell.has("polygon_points")) {
+                    for (JsonElement ptElem : cell.getAsJsonArray("polygon_points")) {
+                        JsonObject pt = ptElem.getAsJsonObject();
+                        int scaledX = (int) Math.round(pt.get("vx").getAsDouble() * 15);
+                        int scaledY = (int) Math.round(pt.get("vy").getAsDouble() * 15);
+                        polygon.addPoint(scaledX, scaledY);
+                    }
+                }
+
+                // Instantiate your actual core engine class tile
+                MapNode cellTile = new MapNode("CELL_" + cellId, centerX, centerY, polygon, "#4E8752");
+                cellTile.setLabelName("Terra Incognita");
+
+                // Assign raw cell properties
+                cellTile.setProperty("cell_id", cellId);
+                cellTile.setProperty("height", cell.has("height") ? cell.get("height").getAsInt() : 0);
+                cellTile.setProperty("biome", cell.has("biome") ? cell.get("biome").getAsInt() : 0);
+                cellTile.setProperty("state", cell.has("state") ? cell.get("state").getAsInt() : 0);
+                cellTile.setProperty("geometry_polygon", polygon);
+
+                // The true clean string keys for property bags
+                cellTile.setProperty("routes", routes);
+                cellTile.setProperty("features", features);
+                cellTile.setProperty("zones", zones);
+                cellTile.setProperty("notes", notes);
+                cellTile.setProperty("markers", markers);
+
+                fullyHydratedNodes.add(cellTile);
+            }
+            System.out.println("🟢 [MeshTask Loader Success] Successfully compiled cell property bags.");
+        } catch (Exception e) {
+            System.err.println("🔴 [MeshTask Master Loader Error] Failed to reconstruct map mesh layers.");
+            e.printStackTrace();
+        }
+        return fullyHydratedNodes;
     }
 }
 

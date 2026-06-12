@@ -1,11 +1,15 @@
 package tvi.azgaar.parser.tasks;
 
 import com.google.gson.*;
-import tvi.azgaar.parser.Task;
+import tvi.azgaar.parser.ExtendedTask;
+import tvi.azgaar.parser.models.geography.Biome;
 
 import java.io.FileReader;
+import java.util.ArrayList;
+import java.util.List;
 
-public class BiomeTask implements Task {
+public class BiomeTask extends ExtendedTask {
+
     @Override
     public JsonElement execute(String inputPath) {
         System.out.println("🌿 [BiomeTask] Commencing precise environmental biome extraction pass from root...");
@@ -44,5 +48,30 @@ public class BiomeTask implements Task {
         }
 
         return new JsonArray();
+    }
+
+    @Override
+    public Object load(String inputPath) {
+        System.out.println("📥 [BiomesTask Loader] Hydrating in-memory climate properties...");
+        List<Biome> activeBiomes = new ArrayList<>();
+
+        try (FileReader reader = new FileReader(inputPath)) {
+            JsonObject root = JsonParser.parseReader(reader).getAsJsonObject();
+
+            // Your clean task targets the unbloated variable array directly
+            if (root.has("biomes")) {
+                for (com.google.gson.JsonElement elem : root.getAsJsonArray("biomes")) {
+                    // Instantly hydrates your clean Java object list!
+                    Gson gson = new Gson();
+                    Biome biomeObj = gson.fromJson(elem, Biome.class);
+                    activeBiomes.add(biomeObj);
+                }
+            }
+        } catch (Exception e) {
+            System.err.println("🔴 [BiomesTask Loader Error] Failed to deserialize climate records.");
+            e.printStackTrace();
+        }
+
+        return activeBiomes; // Returns the usable list straight up to TaskSystem
     }
 }
