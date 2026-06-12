@@ -15,10 +15,10 @@ This Java parser exists solely to help developers bridge the gap between Azgaar'
 ### 🌟 Support the Original Creator & Tool
 If you use this parser, please take a moment to support, star, and join the official community surrounding the main generator:
 
-*   **🌐 Run the Web Generator**: [Azgaar's Fantasy Map Generator](https://github.io)
-*   **💻 Explore the Core Engine Source**: [Azgaar's GitHub Repository](https://github.com)
-*   **💬 Join the Community**: [/r/FantasyMapGenerator on Reddit](https://reddit.com)
-*   **☕ Support Ilya's Work**: [Azgaar's Patreon / Buy Me A Coffee](https://patreon.com)
+*   **🌐 Run the Web Generator**: [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
+*   **💻 Explore the Core Engine Source**: [Azgaar's GitHub Repository](https://github.com/Azgaar/Fantasy-Map-Generator)
+*   **💬 Join the Community**: [/r/FantasyMapGenerator on Reddit](https://www.reddit.com/r/FantasyMapGenerator/)
+*   **☕ Support Ilya's Work**: [Azgaar's Patreon / Buy Me A Coffee](https://www.patreon.com/azgaar)
 
 ---
 
