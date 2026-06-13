@@ -51,4 +51,9 @@ public class MapNode {
     public String getId() { return id; }
     public int getX() { return x; }
     public int getY() { return y; }
+    public Polygon getGeometryPolygon() { return geometryPolygon; }
+    public Color getRenderColor() { return renderColor; }
+    public String getLabelName() { return labelName; }
+    public boolean isVisible() { return isVisible; }
+    public void setVisible(boolean visible) { isVisible = visible; }
 }
