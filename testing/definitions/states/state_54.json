@@ -1,0 +1,243 @@
+{
+  "i": 54,
+  "name": "Blasia",
+  "diplomacy": [
+    "x",
+    "x",
+    "x",
+    "x",
+    "x",
+    "x",
+    "x",
+    "x",
+    "x",
+    "x",
+    "x",
+    "x",
+    "x",
+    "x",
+    "x",
+    "x",
+    "x",
+    "x",
+    "x",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Rival",
+    "Neutral",
+    "Rival",
+    "Friendly",
+    "Rival",
+    "x",
+    "Neutral",
+    "Friendly",
+    "Ally",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Rival",
+    "Rival",
+    "Rival",
+    "Friendly",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Suspicion",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Rival",
+    "Rival",
+    "Neutral",
+    "Enemy",
+    "Friendly",
+    "Friendly",
+    "Friendly",
+    "Friendly",
+    "Enemy",
+    "Neutral"
+  ],
+  "provinces": [],
+  "color": "#ff7648",
+  "expansionism": 0.5,
+  "capital": 469,
+  "type": "Generic",
+  "center": 1851,
+  "culture": 0,
+  "military": [
+    {
+      "i": 0,
+      "a": 237692,
+      "cell": 2502,
+      "x": 1146.32,
+      "y": 347.91,
+      "bx": 1146.32,
+      "by": 347.91,
+      "u": {
+        "infantry": 114759,
+        "archers": 76902,
+        "cavalry": 45919,
+        "artillery": 112
+      },
+      "n": 0,
+      "name": "1st Regiment",
+      "state": 54,
+      "icon": "⚔️"
+    }
+  ],
+  "alert": 0.75,
+  "coa": {
+    "t1": "lozengy-argent-purpure-small",
+    "division": {
+      "division": "perBend",
+      "t": "azure",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "canton",
+        "t": "gules"
+      }
+    ],
+    "shield": "round"
+  },
+  "pole": [
+    1104,
+    305
+  ],
+  "neighbors": [
+    73,
+    103,
+    0,
+    80,
+    55,
+    104,
+    53,
+    101,
+    81,
+    51,
+    49
+  ],
+  "urban": 4.603,
+  "rural": 1490.3744988441467,
+  "burgs": 1,
+  "area": 12901,
+  "cells": 188,
+  "form": "Monarchy",
+  "formName": "Duchy",
+  "fullName": "Blasia",
+  "campaigns": [
+    {
+      "name": "Horningthnian Rebellion",
+      "start": 308,
+      "end": 311
+    },
+    {
+      "name": "Congtonese Rebellion",
+      "start": 490,
+      "end": 491
+    },
+    {
+      "name": "Penkhamian Campaign",
+      "start": 495,
+      "end": 507
+    },
+    {
+      "name": "Bolteran Campaign",
+      "start": 504,
+      "end": 508
+    },
+    {
+      "name": "Horningthian Conquest",
+      "start": 516,
+      "end": 518
+    },
+    {
+      "name": "Rockinghamian War",
+      "start": 537,
+      "end": 543
+    },
+    {
+      "name": "Causmouthian Rebellion",
+      "start": 544,
+      "end": 552
+    },
+    {
+      "name": "Olingdonian Rebellion",
+      "start": 545,
+      "end": 549
+    },
+    {
+      "name": "Cliford War",
+      "start": 606,
+      "end": 624
+    },
+    {
+      "name": "Newbury Rebellion",
+      "start": 635,
+      "end": 639
+    },
+    {
+      "name": "Stotfordian Conflict",
+      "start": 694,
+      "end": 699
+    }
+  ]
+}

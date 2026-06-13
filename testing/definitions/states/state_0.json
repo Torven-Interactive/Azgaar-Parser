@@ -1,0 +1,810 @@
+{
+  "i": 0,
+  "name": "Neutrals",
+  "neighbors": [
+    75,
+    74,
+    77,
+    58,
+    72,
+    110,
+    109,
+    76,
+    78,
+    70,
+    73,
+    59,
+    103,
+    57,
+    67,
+    66,
+    61,
+    54,
+    79,
+    80,
+    60,
+    71,
+    68,
+    62
+  ],
+  "diplomacy": [
+    [
+      "Relations change",
+      "Kilknethia-Buckingrian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Gatrinchia-Buckingrian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Hathamia-Buckingrian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Mertonrithia-Buckingrian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Louthwark-Buckingrian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Paigndenia-Buckingrian relations changed to friendly"
+    ],
+    [
+      "Rivalization",
+      "Newbury and Buckingria became rivals"
+    ],
+    [
+      "Rivalization",
+      "Penkhamia and Buckingria became rivals"
+    ],
+    [
+      "Rivalization",
+      "Rockinghamia and Buckingria became rivals"
+    ],
+    [
+      "Rivalization",
+      "Bolter and Buckingria became rivals"
+    ],
+    [
+      "Rivalization",
+      "Fasingshamia and Buckingria became rivals"
+    ],
+    [
+      "Relations change",
+      "Olingdonia-Buckingrian relations changed to friendly"
+    ],
+    [
+      "Rivalization",
+      "Fasingshamia and Blasia became rivals"
+    ],
+    [
+      "Relations change",
+      "Olingdonia-Blasian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Gatrinchia-Blasian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Hathamia-Blasian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Mertonrithia-Blasian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Louthwark-Blasian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Paigndenia-Blasian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Kilknethia-Blasian relations changed to friendly"
+    ],
+    [
+      "Rivalization",
+      "Horningthnia and Blasia became rivals"
+    ],
+    [
+      "Rivalization",
+      "Chistole and Blasia became rivals"
+    ],
+    [
+      "Rivalization",
+      "Bridgia and Blasia became rivals"
+    ],
+    [
+      "Defence pact",
+      "Nalvenia entered into defensive pact with Stotfordia"
+    ],
+    [
+      "War declaration",
+      "Blasia declared a war on its enemy Nalvenia"
+    ],
+    [
+      "War declaration",
+      "Buckingria declared a war on its enemy Nalvenia"
+    ],
+    [
+      "Rivalization",
+      "Mamerlanford and Nalvenia became rivals"
+    ],
+    [
+      "Rivalization",
+      "Retonbeck and Nalvenia became rivals"
+    ],
+    [
+      "Rivalization",
+      "Castoncinia and Nalvenia became rivals"
+    ],
+    [
+      "Rivalization",
+      "Kilkneth and Nalvenia became rivals"
+    ],
+    [
+      "Rivalization",
+      "Masefield and Nalvenia became rivals"
+    ],
+    [
+      "Rivalization",
+      "Cliford and Nalvenia became rivals"
+    ],
+    [
+      "Rivalization",
+      "Causmouthia and Nalvenia became rivals"
+    ],
+    [
+      "Rivalization",
+      "Midgia and Nalvenia became rivals"
+    ],
+    [
+      "Rivalization",
+      "Horningthnia and Nalvenia became rivals"
+    ],
+    [
+      "Relations change",
+      "Horningthia-Nalvenian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Horningthnia-Nalvenian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Chistole-Nalvenian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Bridgia-Nalvenian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Bolter-Nalvenian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Rockinghamia-Nalvenian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Penkhamia-Nalvenian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Newbury-Nalvenian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Fasingshamia-Nalvenian relations changed to friendly"
+    ],
+    [
+      "Rivalization",
+      "Gatrinchia and Nalvenia became rivals"
+    ],
+    [
+      "Rivalization",
+      "Hathamia and Nalvenia became rivals"
+    ],
+    [
+      "Rivalization",
+      "Kilknethia and Nalvenia became rivals"
+    ],
+    [
+      "Rivalization",
+      "Mertonrithia and Nalvenia became rivals"
+    ],
+    [
+      "Rivalization",
+      "Louthwark and Nalvenia became rivals"
+    ],
+    [
+      "Rivalization",
+      "Paigndenia and Nalvenia became rivals"
+    ],
+    [
+      "Rivalization",
+      "Olingdonia and Nalvenia became rivals"
+    ],
+    [
+      "Defence pact",
+      "Penkhamia entered into defensive pact with Westcheap"
+    ],
+    [
+      "Defence pact",
+      "Sidmanch entered into defensive pact with Westcheap"
+    ],
+    [
+      "Defence pact",
+      "Gatrinchia entered into defensive pact with Westcheap"
+    ],
+    [
+      "War declaration",
+      "Alseavesia declared a war on its enemy Westcheap"
+    ],
+    [
+      "War declaration",
+      "Rethersteria declared a war on its enemy Westcheap"
+    ],
+    [
+      "War declaration",
+      "Rockinghamia declared a war on its enemy Westcheap"
+    ],
+    [
+      "Defence pact",
+      "Rockinghamia entered into defensive pact with Alseavesia"
+    ],
+    [
+      "Defence pact",
+      "Rethersteria entered into defensive pact with Alseavesia"
+    ],
+    [
+      "Relations change",
+      "Bolter-Alseavesian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Penkhamia-Alseavesian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Blasia-Alseavesian relations changed to suspicion"
+    ],
+    [
+      "Relations change",
+      "Stotfordia-Alseavesian relations changed to suspicion"
+    ],
+    [
+      "Relations change",
+      "Fasingshamia-Alseavesian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Newbury-Alseavesian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Dundendo-Alseavesian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Tetburia-Alseavesian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Cardenta-Alseavesian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Axbrighia-Alseavesian relations changed to suspicion"
+    ],
+    [
+      "Relations change",
+      "Buckingria-Alseavesian relations changed to suspicion"
+    ],
+    [
+      "Relations change",
+      "Nalvenia-Alseavesian relations changed to suspicion"
+    ],
+    [
+      "Relations change",
+      "Westhersbo-Alseavesian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Bridhurst-Alseavesian relations changed to friendly"
+    ],
+    [
+      "War declaration",
+      "Sidmanch declared a war on its enemy Alseavesia"
+    ],
+    [
+      "War declaration",
+      "Penkhamia declared a war on its enemy Alseavesia"
+    ],
+    [
+      "Relations change",
+      "Sidmanch-Boltish relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Northesteria-Boltish relations changed to friendly"
+    ],
+    [
+      "Defence pact",
+      "Rockinghamia entered into defensive pact with Bolter"
+    ],
+    [
+      "Relations change",
+      "Penkhamia-Bolter relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Rethersteria-Bolter relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Axbrighia-Boltish relations changed to suspicion"
+    ],
+    [
+      "Relations change",
+      "Westcheap-Boltish relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Newbury-Bolter relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Fasingshamia-Bolteran relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Olingdonia-Boltish relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Gatrinchia-Bolteran relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Hathamia-Bolter relations changed to friendly"
+    ],
+    [
+      "War declaration",
+      "Seasingster declared a war on its enemy Bolter"
+    ],
+    [
+      "Relations change",
+      "Westhersbo-Bolteran relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Bridhurst-Bolteran relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Manchia-Bolteran relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Knagelia-Bolteran relations changed to friendly"
+    ],
+    [
+      "War declaration",
+      "Knutsin declared a war on its enemy Bolter"
+    ],
+    [
+      "Relations severance",
+      "Hatfordia recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Quathe recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Maltonteria recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Thethamnia recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations change",
+      "Thethamnia-Bolteran relations changed to neutral"
+    ],
+    [
+      "Relations severance",
+      "Framptondal recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Horswest recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Winkhamp recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Bingraleso recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Congia recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Gathambia recalled their ambassadors and wiped all the records about Congia"
+    ],
+    [
+      "Relations change",
+      "Gathambia-Congian relations changed to neutral"
+    ],
+    [
+      "Relations severance",
+      "Gathambia recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Whitbutia recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Balsearesbu recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Axbridgia recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Foroughinia recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Reafordmin recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Macheapia recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Saringlia recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Birbotesia recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Broreteria recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations severance",
+      "Dardendonia recalled their ambassadors and wiped all the records about Bolter"
+    ],
+    [
+      "Relations change",
+      "Sidmanch-Rockinghamian relations changed to friendly"
+    ],
+    [
+      "Defence pact",
+      "Rethersteria entered into defensive pact with Rockinghamia"
+    ],
+    [
+      "War declaration",
+      "Penkhamia declared a war on its enemy Rockinghamia"
+    ],
+    [
+      "War declaration",
+      "Sidmanch declared a war on its enemy Rockinghamia"
+    ],
+    [
+      "Relations change",
+      "Newbury-Rockinghamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Fasingshamia-Rockinghamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Northesteria-Rockinghamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Manchia-Rockinghamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Knagelia-Rockinghamian relations changed to friendly"
+    ],
+    [
+      "War declaration",
+      "Seasingster declared a war on its enemy Rockinghamia"
+    ],
+    [
+      "War declaration",
+      "Knutsin declared a war on its enemy Rockinghamia"
+    ],
+    [
+      "Relations change",
+      "Bridhurst-Rockinghamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Westhersbo-Rockinghamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Axbrighia-Rockinghamian relations changed to suspicion"
+    ],
+    [
+      "Relations change",
+      "Cardenta-Rockinghamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Tetburia-Rockinghamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Dundendo-Rockinghamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Olingdonia-Rockinghamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Gatrinchia-Rockinghamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Hathamia-Rockinghamian relations changed to friendly"
+    ],
+    [
+      "War declaration",
+      "Rethersteria declared a war on its enemy Penkhamia"
+    ],
+    [
+      "Defence pact",
+      "Sidmanch entered into defensive pact with Penkhamia"
+    ],
+    [
+      "Relations change",
+      "Olingdonia-Penkhamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Gatrinchia-Penkhamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Hathamia-Penkhamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Newbury-Penkhamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Fasingshamia-Penkhamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Horningthia-Penkhamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Midgia-Penkhamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Causmouthia-Penkhamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Dundendo-Penkhamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Tetburia-Penkhamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Cardenta-Penkhamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Axbrighia-Penkhamian relations changed to suspicion"
+    ],
+    [
+      "Relations change",
+      "Westhersbo-Penkhamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Bridhurst-Penkhamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Manchia-Penkhamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Northesteria-Penkhamian relations changed to friendly"
+    ],
+    [
+      "Relations change",
+      "Knagelia-Penkhamian relations changed to friendly"
+    ],
+    [
+      "Relations severance",
+      "Hatfordia recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Quathe recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Maltonteria recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Framptondal recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Horswest recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Bingraleso recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Winkhamp recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Congia recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Gathambia recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Balsearesbu recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Whitbutia recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Axbridgia recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Foroughinia recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Reafordmin recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Birbotesia recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Broreteria recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Macheapia recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Dardendonia recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Saringlia recalled their ambassadors and wiped all the records about Rockinghamia"
+    ],
+    [
+      "Relations severance",
+      "Winkhamp recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Quathe recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Hatfordia recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Maltonteria recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Framptondal recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Horswest recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Bingraleso recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Gathambia recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Congia recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Balsearesbu recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Whitbutia recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Axbridgia recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Foroughinia recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Reafordmin recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Birbotesia recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Broreteria recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Dardendonia recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Macheapia recalled their ambassadors and wiped all the records about Penkhamia"
+    ],
+    [
+      "Relations severance",
+      "Saringlia recalled their ambassadors and wiped all the records about Penkhamia"
+    ]
+  ],
+  "urban": 0,
+  "rural": 0,
+  "burgs": 0,
+  "area": 0,
+  "cells": 0,
+  "provinces": []
+}
