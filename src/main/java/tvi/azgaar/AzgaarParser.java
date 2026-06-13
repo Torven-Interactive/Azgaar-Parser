@@ -25,6 +25,9 @@ public class AzgaarParser {
 
     private int loadingSteps = 0;
 
+    private List<MapNode> loadedNodes = new ArrayList<>();
+    private List<State> loadedStates = new ArrayList<>();
+    private List<Culture> loadedCultures = new ArrayList<>();
 
     public AzgaarParser(String in, String out) {
         this.inputPath = in;
@@ -95,11 +98,6 @@ public class AzgaarParser {
         System.out.println("🤖 [Azgaar Parser] Initiating sequential master dataset hydration pipeline...");
 
         // Explicitly reset our gate counter to step 0 before reading files
-
-        // Local workspace collection buckets
-        List<MapNode> loadedNodes = new ArrayList<>();
-        List<State> loadedStates = new ArrayList<>();
-        List<Culture> loadedCultures = new ArrayList<>();
 
         while (loadingSteps <= 2) {
             switch (loadingSteps) {
@@ -211,5 +209,17 @@ public class AzgaarParser {
             e.printStackTrace();
         }
         return masterVisualNodes;
+    }
+
+    public List<MapNode> getLoadedNodes() {
+        return loadedNodes;
+    }
+
+    public List<State> getLoadedStates() {
+        return loadedStates;
+    }
+
+    public List<Culture> getLoadedCultures() {
+        return loadedCultures;
     }
 }
