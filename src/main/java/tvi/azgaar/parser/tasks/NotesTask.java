@@ -22,13 +22,9 @@ public class NotesTask implements Task {
                     return new JsonArray();
                 }
                 JsonArray notesArray = root.getAsJsonArray("notes");
-
-                JsonObject notesOutput = new JsonObject();
-                notesOutput.add("notes", notesArray);
-
                 System.out.println("🟢 [NotesTask Success] Extracted root-level history and lore notes");
 
-                return notesOutput;
+                return notesArray;
             }
         } catch (Exception e) {
             System.err.println("🔴 [NotesTask Failure] Encountered an unhandled exception during extraction loop!");

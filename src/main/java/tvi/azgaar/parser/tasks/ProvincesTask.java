@@ -26,13 +26,9 @@ public class ProvincesTask extends ExtendedTask {
                     return new JsonArray();
                 }
                 JsonArray provincesArray = pack.getAsJsonArray("provinces");
-
-                JsonObject provincesOutput = new JsonObject();
-                provincesOutput.add("provinces", provincesArray);
-
                 System.out.println("🟢 [ProvincesTask Success] Extracted sub-state provincial systems");
 
-                return provincesOutput;
+                return provincesArray;
             }
         } catch (Exception e) {
             e.printStackTrace();

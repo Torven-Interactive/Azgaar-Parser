@@ -37,16 +37,10 @@ public class MilitaryTask extends ExtendedTask {
                     return new JsonArray();
                 }
 
-                // Extract the raw military array data segment
                 JsonArray militaryArray = options.getAsJsonArray("military");
-
-                // Wrap it securely into a clean, flat root structure
-                JsonObject militaryOutput = new JsonObject();
-                militaryOutput.add("military", militaryArray);
-
                 System.out.println("🟢 [MilitaryTask Success] Extracted army configurations registry");
 
-                return militaryOutput;
+                return militaryArray;
             }
         } catch (Exception e) {
             System.err.println("🔴 [MilitaryTask Failure] Encountered an unhandled exception during extraction loop!");

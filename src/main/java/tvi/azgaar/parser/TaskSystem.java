@@ -1,8 +1,6 @@
 package tvi.azgaar.parser;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import com.google.gson.JsonObject;
+import com.google.gson.*;
 import tvi.azgaar.parser.models.geography.MapNode;
 import tvi.azgaar.parser.models.geopol.State;
 import tvi.azgaar.parser.models.linguistic.Culture;
@@ -10,13 +8,12 @@ import tvi.azgaar.parser.tasks.*;
 
 import java.io.File;
 import java.io.FileWriter;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
 public class TaskSystem {
     private final HashMap<String, Task> tasks;
-    private int loadingSteps = 0;
-
     private final Gson prettyGson = new GsonBuilder().setPrettyPrinting().create();
 
     public TaskSystem() {
@@ -41,48 +38,94 @@ public class TaskSystem {
     public Task getTask(String key) {
         return tasks.get(key);
     }
+
     // 🔄 Layer 1: Geography Compilation (loadSteps = 0)
     public void compileGeographyLayer(String inputPath, String outputPath) {
         System.out.println("📐 [TaskSystem] Compiling Layer 1: Geography...");
         JsonObject mapOutput = new JsonObject();
-
         mapOutput.add("biomes", tasks.get("BIOMES").execute(inputPath));
         mapOutput.add("nodes", tasks.get("MESH").execute(inputPath));
         mapOutput.add("rivers", tasks.get("RIVERS").execute(inputPath));
         mapOutput.add("features", tasks.get("FEATURES").execute(inputPath));
         mapOutput.add("routes", tasks.get("ROUTES").execute(inputPath));
-
         // Fixed: Writes directly into the flat Azgaar Parser folder with no sub-directories
         writeJsonToFile(mapOutput, outputPath + "map.json");
     }
 
     // 🔄 Layer 2: Geopolitics Compilation (loadSteps = 1)
-    public void compileGeopoliticsLayer(String inputPath, String outputPath) {
+    public void compileGeopoliticsLayer(String inputPath, String outputPath, boolean isSplit) {
         System.out.println("👑 [TaskSystem] Compiling Layer 2: Geopolitics...");
-        JsonObject statesOutput = new JsonObject();
 
-        // Fixed: Uses the clean, matching pluralized "STATES" key string
-        statesOutput.add("states", tasks.get("STATES").execute(inputPath));
-        statesOutput.add("provinces", tasks.get("PROVINCES").execute(inputPath));
-        statesOutput.add("zones", tasks.get("ZONES").execute(inputPath));
-        statesOutput.add("military", tasks.get("MILITARY").execute(inputPath));
-        statesOutput.add("burgs", tasks.get("BURGS").execute(inputPath));
+        // Grab the raw data structures from your registered tasks
+        JsonElement statesData = tasks.get("STATES").execute(inputPath);
+        JsonElement provincesData = tasks.get("PROVINCES").execute(inputPath);
+        JsonElement zonesData = tasks.get("ZONES").execute(inputPath);
+        JsonElement militaryData = tasks.get("MILITARY").execute(inputPath);
+        JsonElement burgsData = tasks.get("BURGS").execute(inputPath);
 
-        writeJsonToFile(statesOutput, outputPath + "states.json");
+        if (!isSplit) {
+            // --- SINGLE FILE MODE ---
+            JsonObject statesOutput = new JsonObject();
+            statesOutput.add("states", statesData);
+            statesOutput.add("provinces", provincesData);
+            statesOutput.add("zones", zonesData);
+            statesOutput.add("military", militaryData);
+            statesOutput.add("burgs", burgsData);
+
+            writeJsonToFile(statesOutput, outputPath + "states.json");
+        } else {
+            // --- MULTI-FILE SPLIT MODE ---
+            // Create the subfolder: definitions/states/
+            String statesFolder = outputPath + "states" + File.separator;
+            new File(statesFolder).mkdirs();
+
+            int activeCount = 0;
+
+            // Safe conversion check to unpack the array of states
+            if (statesData != null && statesData.isJsonArray()) {
+                JsonArray statesArray = statesData.getAsJsonArray();
+                for (int i = 0; i < statesArray.size(); i++) {
+                    // Safety 1: Skip if the index slot is completely blank in Azgaar's array
+                    if (statesArray.get(i).isJsonNull()) continue;
+
+                    JsonObject singleState = statesArray.get(i).getAsJsonObject();
+
+                    // Safety 2: Skip if Azgaar flags the state as removed/deleted in the data sheet
+                    if (singleState.has("removed") && singleState.get("removed").getAsBoolean()) continue;
+
+                    // Safety 3: Skip Index 0 / Neutral unassigned territory if you don't want it as a playable country
+                    if (singleState.has("name") && singleState.get("name").getAsString().equalsIgnoreCase("unassigned")) continue;
+
+                    // Pull a unique ID property field to form the filename
+                    String stateId = singleState.has("id") ? "state_" + singleState.get("id").getAsString() : "state_" + i;
+
+                    writeJsonToFile(singleState, statesFolder + stateId + ".json");
+                    activeCount++;
+                }
+                System.out.println("🔀 [TaskSystem] Split exported " + activeCount + " active state JSONs (Filtered out phantom placeholders).");
+            }
+
+            // The remaining core data categories stay grouped together in a base file
+            JsonObject remainderOutput = new JsonObject();
+            remainderOutput.add("provinces", provincesData);
+            remainderOutput.add("zones", zonesData);
+            remainderOutput.add("military", militaryData);
+            remainderOutput.add("burgs", burgsData);
+
+            writeJsonToFile(remainderOutput, outputPath + "geopolitics_remainder.json");
+        }
     }
 
     // 🔄 Layer 3: Society/Linguistics Compilation (loadSteps = 2)
     public void compileSocietyLayer(String inputPath, String outputPath) {
         System.out.println("🔤 [TaskSystem] Compiling Layer 3: Society & Linguistics...");
         JsonObject societyOutput = new JsonObject();
-
         // Fixed: Keys align completely with the upper plural registrations
         societyOutput.add("cultures", tasks.get("CULTURES").execute(inputPath));
         societyOutput.add("religions", tasks.get("RELIGIONS").execute(inputPath));
         societyOutput.add("nameBases", tasks.get("NAMEBASES").execute(inputPath));
         societyOutput.add("notes", tasks.get("NOTES").execute(inputPath));
         societyOutput.add("markets", tasks.get("MARKERS").execute(inputPath));
-
         writeJsonToFile(societyOutput, outputPath + "society.json");
         System.out.println("🟢 [TaskSystem Success] All 3 data compilation layers successfully baked!");
     }
@@ -91,25 +134,47 @@ public class TaskSystem {
     public List<MapNode> loadGeographyLayer(String outputPath) {
         System.out.println("📥 [TaskSystem] Loading Layer 1: Geography & Cell Properties...");
         String mapPath = outputPath + "map.json";
-
         // MeshTask.load returns your fully hydrated List<MapNode> containing all your property bags!
         MeshTask meshTask = (MeshTask) tasks.get("MESH");
         List<MapNode> masterNodes = (List<MapNode>) meshTask.load(mapPath);
-
-        loadingSteps = 1; // Explicitly advance checkpoint to step 1
         return masterNodes;
     }
 
     // 📥 Layer 2: Geopolitics Ingestion (loadSteps = 1)
     public List<State> loadGeopoliticsLayer(String outputPath) {
         System.out.println("📥 [TaskSystem] Loading Layer 2: Geopolitics...");
-        String statesPath = outputPath + "states.json";
-
-        // StateTask.load handles reading the clean state arrays
+        List<State> masterStates = new ArrayList<>();
         StateTask stateTask = (StateTask) tasks.get("STATES");
-        List<State> masterStates = (List<State>) stateTask.load(statesPath);
 
-        loadingSteps = 2; // Explicitly advance checkpoint to step 2
+        // Point directly to the split folder location
+        File splitStatesFolder = new File(outputPath + "states");
+
+        // --- AUTOMATIC FORMAT SELECTION ---
+        if (splitStatesFolder.exists() && splitStatesFolder.isDirectory()) {
+            System.out.println("📂 [TaskSystem] Split Mode Detected. Reconstructing states dataset from directory...");
+
+            File[] individualFiles = splitStatesFolder.listFiles((dir, name) -> name.toLowerCase().endsWith(".json"));
+            if (individualFiles != null) {
+                for (File file : individualFiles) {
+                    // Pass each individual file path down to your existing task loader method
+                    Object loadedResult = stateTask.load(file.getAbsolutePath());
+
+                    // Handle whatever output shape your custom load logic returns (List or single Object)
+                    if (loadedResult instanceof List) {
+                        masterStates.addAll((List<State>) loadedResult);
+                    } else if (loadedResult instanceof State) {
+                        masterStates.add((State) loadedResult);
+                    }
+                }
+            }
+        } else {
+            // Fallback: Read straight from your original single flat file layout
+            String statesPath = outputPath + "states.json";
+            System.out.println("📄 [TaskSystem] Single File Mode Detected. Hydrating from: " + statesPath);
+
+            masterStates = (List<State>) stateTask.load(statesPath);
+        }
+
         return masterStates;
     }
 
@@ -117,12 +182,9 @@ public class TaskSystem {
     public List<Culture> loadSocietyLayer(String outputPath) {
         System.out.println("📥 [TaskSystem] Loading Layer 3: Society & Linguistics...");
         String societyPath = outputPath + "society.json";
-
         // CultureTask.load handles reading the clean culture arrays
         CultureTask cultureTask = (CultureTask) tasks.get("CULTURES");
         List<Culture> masterCultures = (List<Culture>) cultureTask.load(societyPath);
-
-        loadingSteps = 3; // Gate completely cleared!
         System.out.println("🟢 [TaskSystem Success] All 3 data layers successfully hydrated from your JSON products!");
         return masterCultures;
     }

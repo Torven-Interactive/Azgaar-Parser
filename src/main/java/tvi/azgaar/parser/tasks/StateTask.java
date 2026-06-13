@@ -53,36 +53,46 @@ public class StateTask extends ExtendedTask {
         try (FileReader reader = new FileReader(inputPath)) {
             JsonObject root = JsonParser.parseReader(reader).getAsJsonObject();
 
-            // Symmetrical: Grabs the single root "states" array key directly from the flat file
+            // --- FORMAT A: Single File Layout ---
+            // If it has the nested "states" array key, extract the array list
             if (root.has("states") && root.get("states").isJsonArray()) {
                 JsonArray statesArray = root.getAsJsonArray("states");
-
                 for (JsonElement elem : statesArray) {
-                    if (elem == null || elem.isJsonNull()) {
-                        continue;
-                    }
+                    if (elem == null || elem.isJsonNull()) continue;
 
                     JsonObject stateJson = elem.getAsJsonObject();
-                    State stateObj = new State();
-
-                    // Directly pull values to cleanly map your object properties
-                    if (stateJson.has("i")) {
-                        stateObj.setId(stateJson.get("i").getAsInt());
-                    }
-                    if (stateJson.has("name")) {
-                        stateObj.setName(stateJson.get("name").getAsString());
-                    }
-                    if (stateJson.has("color")) {
-                        stateObj.setColor(stateJson.get("color").getAsString());
-                    }
-
+                    State stateObj = loadSingleState(stateJson);
                     activeStates.add(stateObj);
                 }
             }
+            // --- FORMAT B: Split File Layout ---
+            // If it doesn't have the array wrapper but has the core ID key "i", it's a standalone state!
+            else if (root.has("i") || root.has("name")) {
+                State stateObj = loadSingleState(root);
+                activeStates.add(stateObj);
+            }
+
         } catch (Exception e) {
-            System.err.println("🔴 [StateTask Loader Error] Failed to read flat state arrays.");
+            System.err.println("🔴 [StateTask Loader Error] Failed to read state data structure.");
             e.printStackTrace();
         }
         return activeStates;
+    }
+
+    /**
+     * Clean helper to pull out primitive values and cleanly map properties.
+     */
+    private State loadSingleState(JsonObject stateJson) {
+        State stateObj = new State();
+        if (stateJson.has("i")) {
+            stateObj.setId(stateJson.get("i").getAsInt());
+        }
+        if (stateJson.has("name")) {
+            stateObj.setName(stateJson.get("name").getAsString());
+        }
+        if (stateJson.has("color")) {
+            stateObj.setColor(stateJson.get("color").getAsString());
+        }
+        return stateObj;
     }
 }

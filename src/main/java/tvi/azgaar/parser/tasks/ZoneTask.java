@@ -31,14 +31,9 @@ public class ZoneTask implements Task {
                     return new JsonArray();
                 }
                 JsonArray zonesArray = pack.getAsJsonArray("zones");
-
-                // Wrap it securely into a clean, flat root structure
-                JsonObject zoneOutput = new JsonObject();
-                zoneOutput.add("zones", zonesArray);
-
                 System.out.println("🟢 [ZoneTask Success] Extracted regional zones database array");
 
-                return zoneOutput;
+                return zonesArray;
             }
         } catch (Exception e) {
             System.err.println("🔴 [ZoneTask Failure] Encountered an unhandled exception during extraction loop!");

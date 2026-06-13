@@ -31,7 +31,7 @@ public class AzgaarParser {
 
     public AzgaarParser(String in, String out) {
         this.inputPath = in;
-        this.outputPath = out + File.separator + "Azgaar Parser" + File.separator;
+        this.outputPath = out + File.separator + "definitions" + File.separator;
 
         if (!new File(outputPath).exists()) {
             try {
@@ -49,7 +49,7 @@ public class AzgaarParser {
         return taskSystem;
     }
 
-    public void parse() {
+    public void parse(boolean isSplit) {
         while(loadingSteps <= 2) {
             File rawFile = new File(inputPath);
             if (!rawFile.exists()) {
@@ -69,7 +69,7 @@ public class AzgaarParser {
 
                 // 🔄 STEP 1: Build the Nested Faction and Geopolitical Ownership Layer
                 if (this.loadingSteps == 1) {
-                    taskSystem.compileGeopoliticsLayer(inputPath, outputPath);
+                    taskSystem.compileGeopoliticsLayer(inputPath, outputPath, isSplit);
 
                     System.gc();
                     loadingSteps++;

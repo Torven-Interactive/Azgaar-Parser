@@ -22,13 +22,9 @@ public class NameBasesTask extends ExtendedTask {
                     return new JsonArray();
                 }
                 JsonArray nameBasesArray = root.getAsJsonArray("nameBases");
-
-                JsonObject nameBasesOutput = new JsonObject();
-                nameBasesOutput.add("nameBases", nameBasesArray);
-
                 System.out.println("🟢 [NameBasesTask Success] Extracted root linguistic data profiles");
 
-                return nameBasesOutput;
+                return nameBasesArray;
             }
         } catch (Exception e) {
             System.err.println("🔴 [NameBasesTask Failure] Encountered an unhandled exception during extraction loop!");

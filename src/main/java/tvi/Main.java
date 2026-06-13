@@ -8,7 +8,10 @@ public class Main {
         String json ="azgaar.json";
 
         AzgaarParser parser = new AzgaarParser(testing + json, testing);
-        parser.parse();
+        parser.parse(true);
+        parser.loadWorldData();
+
+        parser.parse(false);
         parser.loadWorldData();
     }
 }

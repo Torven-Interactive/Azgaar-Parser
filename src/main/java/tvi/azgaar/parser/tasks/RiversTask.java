@@ -30,13 +30,9 @@ public class RiversTask extends ExtendedTask {
                     return new JsonArray();
                 }
                 JsonArray riversArray = pack.getAsJsonArray("rivers");
-
-                JsonObject riversOutput = new JsonObject();
-                riversOutput.add("rivers", riversArray);
-
                 System.out.println("🟢 [RiversTask Success] Extracted river flow networks");
 
-                return riversOutput;
+                return riversArray;
             }
         } catch (Exception e) {
             System.err.println("🔴 [RiversTask Failure] Encountered an unhandled exception during extraction loop!");

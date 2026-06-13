@@ -30,14 +30,9 @@ public class RoutesTask implements Task {
 
                 // Extract the raw routes array segment
                 JsonArray routesArray = pack.getAsJsonArray("routes");
-
-                // Wrap it securely into a clean, flat root routes document layer for modding
-                JsonObject routesOutput = new JsonObject();
-                routesOutput.add("routes", routesArray);
-
                 System.out.println("🟢 [RoutesTask Success] Extracted commercial routes registry");
 
-                return routesOutput;
+                return routesArray;
             }
 
         } catch (Exception e) {
