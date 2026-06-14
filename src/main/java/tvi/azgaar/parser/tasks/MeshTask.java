@@ -58,6 +58,13 @@ public class MeshTask extends ExtendedTask {
             JsonArray compiledCells = new JsonArray();
             for (JsonElement cellElem : cells) {
                 JsonObject cell = cellElem.getAsJsonObject();
+
+                // 🌟 THE BORDER CELL DISCARD HOOK
+                // Check if the cell contains the border flag "b" and if it is active (1)
+                if (cell.has("b") && cell.get("b").getAsInt() == 1) {
+                    continue; // Discard edge-frame cells entirely!
+                }
+                
                 JsonObject bakedCell = new JsonObject();
 
                 // Map clean primitive values matching your design parameters
