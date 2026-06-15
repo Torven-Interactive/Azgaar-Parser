@@ -4,7 +4,7 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import tvi.azgaar.parser.TaskSystem;
-import tvi.azgaar.parser.models.geography.MapNode;
+import tvi.azgaar.parser.models.geography.Cell;
 import tvi.azgaar.parser.models.geopol.State;
 import tvi.azgaar.parser.models.linguistic.Culture;
 
@@ -25,7 +25,7 @@ public class AzgaarParser {
 
     private int loadingSteps = 0;
 
-    private List<MapNode> loadedNodes = new ArrayList<>();
+    private List<Cell> loadedNodes = new ArrayList<>();
     private List<State> loadedStates = new ArrayList<>();
     private List<Culture> loadedCultures = new ArrayList<>();
 
@@ -136,8 +136,8 @@ public class AzgaarParser {
         // From here, your engine can map these datasets straight into your active game loops!
     }
 
-    public List<MapNode> loadOrganicAzgaarMap(String gameDataPath) {
-        List<MapNode> masterVisualNodes = new ArrayList<>();
+    public List<Cell> loadOrganicAzgaarMap(String gameDataPath) {
+        List<Cell> masterVisualNodes = new ArrayList<>();
         String filePath = gameDataPath + "data" + File.separator + "definitions" + File.separator + "world_map_data.json";
         File file = new File(filePath);
 
@@ -192,7 +192,7 @@ public class AzgaarParser {
                 }
 
                 // Instantiates the concrete engine class directly!
-                MapNode cellTile = new MapNode(
+                Cell cellTile = new Cell(
                         "CELL_" + cellId, centerX, centerY, organicPolygon, targetHexColor
                 );
                 cellTile.setLabelName(polityName);
@@ -211,7 +211,7 @@ public class AzgaarParser {
         return masterVisualNodes;
     }
 
-    public List<MapNode> getLoadedNodes() {
+    public List<Cell> getLoadedNodes() {
         return loadedNodes;
     }
 

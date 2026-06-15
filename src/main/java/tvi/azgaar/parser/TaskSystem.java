@@ -1,7 +1,7 @@
 package tvi.azgaar.parser;
 
 import com.google.gson.*;
-import tvi.azgaar.parser.models.geography.MapNode;
+import tvi.azgaar.parser.models.geography.Cell;
 import tvi.azgaar.parser.models.geopol.State;
 import tvi.azgaar.parser.models.linguistic.Culture;
 import tvi.azgaar.parser.tasks.*;
@@ -131,12 +131,12 @@ public class TaskSystem {
     }
 
     // 📥 Layer 1: Geography & Property Ingestion (loadSteps = 0)
-    public List<MapNode> loadGeographyLayer(String outputPath) {
+    public List<Cell> loadGeographyLayer(String outputPath) {
         System.out.println("📥 [TaskSystem] Loading Layer 1: Geography & Cell Properties...");
         String mapPath = outputPath + "map.json";
         // MeshTask.load returns your fully hydrated List<MapNode> containing all your property bags!
         MeshTask meshTask = (MeshTask) tasks.get("MESH");
-        List<MapNode> masterNodes = (List<MapNode>) meshTask.load(mapPath);
+        List<Cell> masterNodes = (List<Cell>) meshTask.load(mapPath);
         return masterNodes;
     }
 

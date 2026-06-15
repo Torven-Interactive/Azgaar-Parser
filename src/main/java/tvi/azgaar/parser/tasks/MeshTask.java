@@ -2,9 +2,8 @@ package tvi.azgaar.parser.tasks;
 
 import com.google.gson.*;
 import tvi.azgaar.parser.ExtendedTask;
-import tvi.azgaar.parser.models.geography.MapNode;
+import tvi.azgaar.parser.models.geography.Cell;
 
-import java.awt.*;
 import java.io.File;
 import java.io.FileReader;
 import java.util.ArrayList;
@@ -64,7 +63,7 @@ public class MeshTask extends ExtendedTask {
                 if (cell.has("b") && cell.get("b").getAsInt() == 1) {
                     continue; // Discard edge-frame cells entirely!
                 }
-                
+
                 JsonObject bakedCell = new JsonObject();
 
                 // Map clean primitive values matching your design parameters
@@ -124,7 +123,7 @@ public class MeshTask extends ExtendedTask {
     @Override
     public Object load(String inputPath) {
         System.out.println("📐 [MeshTask Master Loader] Reconstructing map nodes and properties...");
-        List<MapNode> fullyHydratedNodes = new ArrayList<>();
+        List<Cell> fullyHydratedNodes = new ArrayList<>();
 
         // Correct parent container directory pathing context
         File currentFile = new File(inputPath);
@@ -196,7 +195,7 @@ public class MeshTask extends ExtendedTask {
                 }
 
                 // Instantiate your actual core engine class tile
-                MapNode cellTile = new MapNode("CELL_" + cellId, centerX, centerY, polygon, "#4E8752");
+                Cell cellTile = new Cell("CELL_" + cellId, centerX, centerY, polygon, "#4E8752");
                 cellTile.setLabelName("Terra Incognita");
 
                 // Assign raw cell properties
