@@ -42,91 +42,38 @@ public class TaskSystem {
     // 🔄 Layer 1: Geography Compilation (loadSteps = 0)
     public void compileGeographyLayer(String inputPath, String outputPath) {
         System.out.println("📐 [TaskSystem] Compiling Layer 1: Geography...");
-        JsonObject mapOutput = new JsonObject();
-        mapOutput.add("biomes", tasks.get("BIOMES").execute(inputPath));
-        mapOutput.add("nodes", tasks.get("MESH").execute(inputPath));
-        mapOutput.add("rivers", tasks.get("RIVERS").execute(inputPath));
-        mapOutput.add("features", tasks.get("FEATURES").execute(inputPath));
-        mapOutput.add("routes", tasks.get("ROUTES").execute(inputPath));
-        // Fixed: Writes directly into the flat Azgaar Parser folder with no sub-directories
-        writeJsonToFile(mapOutput, outputPath + "map.json");
+        writeJsonToFile((JsonObject) tasks.get("BIOMES").execute(inputPath), outputPath + "biomes.json");
+        writeJsonToFile((JsonObject) tasks.get("MESH").execute(inputPath), outputPath + "map.json");
+        writeJsonToFile((JsonObject) tasks.get("RIVERS").execute(inputPath), outputPath + "rivers.json");
+        writeJsonToFile((JsonObject) tasks.get("FEATURES").execute(inputPath), outputPath + "features.json");
+        writeJsonToFile((JsonObject) tasks.get("ROUTES").execute(inputPath), outputPath + "routes.json");
+        writeJsonToFile((JsonObject) tasks.get("MARKERS").execute(inputPath), outputPath + "markers.json");
+        /*  JsonObject mapOutput = new JsonObject();
+            mapOutput.add("biomes", tasks.get("BIOMES").execute(inputPath));
+            mapOutput.add("nodes", tasks.get("MESH").execute(inputPath));
+            mapOutput.add("rivers", tasks.get("RIVERS").execute(inputPath));
+            mapOutput.add("features", tasks.get("FEATURES").execute(inputPath));
+            mapOutput.add("routes", tasks.get("ROUTES").execute(inputPath));*/
     }
 
     // 🔄 Layer 2: Geopolitics Compilation (loadSteps = 1)
-    public void compileGeopoliticsLayer(String inputPath, String outputPath, boolean isSplit) {
+    public void compileGeopoliticsLayer(String inputPath, String outputPath) {
         System.out.println("👑 [TaskSystem] Compiling Layer 2: Geopolitics...");
-
-        // Grab the raw data structures from your registered tasks
-        JsonElement statesData = tasks.get("STATES").execute(inputPath);
-        JsonElement provincesData = tasks.get("PROVINCES").execute(inputPath);
-        JsonElement zonesData = tasks.get("ZONES").execute(inputPath);
-        JsonElement militaryData = tasks.get("MILITARY").execute(inputPath);
-        JsonElement burgsData = tasks.get("BURGS").execute(inputPath);
-
-        if (!isSplit) {
-            // --- SINGLE FILE MODE ---
-            JsonObject statesOutput = new JsonObject();
-            statesOutput.add("states", statesData);
-            statesOutput.add("provinces", provincesData);
-            statesOutput.add("zones", zonesData);
-            statesOutput.add("military", militaryData);
-            statesOutput.add("burgs", burgsData);
-
-            writeJsonToFile(statesOutput, outputPath + "states.json");
-        } else {
-            // --- MULTI-FILE SPLIT MODE ---
-            // Create the subfolder: definitions/states/
-            String statesFolder = outputPath + "states" + File.separator;
-            new File(statesFolder).mkdirs();
-
-            int activeCount = 0;
-
-            // Safe conversion check to unpack the array of states
-            if (statesData != null && statesData.isJsonArray()) {
-                JsonArray statesArray = statesData.getAsJsonArray();
-                for (int i = 0; i < statesArray.size(); i++) {
-                    // Safety 1: Skip if the index slot is completely blank in Azgaar's array
-                    if (statesArray.get(i).isJsonNull()) continue;
-
-                    JsonObject singleState = statesArray.get(i).getAsJsonObject();
-
-                    // Safety 2: Skip if Azgaar flags the state as removed/deleted in the data sheet
-                    if (singleState.has("removed") && singleState.get("removed").getAsBoolean()) continue;
-
-                    // Safety 3: Skip Index 0 / Neutral unassigned territory if you don't want it as a playable country
-                    if (singleState.has("name") && singleState.get("name").getAsString().equalsIgnoreCase("unassigned")) continue;
-
-                    // Pull a unique ID property field to form the filename
-                    String stateId = singleState.has("id") ? "state_" + singleState.get("id").getAsString() : "state_" + i;
-
-                    writeJsonToFile(singleState, statesFolder + stateId + ".json");
-                    activeCount++;
-                }
-                System.out.println("🔀 [TaskSystem] Split exported " + activeCount + " active state JSONs (Filtered out phantom placeholders).");
-            }
-
-            // The remaining core data categories stay grouped together in a base file
-            JsonObject remainderOutput = new JsonObject();
-            remainderOutput.add("provinces", provincesData);
-            remainderOutput.add("zones", zonesData);
-            remainderOutput.add("military", militaryData);
-            remainderOutput.add("burgs", burgsData);
-
-            writeJsonToFile(remainderOutput, outputPath + "geopolitics_remainder.json");
-        }
+        writeJsonToFile((JsonObject) tasks.get("STATES").execute(inputPath), outputPath + "states.json");
+        writeJsonToFile((JsonObject) tasks.get("PROVINCES").execute(inputPath), outputPath + "provinces.json");
+        writeJsonToFile((JsonObject) tasks.get("BURGS").execute(inputPath), outputPath + "burgs.json");
+        writeJsonToFile((JsonObject) tasks.get("ZONES").execute(inputPath), outputPath + "zones.json");
+        writeJsonToFile((JsonObject) tasks.get("MILITARY").execute(inputPath), outputPath + "military.json");
     }
 
     // 🔄 Layer 3: Society/Linguistics Compilation (loadSteps = 2)
     public void compileSocietyLayer(String inputPath, String outputPath) {
         System.out.println("🔤 [TaskSystem] Compiling Layer 3: Society & Linguistics...");
-        JsonObject societyOutput = new JsonObject();
-        // Fixed: Keys align completely with the upper plural registrations
-        societyOutput.add("cultures", tasks.get("CULTURES").execute(inputPath));
-        societyOutput.add("religions", tasks.get("RELIGIONS").execute(inputPath));
-        societyOutput.add("nameBases", tasks.get("NAMEBASES").execute(inputPath));
-        societyOutput.add("notes", tasks.get("NOTES").execute(inputPath));
-        societyOutput.add("markets", tasks.get("MARKERS").execute(inputPath));
-        writeJsonToFile(societyOutput, outputPath + "society.json");
+        writeJsonToFile((JsonObject) tasks.get("CULTURES").execute(inputPath), outputPath + "cultures.json");
+        writeJsonToFile((JsonObject) tasks.get("RELIGIONS").execute(inputPath), outputPath + "religions.json");
+        writeJsonToFile((JsonObject) tasks.get("NAMEBASES").execute(inputPath), outputPath + "namebases.json");
+        writeJsonToFile((JsonObject) tasks.get("NOTES").execute(inputPath), outputPath + "notes.json");
+
         System.out.println("🟢 [TaskSystem Success] All 3 data compilation layers successfully baked!");
     }
 
@@ -202,73 +149,6 @@ public class TaskSystem {
         } catch (Exception e) {
             System.err.println("🔴 [TaskSystem Error] Failed to write file to: " + destinationPath);
             e.printStackTrace();
-        }
-    }
-
-    public void executeTasks(String inputPath, String outputPath) {
-        for (String key : tasks.keySet()) {
-            switch (key) {
-                case "MESH":
-                    MeshTask meshTask = (MeshTask) tasks.get(key);
-                    meshTask.execute(inputPath);
-                    break;
-                case "CULTURES":
-                    CultureTask cultureTask = (CultureTask) tasks.get(key);
-                    cultureTask.execute(inputPath);
-                    break;
-                case "RELIGION":
-                    ReligionTask religionTask = (ReligionTask) tasks.get(key);
-                    religionTask.execute(inputPath);
-                    break;
-                case "STATE":
-                    StateTask stateTask = (StateTask) tasks.get(key);
-                    stateTask.execute(inputPath);
-                    break;
-                case "ROUTES":
-                    RoutesTask routesTask = (RoutesTask) tasks.get(key);
-                    routesTask.execute(inputPath);
-                    break;
-                case "MILITARY":
-                    MilitaryTask militaryTask = (MilitaryTask) tasks.get(key);
-                    militaryTask.execute(inputPath);
-                    break;
-                case "MARKERS":
-                    MarkersTask reliefTask = (MarkersTask) tasks.get(key);
-                    reliefTask.execute(inputPath);
-                    break;
-                case "ZONES":
-                    ZoneTask zoneTask = (ZoneTask) tasks.get(key);
-                    zoneTask.execute(inputPath);
-                    break;
-                case "BIOMES":
-                    BiomeTask biomeTask = (BiomeTask) tasks.get(key);
-                    biomeTask.execute(inputPath);
-                    break;
-                case "RIVERS":
-                    RiversTask riverTask = (RiversTask) tasks.get(key);
-                    riverTask.execute(inputPath);
-                    break;
-                case "BURGS":
-                    BurgsTask burgsTask = (BurgsTask) tasks.get(key);
-                    burgsTask.execute(inputPath);
-                    break;
-                case "PROVINCES":
-                    ProvincesTask provincesTask = (ProvincesTask) tasks.get(key);
-                    provincesTask.execute(inputPath);
-                    break;
-                case "FEATURES":
-                    FeaturesTask featuresTask = (FeaturesTask) tasks.get(key);
-                    featuresTask.execute(inputPath);
-                    break;
-                case "NOTES":
-                    NotesTask notesTask = (NotesTask) tasks.get(key);
-                    notesTask.execute(inputPath);
-                    break;
-                case "NAMES":
-                    NameBasesTask nameBasesTask = (NameBasesTask) tasks.get(key);
-                    nameBasesTask.execute(inputPath);
-                    break;
-            }
         }
     }
 }
