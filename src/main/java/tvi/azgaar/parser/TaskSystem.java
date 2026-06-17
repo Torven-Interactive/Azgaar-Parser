@@ -42,37 +42,31 @@ public class TaskSystem {
     // 🔄 Layer 1: Geography Compilation (loadSteps = 0)
     public void compileGeographyLayer(String inputPath, String outputPath) {
         System.out.println("📐 [TaskSystem] Compiling Layer 1: Geography...");
-        writeJsonToFile((JsonObject) tasks.get("BIOMES").execute(inputPath), outputPath + "biomes.json");
-        writeJsonToFile((JsonObject) tasks.get("MESH").execute(inputPath), outputPath + "map.json");
-        writeJsonToFile((JsonObject) tasks.get("RIVERS").execute(inputPath), outputPath + "rivers.json");
-        writeJsonToFile((JsonObject) tasks.get("FEATURES").execute(inputPath), outputPath + "features.json");
-        writeJsonToFile((JsonObject) tasks.get("ROUTES").execute(inputPath), outputPath + "routes.json");
-        writeJsonToFile((JsonObject) tasks.get("MARKERS").execute(inputPath), outputPath + "markers.json");
-        /*  JsonObject mapOutput = new JsonObject();
-            mapOutput.add("biomes", tasks.get("BIOMES").execute(inputPath));
-            mapOutput.add("nodes", tasks.get("MESH").execute(inputPath));
-            mapOutput.add("rivers", tasks.get("RIVERS").execute(inputPath));
-            mapOutput.add("features", tasks.get("FEATURES").execute(inputPath));
-            mapOutput.add("routes", tasks.get("ROUTES").execute(inputPath));*/
+        writeJsonToFile(tasks.get("BIOMES").execute(inputPath), outputPath + "biomes.json");
+        writeJsonToFile(tasks.get("MESH").execute(inputPath), outputPath + "map.json");
+        writeJsonToFile(tasks.get("RIVERS").execute(inputPath), outputPath + "rivers.json");
+        writeJsonToFile(tasks.get("FEATURES").execute(inputPath), outputPath + "features.json");
+        writeJsonToFile(tasks.get("ROUTES").execute(inputPath), outputPath + "routes.json");
+        writeJsonToFile(tasks.get("MARKERS").execute(inputPath), outputPath + "markers.json");
     }
 
     // 🔄 Layer 2: Geopolitics Compilation (loadSteps = 1)
     public void compileGeopoliticsLayer(String inputPath, String outputPath) {
         System.out.println("👑 [TaskSystem] Compiling Layer 2: Geopolitics...");
-        writeJsonToFile((JsonObject) tasks.get("STATES").execute(inputPath), outputPath + "states.json");
-        writeJsonToFile((JsonObject) tasks.get("PROVINCES").execute(inputPath), outputPath + "provinces.json");
-        writeJsonToFile((JsonObject) tasks.get("BURGS").execute(inputPath), outputPath + "burgs.json");
-        writeJsonToFile((JsonObject) tasks.get("ZONES").execute(inputPath), outputPath + "zones.json");
-        writeJsonToFile((JsonObject) tasks.get("MILITARY").execute(inputPath), outputPath + "military.json");
+        writeJsonToFile(tasks.get("STATES").execute(inputPath), outputPath + "states.json");
+        writeJsonToFile(tasks.get("PROVINCES").execute(inputPath), outputPath + "provinces.json");
+        writeJsonToFile(tasks.get("BURGS").execute(inputPath), outputPath + "burgs.json");
+        writeJsonToFile(tasks.get("ZONES").execute(inputPath), outputPath + "zones.json");
+        writeJsonToFile(tasks.get("MILITARY").execute(inputPath), outputPath + "military.json");
     }
 
     // 🔄 Layer 3: Society/Linguistics Compilation (loadSteps = 2)
     public void compileSocietyLayer(String inputPath, String outputPath) {
         System.out.println("🔤 [TaskSystem] Compiling Layer 3: Society & Linguistics...");
-        writeJsonToFile((JsonObject) tasks.get("CULTURES").execute(inputPath), outputPath + "cultures.json");
-        writeJsonToFile((JsonObject) tasks.get("RELIGIONS").execute(inputPath), outputPath + "religions.json");
-        writeJsonToFile((JsonObject) tasks.get("NAMEBASES").execute(inputPath), outputPath + "namebases.json");
-        writeJsonToFile((JsonObject) tasks.get("NOTES").execute(inputPath), outputPath + "notes.json");
+        writeJsonToFile(tasks.get("CULTURES").execute(inputPath), outputPath + "cultures.json");
+        writeJsonToFile(tasks.get("RELIGIONS").execute(inputPath), outputPath + "religions.json");
+        writeJsonToFile(tasks.get("NAMEBASES").execute(inputPath), outputPath + "namebases.json");
+        writeJsonToFile(tasks.get("NOTES").execute(inputPath), outputPath + "notes.json");
 
         System.out.println("🟢 [TaskSystem Success] All 3 data compilation layers successfully baked!");
     }
@@ -136,7 +130,7 @@ public class TaskSystem {
         return masterCultures;
     }
 
-    private void writeJsonToFile(JsonObject json, String destinationPath) {
+    private void writeJsonToFile(JsonElement json, String destinationPath) {
         try {
             File file = new File(destinationPath);
             File parentDir = file.getParentFile();
