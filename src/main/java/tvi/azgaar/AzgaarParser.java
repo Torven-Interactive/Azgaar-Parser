@@ -69,7 +69,7 @@ public class AzgaarParser {
 
                 // 🔄 STEP 1: Build the Nested Faction and Geopolitical Ownership Layer
                 if (this.loadingSteps == 1) {
-                    taskSystem.compileGeopoliticsLayer(inputPath, outputPath, isSplit);
+                    taskSystem.compileGeopoliticsLayer(inputPath, outputPath);
 
                     System.gc();
                     loadingSteps++;
