@@ -1,0 +1,31 @@
+{
+  "cell": 275,
+  "x": 787.26,
+  "y": 176.26,
+  "i": 232,
+  "state": 9,
+  "culture": 3,
+  "name": "Hvevervik",
+  "feature": 4,
+  "capital": 0,
+  "population": 2.876,
+  "type": "River",
+  "coa": {
+    "t1": "sable",
+    "charges": [
+      {
+        "charge": "heart",
+        "t": "or",
+        "p": "jln",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

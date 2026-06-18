@@ -1,0 +1,34 @@
+{
+  "cell": 1927,
+  "x": 377.2,
+  "y": 347.3,
+  "i": 169,
+  "state": 18,
+  "culture": 5,
+  "name": "Lezubitiana",
+  "feature": 18,
+  "capital": 0,
+  "population": 10.843,
+  "type": "Generic",
+  "coa": {
+    "t1": "sable",
+    "charges": [
+      {
+        "charge": "armEmbowedHoldingSabre",
+        "t": "or",
+        "p": "e",
+        "t2": "or",
+        "t3": "or",
+        "size": 1.5,
+        "sinister": 1
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "city"
+}

@@ -1,0 +1,37 @@
+{
+  "cell": 1677,
+  "x": 322.37,
+  "y": 326.83,
+  "i": 183,
+  "state": 13,
+  "culture": 5,
+  "name": "Maia",
+  "feature": 14,
+  "capital": 0,
+  "population": 8.088,
+  "type": "Hunting",
+  "coa": {
+    "t1": "or",
+    "ordinaries": [
+      {
+        "ordinary": "chevron",
+        "t": "azure"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "trefle",
+        "t": "or",
+        "p": "ach",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

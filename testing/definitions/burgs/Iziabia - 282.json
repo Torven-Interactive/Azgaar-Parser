@@ -1,0 +1,31 @@
+{
+  "cell": 1812,
+  "x": 396.96,
+  "y": 333.7,
+  "i": 282,
+  "state": 18,
+  "culture": 5,
+  "name": "Iziabia",
+  "feature": 18,
+  "capital": 0,
+  "population": 5.405,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "pot",
+        "t": "sable",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

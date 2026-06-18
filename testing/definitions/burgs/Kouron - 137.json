@@ -1,0 +1,40 @@
+{
+  "cell": 714,
+  "x": 489.24,
+  "y": 228.02,
+  "i": 137,
+  "state": 7,
+  "culture": 10,
+  "name": "Kouron",
+  "feature": 8,
+  "capital": 0,
+  "port": 1,
+  "population": 10.72,
+  "type": "Naval",
+  "coa": {
+    "t1": "vert",
+    "division": {
+      "division": "perPile",
+      "t": "argent",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "lionPassant",
+        "t": "or",
+        "p": "e",
+        "t2": "or",
+        "t3": "or",
+        "divided": "counter",
+        "size": 0.7
+      }
+    ],
+    "shield": "boeotian"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "city"
+}

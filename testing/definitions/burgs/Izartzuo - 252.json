@@ -1,0 +1,37 @@
+{
+  "cell": 2548,
+  "x": 213.57,
+  "y": 393.77,
+  "i": 252,
+  "state": 13,
+  "culture": 5,
+  "name": "Izartzuo",
+  "feature": 14,
+  "capital": 0,
+  "population": 6.521,
+  "type": "Generic",
+  "coa": {
+    "t1": "sable",
+    "division": {
+      "division": "perPile",
+      "t": "or",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "annulet",
+        "t": "argent",
+        "p": "e",
+        "divided": "counter",
+        "size": 0.7
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

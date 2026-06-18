@@ -1,0 +1,36 @@
+{
+  "cell": 1815,
+  "x": 409.84,
+  "y": 338.95,
+  "i": 110,
+  "state": 18,
+  "culture": 5,
+  "name": "Legi",
+  "feature": 18,
+  "capital": 0,
+  "port": 1,
+  "population": 2.765,
+  "type": "Naval",
+  "coa": {
+    "t1": "palyBendy-sable-or",
+    "division": {
+      "division": "perChevronReversed",
+      "t": "argent",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "cross",
+        "t": "gules",
+        "line": "straight"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

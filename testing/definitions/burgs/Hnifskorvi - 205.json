@@ -1,0 +1,35 @@
+{
+  "cell": 79,
+  "x": 829.4,
+  "y": 142.2,
+  "i": 205,
+  "state": 2,
+  "culture": 3,
+  "name": "Hnifskorvi",
+  "feature": 4,
+  "capital": 0,
+  "population": 12.174,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perFess",
+      "t": "purpure",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "gyron",
+        "t": "gules",
+        "divided": "counter"
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 1,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "city"
+}

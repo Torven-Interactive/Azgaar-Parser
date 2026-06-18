@@ -1,0 +1,40 @@
+{
+  "cell": 542,
+  "x": 307.41,
+  "y": 203.66,
+  "i": 289,
+  "state": 10,
+  "culture": 9,
+  "name": "Meungnon",
+  "feature": 7,
+  "capital": 0,
+  "population": 7.399,
+  "type": "Generic",
+  "coa": {
+    "t1": "gules",
+    "ordinaries": [
+      {
+        "ordinary": "bendlet",
+        "t": "argent",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "cowStatant",
+        "t": "or",
+        "p": "cg",
+        "t2": "or",
+        "t3": "argent",
+        "size": 0.5
+      }
+    ],
+    "shield": "french"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

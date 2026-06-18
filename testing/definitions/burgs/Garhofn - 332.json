@@ -1,0 +1,31 @@
+{
+  "cell": 81,
+  "x": 841.44,
+  "y": 137,
+  "i": 332,
+  "state": 2,
+  "culture": 3,
+  "name": "Garhofn",
+  "feature": 4,
+  "capital": 0,
+  "population": 7.834,
+  "type": "Hunting",
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "fleurDeLis",
+        "t": "purpure",
+        "p": "jlh",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

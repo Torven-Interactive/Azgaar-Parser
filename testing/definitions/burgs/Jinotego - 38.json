@@ -1,0 +1,32 @@
+{
+  "cell": 3282,
+  "x": 740.77,
+  "y": 477.37,
+  "i": 38,
+  "state": 14,
+  "culture": 8,
+  "name": "Jinotego",
+  "feature": 4,
+  "capital": 0,
+  "port": 1,
+  "population": 1.289,
+  "type": "Naval",
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "pillar",
+        "t": "sable",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

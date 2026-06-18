@@ -1,0 +1,35 @@
+{
+  "cell": 1800,
+  "x": 340.77,
+  "y": 336.78,
+  "i": 179,
+  "state": 13,
+  "culture": 5,
+  "name": "Kuarnebie",
+  "feature": 14,
+  "capital": 0,
+  "population": 8.063,
+  "type": "Generic",
+  "coa": {
+    "t1": "bendySinister-argent-sable",
+    "division": {
+      "division": "perPile",
+      "t": "gules",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "crossParted",
+        "t": "azure",
+        "line": "straight"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

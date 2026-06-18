@@ -1,0 +1,40 @@
+{
+  "cell": 2465,
+  "x": 409.24,
+  "y": 390.63,
+  "i": 277,
+  "state": 18,
+  "culture": 5,
+  "name": "Ikaka",
+  "feature": 18,
+  "capital": 0,
+  "port": 1,
+  "population": 6.002,
+  "type": "Naval",
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "chevron",
+        "t": "purpure"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "fly",
+        "t": "or",
+        "p": "ach",
+        "t2": "gules",
+        "t3": "sable",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

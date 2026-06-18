@@ -1,0 +1,41 @@
+{
+  "cell": 3062,
+  "x": 378.63,
+  "y": 445.68,
+  "i": 30,
+  "state": 18,
+  "culture": 5,
+  "name": "Kuarga",
+  "feature": 12,
+  "capital": 0,
+  "port": 1,
+  "population": 4.983,
+  "type": "Naval",
+  "coa": {
+    "t1": "gules",
+    "ordinaries": [
+      {
+        "ordinary": "bendletSinister",
+        "t": "argent",
+        "line": "nowy"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "lymphad",
+        "t": "purpure",
+        "p": "lem",
+        "t2": "purpure",
+        "t3": "purpure",
+        "size": 0.3
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

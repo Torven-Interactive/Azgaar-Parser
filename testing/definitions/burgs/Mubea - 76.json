@@ -1,0 +1,40 @@
+{
+  "cell": 2538,
+  "x": 155.59,
+  "y": 403.89,
+  "i": 76,
+  "state": 8,
+  "culture": 5,
+  "name": "Mubea",
+  "feature": 14,
+  "capital": 0,
+  "port": 1,
+  "population": 12.819,
+  "type": "Naval",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "cross",
+        "t": "or",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "boat",
+        "t": "or",
+        "p": "acgi",
+        "t2": "argent",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "city"
+}

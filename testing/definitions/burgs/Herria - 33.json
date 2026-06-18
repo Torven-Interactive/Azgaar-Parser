@@ -1,0 +1,37 @@
+{
+  "cell": 2686,
+  "x": 440.07,
+  "y": 402.19,
+  "i": 33,
+  "state": 16,
+  "culture": 5,
+  "name": "Herria",
+  "feature": 12,
+  "capital": 0,
+  "port": 1,
+  "population": 3.146,
+  "type": "Naval",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "perPile",
+      "t": "argent",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "cross",
+        "t": "or",
+        "line": "potentySinister",
+        "divided": "field"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

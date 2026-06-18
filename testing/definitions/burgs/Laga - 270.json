@@ -1,0 +1,37 @@
+{
+  "cell": 2233,
+  "x": 228.93,
+  "y": 369.41,
+  "i": 270,
+  "state": 13,
+  "culture": 5,
+  "name": "Laga",
+  "feature": 14,
+  "capital": 0,
+  "population": 9.635,
+  "type": "River",
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perBendSinister",
+      "t": "azure",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "annulet",
+        "t": "gules",
+        "p": "jo",
+        "divided": "counter",
+        "size": 0.7
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

@@ -1,0 +1,38 @@
+{
+  "cell": 2035,
+  "x": 352.4,
+  "y": 358.7,
+  "i": 330,
+  "state": 13,
+  "culture": 5,
+  "name": "Lexabataun",
+  "feature": 14,
+  "capital": 0,
+  "population": 1.075,
+  "type": "Generic",
+  "coa": {
+    "t1": "sable",
+    "ordinaries": [
+      {
+        "ordinary": "fessCotissed",
+        "t": "argent",
+        "line": "raguly"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "crossFleury",
+        "t": "purpure",
+        "p": "def",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

@@ -1,0 +1,37 @@
+{
+  "cell": 3357,
+  "x": 384.19,
+  "y": 488.38,
+  "i": 321,
+  "state": 18,
+  "culture": 5,
+  "name": "Mubea",
+  "feature": 12,
+  "capital": 0,
+  "population": 3.231,
+  "type": "Generic",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "chevronReversed",
+        "t": "or"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "mulletFaceted",
+        "t": "or",
+        "p": "b",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

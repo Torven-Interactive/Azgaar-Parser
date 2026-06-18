@@ -1,0 +1,31 @@
+{
+  "cell": 2541,
+  "x": 180.95,
+  "y": 392.86,
+  "i": 174,
+  "state": 8,
+  "culture": 5,
+  "name": "Mendaliarga",
+  "feature": 14,
+  "capital": 0,
+  "population": 5.682,
+  "type": "Generic",
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "escallop",
+        "t": "gules",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

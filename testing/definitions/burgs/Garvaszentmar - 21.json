@@ -1,0 +1,34 @@
+{
+  "cell": 250,
+  "x": 1100.31,
+  "y": 160.67,
+  "i": 21,
+  "state": 6,
+  "culture": 2,
+  "name": "Garvaszentmar",
+  "feature": 2,
+  "capital": 0,
+  "port": 1,
+  "population": 6.323,
+  "type": "Naval",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "caravel",
+        "t": "gules",
+        "p": "e",
+        "t2": "gules",
+        "t3": "azure",
+        "size": 1.5
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

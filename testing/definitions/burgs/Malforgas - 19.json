@@ -1,0 +1,32 @@
+{
+  "cell": 3175,
+  "x": 844.28,
+  "y": 457.43,
+  "i": 19,
+  "state": 12,
+  "culture": 8,
+  "name": "Malforgas",
+  "feature": 19,
+  "capital": 0,
+  "port": 1,
+  "population": 1.294,
+  "type": "Naval",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "sun",
+        "t": "gules",
+        "p": "kn",
+        "size": 0.7
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

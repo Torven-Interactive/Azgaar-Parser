@@ -1,0 +1,46 @@
+{
+  "cell": 2012,
+  "x": 247.97,
+  "y": 353.09,
+  "i": 292,
+  "state": 13,
+  "culture": 5,
+  "name": "Izia",
+  "feature": 14,
+  "capital": 0,
+  "population": 1.178,
+  "type": "Generic",
+  "coa": {
+    "t1": "bendy-argent-purpure",
+    "division": {
+      "division": "perPale",
+      "t": "gules",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "arrowsSheaf",
+        "t": "sable",
+        "p": "e",
+        "t2": "sable",
+        "t3": "sable",
+        "divided": "field",
+        "size": 1.5
+      },
+      {
+        "charge": "greyhoundSejant",
+        "t": "or",
+        "p": "e",
+        "divided": "division",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

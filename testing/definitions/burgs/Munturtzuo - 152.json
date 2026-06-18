@@ -1,0 +1,32 @@
+{
+  "cell": 2435,
+  "x": 146.96,
+  "y": 385.7,
+  "i": 152,
+  "state": 8,
+  "culture": 5,
+  "name": "Munturtzuo",
+  "feature": 14,
+  "capital": 0,
+  "population": 0.917,
+  "type": "Generic",
+  "coa": {
+    "t1": "vert",
+    "charges": [
+      {
+        "charge": "shield",
+        "t": "or",
+        "p": "e",
+        "t2": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

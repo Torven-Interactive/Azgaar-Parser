@@ -1,0 +1,33 @@
+{
+  "cell": 171,
+  "x": 867.42,
+  "y": 152.9,
+  "i": 35,
+  "state": 2,
+  "culture": 3,
+  "name": "Karlmen",
+  "feature": 4,
+  "capital": 0,
+  "population": 9.373,
+  "type": "River",
+  "coa": {
+    "t1": "azure",
+    "charges": [
+      {
+        "charge": "lanceWithBanner",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "t3": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

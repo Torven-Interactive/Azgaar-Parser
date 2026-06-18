@@ -1,0 +1,41 @@
+{
+  "cell": 3192,
+  "x": 369.58,
+  "y": 472.39,
+  "i": 134,
+  "state": 18,
+  "culture": 5,
+  "name": "Goriatzati",
+  "feature": 12,
+  "capital": 0,
+  "port": 1,
+  "population": 6.925,
+  "type": "Naval",
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "chief",
+        "t": "purpure",
+        "line": "bevilled"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "drakkar",
+        "t": "argent",
+        "p": "abc",
+        "t2": "argent",
+        "t3": "purpure",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

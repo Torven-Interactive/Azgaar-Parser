@@ -1,0 +1,36 @@
+{
+  "cell": 244,
+  "x": 1048.68,
+  "y": 164.71,
+  "i": 79,
+  "state": 6,
+  "culture": 2,
+  "name": "Hakobeher",
+  "feature": 2,
+  "capital": 0,
+  "population": 3.537,
+  "type": "Generic",
+  "coa": {
+    "t1": "gules",
+    "division": {
+      "division": "perSaltire",
+      "t": "or"
+    },
+    "charges": [
+      {
+        "charge": "scalesHanging",
+        "t": "argent",
+        "p": "df",
+        "divided": "counter",
+        "size": 0.5
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

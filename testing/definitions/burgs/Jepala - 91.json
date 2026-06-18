@@ -1,0 +1,43 @@
+{
+  "cell": 993,
+  "x": 276.5,
+  "y": 254.2,
+  "i": 91,
+  "state": 10,
+  "culture": 7,
+  "name": "Jepala",
+  "feature": 7,
+  "capital": 0,
+  "population": 0.808,
+  "type": "Hunting",
+  "coa": {
+    "t1": "purpure",
+    "division": {
+      "division": "perBend",
+      "t": "or",
+      "line": "wavy"
+    },
+    "charges": [
+      {
+        "charge": "stagPassant",
+        "t": "argent",
+        "p": "l",
+        "t2": "argent",
+        "size": 0.7
+      },
+      {
+        "charge": "sabre",
+        "t": "azure",
+        "p": "m",
+        "size": 0.7
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

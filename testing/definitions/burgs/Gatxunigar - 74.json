@@ -1,0 +1,36 @@
+{
+  "cell": 2341,
+  "x": 236.98,
+  "y": 374.27,
+  "i": 74,
+  "state": 13,
+  "culture": 5,
+  "name": "Gatxunigar",
+  "feature": 14,
+  "capital": 0,
+  "port": 1,
+  "population": 1.463,
+  "type": "Naval",
+  "coa": {
+    "t1": "bendy-argent-purpure",
+    "division": {
+      "division": "perPale",
+      "t": "pally-argent-purpure-big",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "pile",
+        "t": "sable",
+        "line": "straight"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

@@ -1,0 +1,37 @@
+{
+  "cell": 384,
+  "x": 1115.87,
+  "y": 175.44,
+  "i": 140,
+  "state": 15,
+  "culture": 2,
+  "name": "Hajvalaspercs",
+  "feature": 2,
+  "capital": 0,
+  "population": 9.638,
+  "type": "Generic",
+  "coa": {
+    "t1": "purpure",
+    "ordinaries": [
+      {
+        "ordinary": "flaunches",
+        "t": "argent"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "fleurDeLis",
+        "t": "argent",
+        "p": "beh",
+        "size": 0.5
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

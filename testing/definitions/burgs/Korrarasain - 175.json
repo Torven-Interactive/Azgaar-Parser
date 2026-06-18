@@ -1,0 +1,32 @@
+{
+  "cell": 2041,
+  "x": 382.59,
+  "y": 357.32,
+  "i": 175,
+  "state": 18,
+  "culture": 5,
+  "name": "Korrarasain",
+  "feature": 18,
+  "capital": 0,
+  "port": 1,
+  "population": 1.464,
+  "type": "Naval",
+  "coa": {
+    "t1": "sable",
+    "charges": [
+      {
+        "charge": "scissors",
+        "t": "argent",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

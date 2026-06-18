@@ -1,0 +1,54 @@
+{
+  "cell": 2544,
+  "x": 193.26,
+  "y": 394.7,
+  "i": 304,
+  "state": 8,
+  "culture": 5,
+  "name": "Hondoain",
+  "feature": 14,
+  "capital": 0,
+  "population": 5.343,
+  "type": "Generic",
+  "coa": {
+    "t1": "vert",
+    "division": {
+      "division": "perCross",
+      "t": "argent",
+      "line": "dentilly"
+    },
+    "charges": [
+      {
+        "charge": "earOfWheat",
+        "t": "or",
+        "p": "j",
+        "size": 0.6
+      },
+      {
+        "charge": "lionSejant",
+        "t": "azure",
+        "p": "l",
+        "size": 0.6
+      },
+      {
+        "charge": "rabbitSejant",
+        "t": "sable",
+        "p": "m",
+        "size": 0.6
+      },
+      {
+        "charge": "swan",
+        "t": "argent",
+        "p": "o",
+        "size": 0.6
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

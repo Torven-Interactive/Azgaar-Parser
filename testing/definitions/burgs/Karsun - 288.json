@@ -1,0 +1,38 @@
+{
+  "cell": 1828,
+  "x": 543.95,
+  "y": 335.42,
+  "i": 288,
+  "state": 1,
+  "culture": 4,
+  "name": "Karsun",
+  "feature": 12,
+  "capital": 0,
+  "population": 3.815,
+  "type": "Highland",
+  "coa": {
+    "t1": "vert",
+    "ordinaries": [
+      {
+        "ordinary": "orle",
+        "t": "argent"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "garb",
+        "t": "or",
+        "p": "ken",
+        "t2": "or",
+        "size": 0.4
+      }
+    ],
+    "shield": "polish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

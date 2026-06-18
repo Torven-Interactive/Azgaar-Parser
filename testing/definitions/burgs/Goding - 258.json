@@ -1,0 +1,42 @@
+{
+  "cell": 1749,
+  "x": 829.86,
+  "y": 325.54,
+  "i": 258,
+  "state": 4,
+  "culture": 3,
+  "name": "Goding",
+  "feature": 4,
+  "capital": 0,
+  "population": 16.717,
+  "type": "Generic",
+  "coa": {
+    "t1": "ermine-argent-sable-smaller",
+    "division": {
+      "division": "perBend",
+      "t": "vert",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "trefle",
+        "t": "gules",
+        "p": "l",
+        "size": 0.7
+      },
+      {
+        "charge": "raft",
+        "t": "or",
+        "p": "m",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 1,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "city"
+}

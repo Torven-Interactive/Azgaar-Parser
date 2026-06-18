@@ -1,0 +1,35 @@
+{
+  "cell": 1921,
+  "x": 354.77,
+  "y": 347.74,
+  "i": 208,
+  "state": 13,
+  "culture": 5,
+  "name": "Leta",
+  "feature": 14,
+  "capital": 0,
+  "population": 1.325,
+  "type": "Generic",
+  "coa": {
+    "t1": "ermine-argent-sable",
+    "division": {
+      "division": "perChevron",
+      "t": "gules",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "pile",
+        "t": "vert",
+        "line": "straight"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

@@ -1,0 +1,36 @@
+{
+  "cell": 819,
+  "x": 840.34,
+  "y": 232.31,
+  "i": 150,
+  "state": 3,
+  "culture": 3,
+  "name": "Kjerstad",
+  "feature": 4,
+  "capital": 0,
+  "port": 1,
+  "population": 1.011,
+  "type": "Naval",
+  "coa": {
+    "t1": "lozengy-or-gules",
+    "division": {
+      "division": "perFess",
+      "t": "sable",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "bend",
+        "t": "purpure",
+        "line": "straight"
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

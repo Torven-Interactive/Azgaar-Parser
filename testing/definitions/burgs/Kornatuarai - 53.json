@@ -1,0 +1,38 @@
+{
+  "cell": 1566,
+  "x": 429.03,
+  "y": 321.4,
+  "i": 53,
+  "state": 10,
+  "culture": 5,
+  "name": "Kornatuarai",
+  "feature": 11,
+  "capital": 0,
+  "population": 1.109,
+  "type": "Hunting",
+  "coa": {
+    "t1": "vert",
+    "ordinaries": [
+      {
+        "ordinary": "mount",
+        "t": "argent"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "stagPassant",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

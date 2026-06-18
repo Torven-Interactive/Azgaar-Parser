@@ -1,0 +1,32 @@
+{
+  "cell": 486,
+  "x": 401.2,
+  "y": 198,
+  "i": 317,
+  "state": 10,
+  "culture": 7,
+  "name": "Klovs",
+  "feature": 7,
+  "capital": 0,
+  "population": 6.198,
+  "type": "Generic",
+  "coa": {
+    "t1": "azure",
+    "charges": [
+      {
+        "charge": "stirrup",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

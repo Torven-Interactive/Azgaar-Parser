@@ -1,0 +1,32 @@
+{
+  "cell": 812,
+  "x": 803.32,
+  "y": 230.34,
+  "i": 132,
+  "state": 9,
+  "culture": 3,
+  "name": "Hvamstan",
+  "feature": 4,
+  "capital": 0,
+  "port": 1,
+  "population": 4.426,
+  "type": "Naval",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "armillarySphere",
+        "t": "azure",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

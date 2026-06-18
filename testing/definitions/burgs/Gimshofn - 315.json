@@ -1,0 +1,32 @@
+{
+  "cell": 828,
+  "x": 900.75,
+  "y": 231.79,
+  "i": 315,
+  "state": 3,
+  "culture": 3,
+  "name": "Gimshofn",
+  "feature": 4,
+  "capital": 0,
+  "population": 3.076,
+  "type": "Generic",
+  "coa": {
+    "t1": "azure",
+    "charges": [
+      {
+        "charge": "lochaberAxe",
+        "t": "argent",
+        "p": "e",
+        "t2": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

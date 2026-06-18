@@ -1,0 +1,35 @@
+{
+  "cell": 2260,
+  "x": 381.09,
+  "y": 373.57,
+  "i": 58,
+  "state": 18,
+  "culture": 5,
+  "name": "Kandizale",
+  "feature": 18,
+  "capital": 0,
+  "port": 1,
+  "population": 4.464,
+  "type": "Naval",
+  "coa": {
+    "t1": "barryBendy-argent-azure",
+    "division": {
+      "division": "perChevronReversed",
+      "t": "sable",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "orle",
+        "t": "purpure"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

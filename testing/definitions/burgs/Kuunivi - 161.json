@@ -1,0 +1,44 @@
+{
+  "cell": 847,
+  "x": 355.67,
+  "y": 239.85,
+  "i": 161,
+  "state": 10,
+  "culture": 7,
+  "name": "Kuunivi",
+  "feature": 7,
+  "capital": 0,
+  "port": 1,
+  "population": 7.178,
+  "type": "Naval",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "orle",
+        "t": "argent"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "inescutcheon",
+        "t": "argent",
+        "p": "peq",
+        "size": 0.4
+      },
+      {
+        "charge": "drawingCompass",
+        "t": "sable",
+        "p": "peq",
+        "size": 0.2
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

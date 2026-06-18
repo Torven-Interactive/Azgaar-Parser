@@ -1,0 +1,31 @@
+{
+  "cell": 211,
+  "x": 800.78,
+  "y": 161.45,
+  "i": 85,
+  "state": 2,
+  "culture": 3,
+  "name": "Hovdallis",
+  "feature": 4,
+  "capital": 0,
+  "population": 4.768,
+  "type": "Hunting",
+  "coa": {
+    "t1": "purpure",
+    "charges": [
+      {
+        "charge": "crossMoline",
+        "t": "or",
+        "p": "abc",
+        "size": 0.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

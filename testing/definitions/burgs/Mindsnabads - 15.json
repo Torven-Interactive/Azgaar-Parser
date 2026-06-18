@@ -1,0 +1,34 @@
+{
+  "cell": 535,
+  "x": 1125.31,
+  "y": 195.05,
+  "i": 15,
+  "state": 15,
+  "culture": 2,
+  "name": "Mindsnabads",
+  "feature": 2,
+  "capital": 1,
+  "port": 1,
+  "population": 4.287,
+  "type": "Naval",
+  "coa": {
+    "t1": "vert",
+    "charges": [
+      {
+        "charge": "lymphad",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "t3": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "citadel": 1,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "capital"
+}

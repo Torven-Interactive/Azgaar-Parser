@@ -1,0 +1,38 @@
+{
+  "cell": 751,
+  "x": 898.34,
+  "y": 222.74,
+  "i": 202,
+  "state": 3,
+  "culture": 3,
+  "name": "Krugar",
+  "feature": 4,
+  "capital": 0,
+  "port": 1,
+  "population": 0.911,
+  "type": "Naval",
+  "coa": {
+    "t1": "purpure",
+    "division": {
+      "division": "perCross",
+      "t": "argent",
+      "line": "urdy"
+    },
+    "charges": [
+      {
+        "charge": "bell",
+        "t": "or",
+        "p": "e",
+        "t2": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

@@ -1,0 +1,35 @@
+{
+  "cell": 2705,
+  "x": 596.85,
+  "y": 400.54,
+  "i": 11,
+  "state": 11,
+  "culture": 4,
+  "name": "Goresk",
+  "feature": 12,
+  "capital": 1,
+  "port": 1,
+  "population": 17.649,
+  "type": "Naval",
+  "coa": {
+    "t1": "counterVair-purpure-argent-small",
+    "division": {
+      "division": "perCross",
+      "t": "or",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "pall",
+        "t": "azure"
+      }
+    ],
+    "shield": "polish"
+  },
+  "citadel": 1,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "capital"
+}

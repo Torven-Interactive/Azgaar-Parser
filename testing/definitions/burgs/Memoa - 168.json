@@ -1,0 +1,39 @@
+{
+  "cell": 2020,
+  "x": 285.9,
+  "y": 355.3,
+  "i": 168,
+  "state": 13,
+  "culture": 5,
+  "name": "Memoa",
+  "feature": 14,
+  "capital": 0,
+  "population": 3.089,
+  "type": "Generic",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "gore",
+        "t": "argent"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "grapeBunch",
+        "t": "or",
+        "p": "e",
+        "t2": "or",
+        "t3": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

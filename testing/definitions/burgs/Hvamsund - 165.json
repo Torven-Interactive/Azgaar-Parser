@@ -1,0 +1,42 @@
+{
+  "cell": 732,
+  "x": 775.6,
+  "y": 225.3,
+  "i": 165,
+  "state": 9,
+  "culture": 3,
+  "name": "Hvamsund",
+  "feature": 4,
+  "capital": 0,
+  "population": 11.576,
+  "type": "Hunting",
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perPale",
+      "t": "purpure",
+      "line": "engrailed"
+    },
+    "charges": [
+      {
+        "charge": "fountain",
+        "t": "azure",
+        "p": "p",
+        "size": 0.7
+      },
+      {
+        "charge": "cavalier",
+        "t": "argent",
+        "p": "q",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "city"
+}

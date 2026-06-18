@@ -1,0 +1,31 @@
+{
+  "cell": 1698,
+  "x": 424.63,
+  "y": 324.53,
+  "i": 130,
+  "state": 10,
+  "culture": 5,
+  "name": "Iebietakio",
+  "feature": 11,
+  "capital": 0,
+  "population": 3.222,
+  "type": "Hunting",
+  "coa": {
+    "t1": "chequy-argent-vert",
+    "charges": [
+      {
+        "charge": "crossCalvary",
+        "t": "azure",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

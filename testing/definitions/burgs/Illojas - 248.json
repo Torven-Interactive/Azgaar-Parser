@@ -1,0 +1,38 @@
+{
+  "cell": 1387,
+  "x": 759.98,
+  "y": 295.72,
+  "i": 248,
+  "state": 5,
+  "culture": 8,
+  "name": "Illojas",
+  "feature": 4,
+  "capital": 0,
+  "port": 1,
+  "population": 0.481,
+  "type": "Naval",
+  "coa": {
+    "t1": "purpure",
+    "division": {
+      "division": "perFess",
+      "t": "ermine-argent-sable",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "crescent",
+        "t": "or",
+        "p": "jkl",
+        "divided": "counter",
+        "size": 0.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "trading_post"
+}

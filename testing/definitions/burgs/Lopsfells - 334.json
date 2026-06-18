@@ -1,0 +1,40 @@
+{
+  "cell": 1757,
+  "x": 893.42,
+  "y": 320.71,
+  "i": 334,
+  "state": 4,
+  "culture": 3,
+  "name": "Lopsfells",
+  "feature": 4,
+  "capital": 0,
+  "port": 1,
+  "population": 3.823,
+  "type": "Naval",
+  "coa": {
+    "t1": "or",
+    "ordinaries": [
+      {
+        "ordinary": "pale",
+        "t": "purpure",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "dolphin",
+        "t": "argent",
+        "p": "beh",
+        "t2": "argent",
+        "size": 0.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

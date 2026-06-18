@@ -1,0 +1,32 @@
+{
+  "cell": 2087,
+  "x": 767.16,
+  "y": 348.07,
+  "i": 5,
+  "state": 5,
+  "culture": 8,
+  "name": "Matien",
+  "feature": 4,
+  "capital": 1,
+  "port": 1,
+  "population": 11.415,
+  "type": "Naval",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "crossHummetty",
+        "t": "argent",
+        "p": "jlh",
+        "size": 0.7
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 1,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "capital"
+}

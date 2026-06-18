@@ -1,0 +1,38 @@
+{
+  "cell": 48,
+  "x": 828.76,
+  "y": 131.07,
+  "i": 296,
+  "state": 2,
+  "culture": 3,
+  "name": "Lodoykenha",
+  "feature": 4,
+  "capital": 0,
+  "port": 1,
+  "population": 1.368,
+  "type": "Naval",
+  "coa": {
+    "t1": "or",
+    "ordinaries": [
+      {
+        "ordinary": "orle",
+        "t": "azure"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "shears",
+        "t": "azure",
+        "p": "jleh",
+        "size": 0.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

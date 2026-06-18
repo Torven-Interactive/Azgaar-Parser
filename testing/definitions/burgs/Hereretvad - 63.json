@@ -1,0 +1,36 @@
+{
+  "cell": 376,
+  "x": 1065.38,
+  "y": 178.61,
+  "i": 63,
+  "state": 6,
+  "culture": 2,
+  "name": "Hereretvad",
+  "feature": 2,
+  "capital": 0,
+  "population": 0.837,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perCross",
+      "t": "gules",
+      "line": "wavy"
+    },
+    "charges": [
+      {
+        "charge": "scalesHanging",
+        "t": "purpure",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

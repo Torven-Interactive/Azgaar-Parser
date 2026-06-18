@@ -1,0 +1,40 @@
+{
+  "cell": 2143,
+  "x": 330.5,
+  "y": 364.41,
+  "i": 218,
+  "state": 13,
+  "culture": 5,
+  "name": "Geta",
+  "feature": 14,
+  "capital": 0,
+  "port": 1,
+  "population": 8.428,
+  "type": "Naval",
+  "coa": {
+    "t1": "purpure",
+    "ordinaries": [
+      {
+        "ordinary": "fess",
+        "t": "argent",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "plaice",
+        "t": "sable",
+        "p": "def",
+        "t2": "sable",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

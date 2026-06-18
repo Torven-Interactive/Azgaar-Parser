@@ -1,0 +1,30 @@
+{
+  "cell": 2648,
+  "x": 169.33,
+  "y": 401.66,
+  "i": 141,
+  "state": 8,
+  "culture": 5,
+  "name": "Itia",
+  "feature": 14,
+  "capital": 0,
+  "population": 1.655,
+  "type": "Hunting",
+  "coa": {
+    "t1": "vert",
+    "ordinaries": [
+      {
+        "ordinary": "gemelle",
+        "t": "or",
+        "line": "straight"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

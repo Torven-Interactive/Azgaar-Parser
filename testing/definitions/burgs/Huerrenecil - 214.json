@@ -1,0 +1,33 @@
+{
+  "cell": 2632,
+  "x": 833.74,
+  "y": 390.18,
+  "i": 214,
+  "state": 12,
+  "culture": 8,
+  "name": "Huerrenecil",
+  "feature": 19,
+  "capital": 0,
+  "port": 1,
+  "population": 2.514,
+  "type": "Naval",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "boat",
+        "t": "sable",
+        "p": "e",
+        "t2": "azure",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

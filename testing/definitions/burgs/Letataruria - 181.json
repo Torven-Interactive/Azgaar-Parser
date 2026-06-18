@@ -1,0 +1,37 @@
+{
+  "cell": 2852,
+  "x": 426.31,
+  "y": 424.79,
+  "i": 181,
+  "state": 18,
+  "culture": 5,
+  "name": "Letataruria",
+  "feature": 12,
+  "capital": 0,
+  "population": 6.808,
+  "type": "Generic",
+  "coa": {
+    "t1": "sable",
+    "division": {
+      "division": "perBend",
+      "t": "argent",
+      "line": "dovetailedIndented"
+    },
+    "charges": [
+      {
+        "charge": "angel",
+        "t": "or",
+        "p": "lm",
+        "t2": "or",
+        "size": 0.7
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

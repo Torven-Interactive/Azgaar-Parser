@@ -1,0 +1,32 @@
+{
+  "cell": 1357,
+  "x": 556.49,
+  "y": 305.71,
+  "i": 166,
+  "state": 7,
+  "culture": 4,
+  "name": "Mesch",
+  "feature": 12,
+  "capital": 0,
+  "population": 2.754,
+  "type": "River",
+  "coa": {
+    "t1": "purpure",
+    "charges": [
+      {
+        "charge": "tower",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "polish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

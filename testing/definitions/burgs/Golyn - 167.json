@@ -1,0 +1,32 @@
+{
+  "cell": 1837,
+  "x": 597.15,
+  "y": 336.22,
+  "i": 167,
+  "state": 7,
+  "culture": 4,
+  "name": "Golyn",
+  "feature": 12,
+  "capital": 0,
+  "port": 1,
+  "population": 4.145,
+  "type": "Naval",
+  "coa": {
+    "t1": "sable",
+    "charges": [
+      {
+        "charge": "shipWheel",
+        "t": "argent",
+        "p": "jlh",
+        "size": 0.7
+      }
+    ],
+    "shield": "polish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

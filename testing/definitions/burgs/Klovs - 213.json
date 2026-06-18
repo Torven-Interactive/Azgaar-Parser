@@ -1,0 +1,39 @@
+{
+  "cell": 773,
+  "x": 354.01,
+  "y": 227,
+  "i": 213,
+  "state": 10,
+  "culture": 7,
+  "name": "Klovs",
+  "feature": 7,
+  "capital": 0,
+  "population": 4.661,
+  "type": "Hunting",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "saltireParted",
+        "t": "or",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "sword",
+        "t": "azure",
+        "p": "e",
+        "t2": "azure",
+        "size": 1.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

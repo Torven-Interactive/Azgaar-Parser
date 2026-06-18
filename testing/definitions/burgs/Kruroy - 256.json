@@ -1,0 +1,37 @@
+{
+  "cell": 218,
+  "x": 843.04,
+  "y": 164.72,
+  "i": 256,
+  "state": 2,
+  "culture": 3,
+  "name": "Kruroy",
+  "feature": 4,
+  "capital": 0,
+  "population": 6.177,
+  "type": "Generic",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "pile",
+        "t": "or"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "mullet4",
+        "t": "or",
+        "p": "acdfgi",
+        "size": 0.4
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

@@ -1,0 +1,30 @@
+{
+  "cell": 843,
+  "x": 316.66,
+  "y": 239.82,
+  "i": 278,
+  "state": 10,
+  "culture": 9,
+  "name": "Gatidy",
+  "feature": 7,
+  "capital": 0,
+  "population": 0.885,
+  "type": "Generic",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "bendletSinister",
+        "t": "argent",
+        "line": "straight"
+      }
+    ],
+    "shield": "french"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

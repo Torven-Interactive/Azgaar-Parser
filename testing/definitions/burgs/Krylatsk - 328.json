@@ -1,0 +1,43 @@
+{
+  "cell": 2067,
+  "x": 588.41,
+  "y": 354.71,
+  "i": 328,
+  "state": 1,
+  "culture": 4,
+  "name": "Krylatsk",
+  "feature": 12,
+  "capital": 0,
+  "population": 8.611,
+  "type": "Highland",
+  "coa": {
+    "t1": "vert",
+    "ordinaries": [
+      {
+        "ordinary": "pall",
+        "t": "or"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "inescutcheon",
+        "t": "vert",
+        "p": "jleh",
+        "size": 0.5
+      },
+      {
+        "charge": "inescutcheon",
+        "t": "argent",
+        "p": "jleh",
+        "size": 0.25
+      }
+    ],
+    "shield": "polish"
+  },
+  "citadel": 1,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

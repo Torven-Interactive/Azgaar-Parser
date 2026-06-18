@@ -1,0 +1,42 @@
+{
+  "cell": 347,
+  "x": 847.04,
+  "y": 176.72,
+  "i": 118,
+  "state": 2,
+  "culture": 3,
+  "name": "Hvolskar",
+  "feature": 4,
+  "capital": 0,
+  "population": 2.089,
+  "type": "Generic",
+  "coa": {
+    "t1": "gules",
+    "division": {
+      "division": "perFess",
+      "t": "argent",
+      "line": "enclavy"
+    },
+    "charges": [
+      {
+        "charge": "mulletFaceted",
+        "t": "or",
+        "p": "k",
+        "size": 0.7
+      },
+      {
+        "charge": "wyvern",
+        "t": "azure",
+        "p": "n",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}
