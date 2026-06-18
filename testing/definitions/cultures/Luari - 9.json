@@ -1,0 +1,14 @@
+{
+  "name": "Luari",
+  "base": 2,
+  "shield": "french",
+  "center": 618,
+  "i": 9,
+  "color": "#dababf",
+  "type": "Generic",
+  "expansionism": 2.7,
+  "origins": [
+    0
+  ],
+  "code": "Lu"
+}

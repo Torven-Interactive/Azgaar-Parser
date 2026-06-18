@@ -1,0 +1,14 @@
+{
+  "name": "Norse",
+  "base": 6,
+  "shield": "heater",
+  "center": 982,
+  "i": 3,
+  "color": "#8dd3c7",
+  "type": "Naval",
+  "expansionism": 1.8,
+  "origins": [
+    0
+  ],
+  "code": "No"
+}

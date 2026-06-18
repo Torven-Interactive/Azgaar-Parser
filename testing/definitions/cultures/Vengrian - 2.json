@@ -1,0 +1,14 @@
+{
+  "name": "Vengrian",
+  "base": 15,
+  "shield": "horsehead2",
+  "center": 442,
+  "i": 2,
+  "color": "#80b1d3",
+  "type": "Generic",
+  "expansionism": 2.4,
+  "origins": [
+    0
+  ],
+  "code": "Ve"
+}

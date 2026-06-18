@@ -1,0 +1,14 @@
+{
+  "name": "Slovan",
+  "base": 5,
+  "shield": "polish",
+  "center": 2064,
+  "i": 4,
+  "color": "#fccde5",
+  "type": "Highland",
+  "expansionism": 4.7,
+  "origins": [
+    0
+  ],
+  "code": "Sl"
+}

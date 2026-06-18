@@ -1,0 +1,14 @@
+{
+  "name": "Angshire",
+  "base": 1,
+  "shield": "wedged",
+  "center": 1283,
+  "i": 6,
+  "color": "#fb8072",
+  "type": "Highland",
+  "expansionism": 2.8,
+  "origins": [
+    0
+  ],
+  "code": "An"
+}

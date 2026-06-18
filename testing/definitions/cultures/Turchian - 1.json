@@ -1,0 +1,14 @@
+{
+  "name": "Turchian",
+  "base": 16,
+  "shield": "round",
+  "center": 662,
+  "i": 1,
+  "color": "#ccebc5",
+  "type": "Highland",
+  "expansionism": 1.9,
+  "origins": [
+    0
+  ],
+  "code": "Tu"
+}

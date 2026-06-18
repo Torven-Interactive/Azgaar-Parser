@@ -1,0 +1,14 @@
+{
+  "name": "Euskati",
+  "base": 20,
+  "shield": "oldFrench",
+  "center": 1926,
+  "i": 5,
+  "color": "#bc80bd",
+  "type": "Generic",
+  "expansionism": 2.6,
+  "origins": [
+    0
+  ],
+  "code": "Eu"
+}

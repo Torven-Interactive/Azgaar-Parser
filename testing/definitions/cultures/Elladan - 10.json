@@ -1,0 +1,14 @@
+{
+  "name": "Elladan",
+  "base": 7,
+  "shield": "boeotian",
+  "center": 868,
+  "i": 10,
+  "color": "#c6b9c1",
+  "type": "Generic",
+  "expansionism": 3.8,
+  "origins": [
+    0
+  ],
+  "code": "El"
+}

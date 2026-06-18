@@ -1,0 +1,14 @@
+{
+  "name": "Astellian",
+  "base": 4,
+  "shield": "spanish",
+  "center": 2887,
+  "i": 8,
+  "color": "#fdb462",
+  "type": "Generic",
+  "expansionism": 2,
+  "origins": [
+    0
+  ],
+  "code": "As"
+}

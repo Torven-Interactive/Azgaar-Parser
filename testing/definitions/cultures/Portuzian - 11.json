@@ -1,0 +1,14 @@
+{
+  "name": "Portuzian",
+  "base": 13,
+  "shield": "renaissance",
+  "center": 2584,
+  "i": 11,
+  "color": "#ffed6f",
+  "type": "Generic",
+  "expansionism": 1.8,
+  "origins": [
+    0
+  ],
+  "code": "Po"
+}
