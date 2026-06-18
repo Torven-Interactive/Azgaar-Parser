@@ -38,6 +38,11 @@ public class MilitaryTask extends ExtendedTask {
                 }
 
                 JsonArray militaryArray = options.getAsJsonArray("military");
+
+                if (militaryArray.size() > 0 && militaryArray.get(0).isJsonPrimitive()) {
+                    militaryArray.remove(0); // Deletes that raw 0 right out of the array stream!
+                }
+
                 System.out.println("🟢 [MilitaryTask Success] Extracted army configurations registry");
 
                 return militaryArray;

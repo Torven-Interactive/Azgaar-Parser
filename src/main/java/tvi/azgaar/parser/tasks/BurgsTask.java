@@ -28,6 +28,11 @@ public class BurgsTask extends ExtendedTask {
                 }
 
                 JsonArray burgsArray = pack.getAsJsonArray("burgs");
+
+                if (burgsArray.size() > 0 && burgsArray.get(0).isJsonPrimitive()) {
+                    burgsArray.remove(0); // Deletes that raw 0 right out of the array stream!
+                }
+
                 System.out.println("🟢 [BurgsTask Success] Extracted settlement registry array");
 
                 // FIX: Return the raw array directly back to TaskSystem instead of wrapping it again
@@ -47,7 +52,7 @@ public class BurgsTask extends ExtendedTask {
         try (FileReader reader = new FileReader(inputPath)) {
             JsonObject root = JsonParser.parseReader(reader).getAsJsonObject();
             if (root.has("burgs")) {
-                com.google.gson.Gson gson = new com.google.gson.Gson();
+                Gson gson = new Gson();
                 for (JsonElement elem : root.getAsJsonArray("burgs")) {
                     activeBurgs.add(gson.fromJson(elem, Burg.class));
                 }

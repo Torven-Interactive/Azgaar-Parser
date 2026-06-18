@@ -1,16 +1,13 @@
 package tvi.azgaar;
 
-import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
-import com.google.gson.JsonObject;
+import tvi.azgaar.parser.ui.Window;
 import tvi.azgaar.parser.TaskSystem;
 import tvi.azgaar.parser.models.geography.Cell;
 import tvi.azgaar.parser.models.geopol.State;
 import tvi.azgaar.parser.models.linguistic.Culture;
 
-import java.awt.*;
 import java.io.File;
-import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -19,6 +16,7 @@ import java.util.List;
 
 
 public class AzgaarParser {
+    private Window extractor;
     private String inputPath;
     private String outputPath;
     private TaskSystem taskSystem;
@@ -42,6 +40,7 @@ public class AzgaarParser {
         }
 
         taskSystem = new TaskSystem();
+        extractor = new Window(this);
 
     }
 
@@ -49,8 +48,8 @@ public class AzgaarParser {
         return taskSystem;
     }
 
-    public void parse(boolean isSplit) {
-        while(loadingSteps <= 2) {
+    public void parse() {
+        while(taskSystem.loadSteps <= 2) {
             File rawFile = new File(inputPath);
             if (!rawFile.exists()) {
                 System.err.println("🔴 [AzgaarParser Error] Specified source map file does not exist at -> " + inputPath);
@@ -59,28 +58,30 @@ public class AzgaarParser {
 
             try {
                 // 🔄 STEP 0: Build the Physical Geography Sandbox Layer
-                if (this.loadingSteps == 0) {
+                if (taskSystem.loadSteps == 0) {
                     taskSystem.compileGeographyLayer(inputPath, outputPath);
 
                     // Forces an aggressive clear of heavy map node vectors from memory before step 1
                     System.gc();
-                    loadingSteps++;
+                    taskSystem.loadSteps++;
                 }
 
                 // 🔄 STEP 1: Build the Nested Faction and Geopolitical Ownership Layer
-                if (this.loadingSteps == 1) {
+                if (taskSystem.loadSteps == 1) {
                     taskSystem.compileGeopoliticsLayer(inputPath, outputPath);
 
                     System.gc();
-                    loadingSteps++;
+                    taskSystem.loadSteps++;
                 }
 
                 // 🔄 STEP 2: Build the Global Heritage and Social Databases Layer
-                if (this.loadingSteps == 2) {
+                if (taskSystem.loadSteps == 2) {
                     taskSystem.compileSocietyLayer(inputPath, outputPath);
+                    JsonElement map = taskSystem.getGson().toJsonTree(taskSystem.getMapData());
+                    taskSystem.writeJsonToFile(map, outputPath + "mesh.json");
 
                     System.gc();
-                    loadingSteps++;
+                    taskSystem.loadSteps++;
                 }
 
                 System.out.println("🎉 [SUCCESS] All sequential map parsing layers successfully processed and baked!");
@@ -88,10 +89,13 @@ public class AzgaarParser {
             } catch (Exception e) {
                 System.err.println("🔴 [CRITICAL ERROR] Master parser utility encountered an unhandled execution fault!");
                 e.printStackTrace();
+
+                taskSystem.loadSteps = 0;
+                return;
             }
         }
 
-        loadingSteps = 0;
+        taskSystem.loadSteps = 0;
     }
 
     public void loadWorldData() {
@@ -136,81 +140,6 @@ public class AzgaarParser {
         // From here, your engine can map these datasets straight into your active game loops!
     }
 
-    public List<Cell> loadOrganicAzgaarMap(String gameDataPath) {
-        List<Cell> masterVisualNodes = new ArrayList<>();
-        String filePath = gameDataPath + "data" + File.separator + "definitions" + File.separator + "world_map_data.json";
-        File file = new File(filePath);
-
-        if (!file.exists()) {
-            // EngineLogger.log("[Azgaar Parser] Error: world_map_data.json missing at: " + filePath);
-            return masterVisualNodes;
-        }
-
-        try (FileReader reader = new FileReader(file)) {
-            com.google.gson.JsonObject root = com.google.gson.JsonParser.parseReader(reader).getAsJsonObject();
-
-            JsonArray geoCells = root.getAsJsonArray("geography_cells");
-            if (geoCells == null) {
-                // EngineLogger.log("[Azgaar Parser] Error: 'geography_cells' array key was missing or null in baked database!");
-                return masterVisualNodes;
-            }
-
-            // EngineLogger.log("[Azgaar Parser] Map Layer Found " + geoCells.size() + " cell elements. Filtering ocean geometry meshes...");
-
-            for (JsonElement cellElem : geoCells) {
-                JsonObject cell = cellElem.getAsJsonObject();
-
-                // 🌟 THE MESH CULLER FIX:
-                // If the cell's height value indicates it is an ocean/water tile,
-                // skip it completely! This prevents the empty ocean mesh from blobbing up the screen.
-                if (cell.has("height") && cell.get("height").getAsInt() < 20) {
-                    continue;
-                }
-
-                int cellId = cell.has("id") ? cell.get("id").getAsInt() : -1;
-
-                int centerX = cell.has("x") ? (int) Math.round(cell.get("x").getAsDouble() * 15) : 0;
-                int centerY = cell.has("y") ? (int) Math.round(cell.get("y").getAsDouble() * 15) : 0;
-
-                String targetHexColor = "#4E8752";
-                String polityName = "Terra Incognita";
-
-                Polygon organicPolygon = new Polygon();
-                JsonArray pointsArray = cell.getAsJsonArray("polygon_points");
-
-                if (pointsArray != null && pointsArray.size() > 0) {
-                    for (JsonElement ptElem : pointsArray) {
-                        JsonObject pt = ptElem.getAsJsonObject();
-
-                        double rawX = pt.has("vx") ? pt.get("vx").getAsDouble() : 0.0;
-                        double rawY = pt.has("vy") ? pt.get("vy").getAsDouble() : 0.0;
-
-                        int scaledVX = (int) Math.round(rawX * 15);
-                        int scaledVY = (int) Math.round(rawY * 15);
-                        organicPolygon.addPoint(scaledVX, scaledVY);
-                    }
-                }
-
-                // Instantiates the concrete engine class directly!
-                Cell cellTile = new Cell(
-                        "CELL_" + cellId, centerX, centerY, organicPolygon, targetHexColor
-                );
-                cellTile.setLabelName(polityName);
-                cellTile.setProperty("geometry_polygon", organicPolygon);
-                cellTile.setProperty("cell_id", cellId); // Keep this for your click ID reporting!
-
-
-                masterVisualNodes.add(cellTile);
-            }
-            // EngineLogger.log("[Azgaar Parser] Success! Loaded " + masterVisualNodes.size() + " landmass cell polygons.");
-
-        } catch (Exception e) {
-            // EngineLogger.log("[Azgaar Parser] Error: Failed to expand map pack vectors.");
-            e.printStackTrace();
-        }
-        return masterVisualNodes;
-    }
-
     public List<Cell> getLoadedNodes() {
         return loadedNodes;
     }
@@ -221,5 +150,17 @@ public class AzgaarParser {
 
     public List<Culture> getLoadedCultures() {
         return loadedCultures;
+    }
+
+    public void setVisible(boolean visible) {
+        extractor.setVisible(visible);
+    }
+
+    public void setInputPath(String path) {
+        inputPath = path;
+    }
+
+    public void setOutputPath(String path) {
+        outputPath = path;
     }
 }

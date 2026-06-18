@@ -22,6 +22,11 @@ public class FeaturesTask implements Task {
                 }
 
                 JsonArray featuresArray = pack.getAsJsonArray("features");
+
+                if (featuresArray.size() > 0 && featuresArray.get(0).isJsonPrimitive()) {
+                    featuresArray.remove(0); // Deletes that raw 0 right out of the array stream!
+                }
+
                 System.out.println("🟢 [FeaturesTask Success] Extracted macro island/continent layers");
 
                 // FIX: Return the raw array directly back to TaskSystem instead of wrapping it again
