@@ -1,0 +1,32 @@
+{
+  "cell": 3105,
+  "x": 772.16,
+  "y": 446.09,
+  "i": 116,
+  "state": 14,
+  "culture": 8,
+  "name": "Callo",
+  "feature": 4,
+  "capital": 0,
+  "population": 1.311,
+  "type": "River",
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "salmon",
+        "t": "purpure",
+        "p": "e",
+        "t2": "gules",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

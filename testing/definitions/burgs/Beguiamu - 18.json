@@ -1,0 +1,44 @@
+{
+  "cell": 2367,
+  "x": 410.86,
+  "y": 386.38,
+  "i": 18,
+  "state": 18,
+  "culture": 5,
+  "name": "Beguiamu",
+  "feature": 18,
+  "capital": 1,
+  "port": 1,
+  "population": 7.984,
+  "type": "Naval",
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "chevronny",
+      "t": "sable"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "quarter",
+        "t": "azure"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "caravel",
+        "t": "azure",
+        "p": "e",
+        "t2": "azure",
+        "t3": "azure",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "capital"
+}

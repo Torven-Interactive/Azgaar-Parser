@@ -1,0 +1,40 @@
+{
+  "cell": 832,
+  "x": 909.8,
+  "y": 233.1,
+  "i": 339,
+  "state": 3,
+  "culture": 3,
+  "name": "Biftavik",
+  "feature": 4,
+  "capital": 0,
+  "population": 0.232,
+  "type": "Generic",
+  "coa": {
+    "t1": "gules",
+    "ordinaries": [
+      {
+        "ordinary": "pale",
+        "t": "argent",
+        "line": "embattled"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "grapeBunch",
+        "t": "gules",
+        "p": "e",
+        "t2": "argent",
+        "t3": "argent",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

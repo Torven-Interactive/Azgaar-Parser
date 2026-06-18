@@ -1,0 +1,31 @@
+{
+  "cell": 2510,
+  "x": 737.77,
+  "y": 390.03,
+  "i": 250,
+  "state": 14,
+  "culture": 8,
+  "name": "Bueria",
+  "feature": 4,
+  "capital": 0,
+  "population": 0.54,
+  "type": "Hunting",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "cancer",
+        "t": "or",
+        "p": "beh",
+        "size": 0.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

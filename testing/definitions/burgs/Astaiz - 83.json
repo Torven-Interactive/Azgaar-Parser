@@ -1,0 +1,35 @@
+{
+  "cell": 2339,
+  "x": 225.79,
+  "y": 382.72,
+  "i": 83,
+  "state": 13,
+  "culture": 5,
+  "name": "Astaiz",
+  "feature": 14,
+  "capital": 0,
+  "population": 9.005,
+  "type": "Generic",
+  "coa": {
+    "t1": "scaly-azure-argent-small",
+    "division": {
+      "division": "perFess",
+      "t": "or",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "fess",
+        "t": "purpure",
+        "line": "straight"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

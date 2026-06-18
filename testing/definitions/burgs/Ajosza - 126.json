@@ -1,0 +1,31 @@
+{
+  "cell": 370,
+  "x": 1028.41,
+  "y": 181.76,
+  "i": 126,
+  "state": 6,
+  "culture": 2,
+  "name": "Ajosza",
+  "feature": 2,
+  "capital": 0,
+  "population": 6.88,
+  "type": "Hunting",
+  "coa": {
+    "t1": "fretty-or-azure",
+    "charges": [
+      {
+        "charge": "skull2",
+        "t": "gules",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

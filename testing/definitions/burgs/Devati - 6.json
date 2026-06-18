@@ -1,0 +1,39 @@
+{
+  "cell": 150,
+  "x": 1078.03,
+  "y": 140.29,
+  "i": 6,
+  "state": 6,
+  "culture": 2,
+  "name": "Devati",
+  "feature": 2,
+  "capital": 1,
+  "port": 1,
+  "population": 3.556,
+  "type": "Naval",
+  "coa": {
+    "t1": "or",
+    "ordinaries": [
+      {
+        "ordinary": "bendlet",
+        "t": "vert",
+        "line": "flechy"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "scalesHanging",
+        "t": "argent",
+        "p": "joe",
+        "size": 0.3
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "citadel": 1,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "capital"
+}

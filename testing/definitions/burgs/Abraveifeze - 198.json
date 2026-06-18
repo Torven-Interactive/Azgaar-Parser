@@ -1,0 +1,38 @@
+{
+  "cell": 2058,
+  "x": 514.38,
+  "y": 349.78,
+  "i": 198,
+  "state": 16,
+  "culture": 11,
+  "name": "Abraveifeze",
+  "feature": 12,
+  "capital": 0,
+  "population": 0.94,
+  "type": "Generic",
+  "coa": {
+    "t1": "gules",
+    "ordinaries": [
+      {
+        "ordinary": "chief",
+        "t": "argent",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "crossAnkh",
+        "t": "gules",
+        "p": "abc",
+        "size": 0.5
+      }
+    ],
+    "shield": "renaissance"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

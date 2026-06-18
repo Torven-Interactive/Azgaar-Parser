@@ -1,0 +1,31 @@
+{
+  "cell": 2971,
+  "x": 831.93,
+  "y": 433.33,
+  "i": 153,
+  "state": 12,
+  "culture": 8,
+  "name": "Arnalbasas",
+  "feature": 19,
+  "capital": 0,
+  "population": 7.533,
+  "type": "Generic",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "escallop",
+        "t": "or",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

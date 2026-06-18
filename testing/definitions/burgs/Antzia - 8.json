@@ -1,0 +1,38 @@
+{
+  "cell": 2224,
+  "x": 162.68,
+  "y": 368.28,
+  "i": 8,
+  "state": 8,
+  "culture": 5,
+  "name": "Antzia",
+  "feature": 14,
+  "capital": 1,
+  "port": 1,
+  "population": 3.479,
+  "type": "Naval",
+  "coa": {
+    "t1": "vairAncien-argent-azure",
+    "division": {
+      "division": "perChevron",
+      "t": "gules",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "dolphin",
+        "t": "purpure",
+        "p": "jlh",
+        "t2": "vert",
+        "size": 0.7
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 1,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "capital"
+}

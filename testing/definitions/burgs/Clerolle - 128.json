@@ -1,0 +1,36 @@
+{
+  "cell": 842,
+  "x": 307.56,
+  "y": 240.63,
+  "i": 128,
+  "state": 10,
+  "culture": 9,
+  "name": "Clerolle",
+  "feature": 7,
+  "capital": 0,
+  "population": 9.416,
+  "type": "Generic",
+  "coa": {
+    "t1": "or",
+    "division": {
+      "division": "perSaltire",
+      "t": "counterVair-argent-gules"
+    },
+    "charges": [
+      {
+        "charge": "mullet",
+        "t": "azure",
+        "p": "df",
+        "divided": "counter",
+        "size": 0.5
+      }
+    ],
+    "shield": "french"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

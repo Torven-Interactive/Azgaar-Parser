@@ -1,0 +1,28 @@
+{
+  "cell": 2204,
+  "x": 811.44,
+  "y": 358.36,
+  "i": 335,
+  "state": 5,
+  "culture": 8,
+  "name": "Estrienalla",
+  "feature": 4,
+  "capital": 0,
+  "population": 5.751,
+  "type": "Generic",
+  "coa": {
+    "t1": "gules",
+    "division": {
+      "division": "perChevron",
+      "t": "argent",
+      "line": "potentyDexter"
+    },
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

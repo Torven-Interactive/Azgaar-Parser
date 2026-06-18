@@ -1,0 +1,38 @@
+{
+  "cell": 619,
+  "x": 306.78,
+  "y": 211.32,
+  "i": 312,
+  "state": 10,
+  "culture": 9,
+  "name": "Champs",
+  "feature": 7,
+  "capital": 0,
+  "population": 1.631,
+  "type": "Generic",
+  "coa": {
+    "t1": "sable",
+    "ordinaries": [
+      {
+        "ordinary": "fess",
+        "t": "or",
+        "line": "seaWaves"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "billet",
+        "t": "or",
+        "p": "abc",
+        "size": 0.5
+      }
+    ],
+    "shield": "french"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

@@ -1,0 +1,34 @@
+{
+  "cell": 278,
+  "x": 817.63,
+  "y": 171.58,
+  "i": 144,
+  "state": 2,
+  "culture": 3,
+  "name": "Evernes",
+  "feature": 4,
+  "capital": 0,
+  "population": 0.866,
+  "type": "Generic",
+  "coa": {
+    "t1": "or",
+    "division": {
+      "division": "perBend",
+      "t": "azure",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "pall",
+        "t": "gules"
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

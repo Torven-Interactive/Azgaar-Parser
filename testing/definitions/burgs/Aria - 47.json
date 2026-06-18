@@ -1,0 +1,41 @@
+{
+  "cell": 1931,
+  "x": 403.95,
+  "y": 348.41,
+  "i": 47,
+  "state": 18,
+  "culture": 5,
+  "name": "Aria",
+  "feature": 18,
+  "capital": 0,
+  "port": 1,
+  "population": 1.336,
+  "type": "Naval",
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "fess",
+        "t": "purpure",
+        "line": "indented"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "peacockInPride",
+        "t": "argent",
+        "p": "def",
+        "t2": "argent",
+        "t3": "argent",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

@@ -1,0 +1,45 @@
+{
+  "cell": 2083,
+  "x": 744.43,
+  "y": 349.3,
+  "i": 105,
+  "state": 5,
+  "culture": 8,
+  "name": "Doscana",
+  "feature": 4,
+  "capital": 0,
+  "port": 1,
+  "population": 1.556,
+  "type": "Naval",
+  "coa": {
+    "t1": "gules",
+    "division": {
+      "division": "perFess",
+      "t": "argent",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "shipWheel",
+        "t": "or",
+        "p": "e",
+        "divided": "field",
+        "size": 1.5
+      },
+      {
+        "charge": "lionSejant",
+        "t": "azure",
+        "p": "e",
+        "divided": "division",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

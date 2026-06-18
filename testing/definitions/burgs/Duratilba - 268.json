@@ -1,0 +1,37 @@
+{
+  "cell": 3028,
+  "x": 703.23,
+  "y": 440.38,
+  "i": 268,
+  "state": 14,
+  "culture": 8,
+  "name": "Duratilba",
+  "feature": 4,
+  "capital": 0,
+  "population": 1.19,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perPale",
+      "t": "azure",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "mulletPierced",
+        "t": "sable",
+        "p": "e",
+        "divided": "counter",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

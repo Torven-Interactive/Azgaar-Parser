@@ -1,0 +1,36 @@
+{
+  "cell": 791,
+  "x": 511.21,
+  "y": 226.59,
+  "i": 60,
+  "state": 7,
+  "culture": 10,
+  "name": "Delphysos",
+  "feature": 8,
+  "capital": 0,
+  "port": 1,
+  "population": 1.409,
+  "type": "Naval",
+  "coa": {
+    "t1": "maily-or-azure",
+    "division": {
+      "division": "perChevron",
+      "t": "purpure",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "cross",
+        "t": "vert",
+        "line": "straight"
+      }
+    ],
+    "shield": "boeotian"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

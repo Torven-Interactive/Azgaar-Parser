@@ -1,0 +1,33 @@
+{
+  "cell": 399,
+  "x": 380.37,
+  "y": 185.78,
+  "i": 172,
+  "state": 10,
+  "culture": 7,
+  "name": "Esijarvi",
+  "feature": 7,
+  "capital": 0,
+  "population": 8.391,
+  "type": "Generic",
+  "coa": {
+    "t1": "azure",
+    "charges": [
+      {
+        "charge": "dragonPassant",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "t3": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

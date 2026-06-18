@@ -1,0 +1,31 @@
+{
+  "cell": 2997,
+  "x": 414.84,
+  "y": 443.04,
+  "i": 196,
+  "state": 18,
+  "culture": 5,
+  "name": "Barantxo",
+  "feature": 12,
+  "capital": 0,
+  "population": 7.796,
+  "type": "Generic",
+  "coa": {
+    "t1": "purpure",
+    "charges": [
+      {
+        "charge": "rake",
+        "t": "or",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

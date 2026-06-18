@@ -1,0 +1,33 @@
+{
+  "cell": 1524,
+  "x": 960.9,
+  "y": 309.22,
+  "i": 177,
+  "state": 17,
+  "culture": 3,
+  "name": "Bjerklaus",
+  "feature": 10,
+  "capital": 0,
+  "population": 3.547,
+  "type": "Hunting",
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "bowWithThreeArrows",
+        "t": "gules",
+        "p": "e",
+        "t2": "purpure",
+        "t3": "sable",
+        "size": 1.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

@@ -1,0 +1,28 @@
+{
+  "cell": 925,
+  "x": 315.41,
+  "y": 244.54,
+  "i": 122,
+  "state": 10,
+  "culture": 9,
+  "name": "Courteres",
+  "feature": 7,
+  "capital": 0,
+  "population": 7.522,
+  "type": "Generic",
+  "coa": {
+    "t1": "or",
+    "division": {
+      "division": "perCross",
+      "t": "azure",
+      "line": "straight"
+    },
+    "shield": "french"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

@@ -1,0 +1,37 @@
+{
+  "cell": 1891,
+  "x": 185.57,
+  "y": 341.77,
+  "i": 331,
+  "state": 13,
+  "culture": 5,
+  "name": "Arkina",
+  "feature": 14,
+  "capital": 0,
+  "population": 9.291,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perChevronReversed",
+      "t": "vert",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "fleurDeLis",
+        "t": "azure",
+        "p": "dfbh",
+        "divided": "counter",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

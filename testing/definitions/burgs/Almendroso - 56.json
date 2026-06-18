@@ -1,0 +1,40 @@
+{
+  "cell": 3374,
+  "x": 758.57,
+  "y": 495.71,
+  "i": 56,
+  "state": 14,
+  "culture": 8,
+  "name": "Almendroso",
+  "feature": 4,
+  "capital": 0,
+  "port": 1,
+  "population": 2.022,
+  "type": "Naval",
+  "coa": {
+    "t1": "purpure",
+    "ordinaries": [
+      {
+        "ordinary": "crossParted",
+        "t": "or",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "dolphin",
+        "t": "vert",
+        "p": "e",
+        "t2": "vert",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

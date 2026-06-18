@@ -1,0 +1,37 @@
+{
+  "cell": 124,
+  "x": 848.2,
+  "y": 146.39,
+  "i": 2,
+  "state": 2,
+  "culture": 3,
+  "name": "Bjerk",
+  "feature": 4,
+  "capital": 1,
+  "population": 11.079,
+  "type": "River",
+  "coa": {
+    "t1": "purpure",
+    "division": {
+      "division": "perPale",
+      "t": "argent",
+      "line": "embattledGrady"
+    },
+    "charges": [
+      {
+        "charge": "raven",
+        "t": "sable",
+        "p": "pq",
+        "t2": "or",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 1,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "capital"
+}

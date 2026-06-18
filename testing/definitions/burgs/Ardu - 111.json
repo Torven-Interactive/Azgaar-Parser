@@ -1,0 +1,28 @@
+{
+  "cell": 1914,
+  "x": 310.6,
+  "y": 345.2,
+  "i": 111,
+  "state": 13,
+  "culture": 5,
+  "name": "Ardu",
+  "feature": 14,
+  "capital": 0,
+  "population": 3.518,
+  "type": "Hunting",
+  "coa": {
+    "t1": "pappellony-argent-sable",
+    "division": {
+      "division": "perPile",
+      "t": "gules",
+      "line": "straight"
+    },
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

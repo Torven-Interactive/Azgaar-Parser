@@ -1,0 +1,34 @@
+{
+  "cell": 1781,
+  "x": 219.39,
+  "y": 343.96,
+  "i": 13,
+  "state": 13,
+  "culture": 5,
+  "name": "Bizia",
+  "feature": 14,
+  "capital": 1,
+  "port": 1,
+  "population": 4.416,
+  "type": "Naval",
+  "coa": {
+    "t1": "bendy-argent-purpure",
+    "charges": [
+      {
+        "charge": "boarRampant",
+        "t": "gules",
+        "p": "e",
+        "t2": "gules",
+        "t3": "azure",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 1,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "capital"
+}

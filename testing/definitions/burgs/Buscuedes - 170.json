@@ -1,0 +1,33 @@
+{
+  "cell": 2407,
+  "x": 739.08,
+  "y": 378.11,
+  "i": 170,
+  "state": 5,
+  "culture": 8,
+  "name": "Buscuedes",
+  "feature": 4,
+  "capital": 0,
+  "population": 5.86,
+  "type": "Generic",
+  "coa": {
+    "t1": "chequy-argent-gules",
+    "charges": [
+      {
+        "charge": "ramHeadErased",
+        "t": "sable",
+        "p": "e",
+        "t2": "sable",
+        "t3": "azure",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

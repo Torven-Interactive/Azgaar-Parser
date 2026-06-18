@@ -1,0 +1,31 @@
+{
+  "cell": 3127,
+  "x": 368.27,
+  "y": 463.77,
+  "i": 222,
+  "state": 18,
+  "culture": 5,
+  "name": "Artzuoroz",
+  "feature": 12,
+  "capital": 0,
+  "population": 1.145,
+  "type": "Generic",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "chain",
+        "t": "or",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

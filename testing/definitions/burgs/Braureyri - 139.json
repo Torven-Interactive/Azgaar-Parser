@@ -1,0 +1,31 @@
+{
+  "cell": 121,
+  "x": 826.4,
+  "y": 146.62,
+  "i": 139,
+  "state": 2,
+  "culture": 3,
+  "name": "Braureyri",
+  "feature": 4,
+  "capital": 0,
+  "population": 7.571,
+  "type": "Hunting",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "crossHummetty",
+        "t": "azure",
+        "p": "jln",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

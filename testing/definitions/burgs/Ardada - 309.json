@@ -1,0 +1,40 @@
+{
+  "cell": 3099,
+  "x": 716.4,
+  "y": 451.7,
+  "i": 309,
+  "state": 14,
+  "culture": 8,
+  "name": "Ardada",
+  "feature": 4,
+  "capital": 0,
+  "population": 1.246,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "fessDoubleCotissed",
+        "t": "vert",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "hourglass",
+        "t": "azure",
+        "p": "abc",
+        "t2": "azure",
+        "t3": "azure",
+        "size": 0.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

@@ -1,0 +1,33 @@
+{
+  "cell": 2000,
+  "x": 184.13,
+  "y": 352.51,
+  "i": 220,
+  "state": 13,
+  "culture": 5,
+  "name": "Eika",
+  "feature": 14,
+  "capital": 0,
+  "population": 6.702,
+  "type": "Generic",
+  "coa": {
+    "t1": "bendy-argent-purpure",
+    "charges": [
+      {
+        "charge": "grapeBunch",
+        "t": "gules",
+        "p": "e",
+        "t2": "purpure",
+        "t3": "azure",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

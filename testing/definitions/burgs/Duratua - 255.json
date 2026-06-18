@@ -1,0 +1,39 @@
+{
+  "cell": 2441,
+  "x": 184.75,
+  "y": 388.86,
+  "i": 255,
+  "state": 8,
+  "culture": 5,
+  "name": "Duratua",
+  "feature": 14,
+  "capital": 0,
+  "population": 6.461,
+  "type": "Generic",
+  "coa": {
+    "t1": "vert",
+    "ordinaries": [
+      {
+        "ordinary": "pallReversed",
+        "t": "or"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "cossack",
+        "t": "or",
+        "p": "acz",
+        "t2": "or",
+        "t3": "or",
+        "size": 0.4
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

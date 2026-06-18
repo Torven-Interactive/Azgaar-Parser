@@ -1,0 +1,38 @@
+{
+  "cell": 3126,
+  "x": 365.67,
+  "y": 457.53,
+  "i": 280,
+  "state": 18,
+  "culture": 5,
+  "name": "Altzabia",
+  "feature": 12,
+  "capital": 0,
+  "port": 1,
+  "population": 1.374,
+  "type": "Naval",
+  "coa": {
+    "t1": "sable",
+    "division": {
+      "division": "perPale",
+      "t": "argent",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "shipWheel",
+        "t": "or",
+        "p": "jo",
+        "divided": "counter",
+        "size": 0.7
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

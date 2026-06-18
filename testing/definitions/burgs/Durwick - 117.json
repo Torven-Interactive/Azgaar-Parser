@@ -1,0 +1,32 @@
+{
+  "cell": 1278,
+  "x": 670.03,
+  "y": 294.19,
+  "i": 117,
+  "state": 7,
+  "culture": 6,
+  "name": "Durwick",
+  "feature": 4,
+  "capital": 0,
+  "population": 0.789,
+  "type": "Highland",
+  "coa": {
+    "t1": "lozengy-sable-argent-smaller",
+    "charges": [
+      {
+        "charge": "badgerStatant",
+        "t": "or",
+        "p": "e",
+        "t2": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "wedged"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

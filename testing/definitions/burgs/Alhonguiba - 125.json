@@ -1,0 +1,35 @@
+{
+  "cell": 3337,
+  "x": 760.1,
+  "y": 486.3,
+  "i": 125,
+  "state": 14,
+  "culture": 8,
+  "name": "Alhonguiba",
+  "feature": 4,
+  "capital": 0,
+  "population": 4.079,
+  "type": "River",
+  "coa": {
+    "t1": "barry-or-gules",
+    "division": {
+      "division": "perFess",
+      "t": "gules",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "orle",
+        "t": "sable",
+        "line": "straight"
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

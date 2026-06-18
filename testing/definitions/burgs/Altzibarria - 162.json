@@ -1,0 +1,31 @@
+{
+  "cell": 1811,
+  "x": 379.9,
+  "y": 339.8,
+  "i": 162,
+  "state": 18,
+  "culture": 5,
+  "name": "Altzibarria",
+  "feature": 18,
+  "capital": 0,
+  "population": 0.951,
+  "type": "Hunting",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "palace",
+        "t": "gules",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

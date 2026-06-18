@@ -1,0 +1,31 @@
+{
+  "cell": 3162,
+  "x": 735.43,
+  "y": 460.15,
+  "i": 244,
+  "state": 14,
+  "culture": 8,
+  "name": "Artosa",
+  "feature": 4,
+  "capital": 0,
+  "population": 2.412,
+  "type": "Generic",
+  "coa": {
+    "t1": "purpure",
+    "charges": [
+      {
+        "charge": "helmetGreat",
+        "t": "argent",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

@@ -1,0 +1,40 @@
+{
+  "cell": 673,
+  "x": 885,
+  "y": 218.8,
+  "i": 266,
+  "state": 3,
+  "culture": 3,
+  "name": "Bostadrek",
+  "feature": 4,
+  "capital": 0,
+  "population": 0.928,
+  "type": "Hunting",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "saltire",
+        "t": "or",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "dove",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "size": 0.7,
+        "sinister": 1
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

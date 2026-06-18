@@ -1,0 +1,29 @@
+{
+  "cell": 306,
+  "x": 1032.5,
+  "y": 168.74,
+  "i": 191,
+  "state": 6,
+  "culture": 2,
+  "name": "Adakes",
+  "feature": 2,
+  "capital": 0,
+  "population": 8.323,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "pileInBend",
+        "t": "purpure"
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

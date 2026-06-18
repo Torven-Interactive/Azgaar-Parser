@@ -1,0 +1,55 @@
+{
+  "cell": 2649,
+  "x": 176.47,
+  "y": 406.93,
+  "i": 97,
+  "state": 8,
+  "culture": 5,
+  "name": "Galdo",
+  "feature": 14,
+  "capital": 0,
+  "population": 0.903,
+  "type": "Generic",
+  "coa": {
+    "t1": "gules",
+    "division": {
+      "division": "perCross",
+      "t": "or",
+      "line": "nebuly"
+    },
+    "charges": [
+      {
+        "charge": "stagPassant",
+        "t": "argent",
+        "p": "j",
+        "t2": "argent",
+        "size": 0.6
+      },
+      {
+        "charge": "bell",
+        "t": "sable",
+        "p": "l",
+        "size": 0.6
+      },
+      {
+        "charge": "millstone",
+        "t": "gules",
+        "p": "m",
+        "size": 0.6
+      },
+      {
+        "charge": "palmTree",
+        "t": "argent",
+        "p": "o",
+        "size": 0.6
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

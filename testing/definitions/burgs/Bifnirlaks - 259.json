@@ -1,0 +1,42 @@
+{
+  "cell": 904,
+  "x": 849.92,
+  "y": 238.53,
+  "i": 259,
+  "state": 3,
+  "culture": 3,
+  "name": "Bifnirlaks",
+  "feature": 4,
+  "capital": 0,
+  "population": 1.18,
+  "type": "River",
+  "coa": {
+    "t1": "or",
+    "division": {
+      "division": "perCross",
+      "t": "purpure",
+      "line": "angled"
+    },
+    "charges": [
+      {
+        "charge": "inescutcheon",
+        "t": "azure",
+        "p": "jlmo",
+        "size": 0.6
+      },
+      {
+        "charge": "lozenge",
+        "t": "or",
+        "p": "jlmo",
+        "size": 0.3
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

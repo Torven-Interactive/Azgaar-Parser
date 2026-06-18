@@ -1,0 +1,31 @@
+{
+  "cell": 696,
+  "x": 325.5,
+  "y": 227.4,
+  "i": 151,
+  "state": 10,
+  "culture": 9,
+  "name": "Chaille",
+  "feature": 7,
+  "capital": 0,
+  "population": 0.855,
+  "type": "Generic",
+  "coa": {
+    "t1": "vert",
+    "charges": [
+      {
+        "charge": "helmetGreat",
+        "t": "argent",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "french"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

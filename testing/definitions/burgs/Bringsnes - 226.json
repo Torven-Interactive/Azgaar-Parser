@@ -1,0 +1,31 @@
+{
+  "cell": 215,
+  "x": 814.67,
+  "y": 157.59,
+  "i": 226,
+  "state": 2,
+  "culture": 3,
+  "name": "Bringsnes",
+  "feature": 4,
+  "capital": 0,
+  "population": 5.254,
+  "type": "Generic",
+  "coa": {
+    "t1": "vert",
+    "charges": [
+      {
+        "charge": "scissors2",
+        "t": "argent",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

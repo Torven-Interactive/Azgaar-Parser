@@ -1,0 +1,33 @@
+{
+  "cell": 3201,
+  "x": 428.75,
+  "y": 471.45,
+  "i": 219,
+  "state": 16,
+  "culture": 5,
+  "name": "Erbatzegu",
+  "feature": 12,
+  "capital": 0,
+  "population": 1.268,
+  "type": "River",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "lionRampant",
+        "t": "purpure",
+        "p": "def",
+        "t2": "purpure",
+        "t3": "sable",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

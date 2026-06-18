@@ -1,0 +1,38 @@
+{
+  "cell": 1940,
+  "x": 514.79,
+  "y": 345.11,
+  "i": 271,
+  "state": 16,
+  "culture": 11,
+  "name": "Forca",
+  "feature": 12,
+  "capital": 0,
+  "population": 6.733,
+  "type": "Hunting",
+  "coa": {
+    "t1": "or",
+    "ordinaries": [
+      {
+        "ordinary": "chief",
+        "t": "sable",
+        "line": "wavy"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "crossPatriarchal",
+        "t": "or",
+        "p": "abc",
+        "size": 0.5
+      }
+    ],
+    "shield": "renaissance"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

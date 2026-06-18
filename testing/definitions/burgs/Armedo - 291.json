@@ -1,0 +1,30 @@
+{
+  "cell": 2078,
+  "x": 705.18,
+  "y": 354.23,
+  "i": 291,
+  "state": 5,
+  "culture": 8,
+  "name": "Armedo",
+  "feature": 4,
+  "capital": 0,
+  "port": 1,
+  "population": 12.504,
+  "type": "Naval",
+  "coa": {
+    "t1": "sable",
+    "ordinaries": [
+      {
+        "ordinary": "chevronReversed",
+        "t": "or"
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "city"
+}

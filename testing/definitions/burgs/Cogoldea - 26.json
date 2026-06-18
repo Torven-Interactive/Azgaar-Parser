@@ -1,0 +1,38 @@
+{
+  "cell": 3045,
+  "x": 838.27,
+  "y": 441.38,
+  "i": 26,
+  "state": 12,
+  "culture": 8,
+  "name": "Cogoldea",
+  "feature": 19,
+  "capital": 0,
+  "population": 4.309,
+  "type": "Generic",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "inescutcheon",
+        "t": "argent",
+        "p": "e",
+        "size": 1.5
+      },
+      {
+        "charge": "moonInCrescent",
+        "t": "gules",
+        "p": "e",
+        "size": 0.75,
+        "sinister": 1
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

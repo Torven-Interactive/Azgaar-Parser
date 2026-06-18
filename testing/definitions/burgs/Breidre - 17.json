@@ -1,0 +1,40 @@
+{
+  "cell": 1642,
+  "x": 975.7,
+  "y": 319.04,
+  "i": 17,
+  "state": 17,
+  "culture": 3,
+  "name": "Breidre",
+  "feature": 10,
+  "capital": 1,
+  "port": 1,
+  "population": 1.955,
+  "type": "Naval",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "perChevronReversed",
+      "t": "argent",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "dragonRampant",
+        "t": "or",
+        "p": "bdefh",
+        "t2": "or",
+        "t3": "or",
+        "divided": "counter",
+        "size": 0.4
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "capital"
+}

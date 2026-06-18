@@ -1,0 +1,32 @@
+{
+  "cell": 400,
+  "x": 384.88,
+  "y": 185.24,
+  "i": 273,
+  "state": 10,
+  "culture": 7,
+  "name": "Forsla",
+  "feature": 7,
+  "capital": 0,
+  "population": 0.923,
+  "type": "Generic",
+  "coa": {
+    "t1": "sable",
+    "charges": [
+      {
+        "charge": "harp",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

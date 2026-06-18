@@ -1,0 +1,28 @@
+{
+  "cell": 2570,
+  "x": 395.92,
+  "y": 396.63,
+  "i": 311,
+  "state": 18,
+  "culture": 5,
+  "name": "Akio",
+  "feature": 18,
+  "capital": 0,
+  "population": 1.041,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perPale",
+      "t": "honeycombed-or-sable",
+      "line": "straight"
+    },
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

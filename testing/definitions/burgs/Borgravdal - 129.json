@@ -1,0 +1,31 @@
+{
+  "cell": 230,
+  "x": 907.43,
+  "y": 164.28,
+  "i": 129,
+  "state": 2,
+  "culture": 3,
+  "name": "Borgravdal",
+  "feature": 6,
+  "capital": 0,
+  "population": 6.634,
+  "type": "Hunting",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "crossSaltire",
+        "t": "purpure",
+        "p": "abc",
+        "size": 0.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

@@ -1,0 +1,33 @@
+{
+  "cell": 1944,
+  "x": 542.96,
+  "y": 340.21,
+  "i": 322,
+  "state": 16,
+  "culture": 4,
+  "name": "Chernik",
+  "feature": 12,
+  "capital": 0,
+  "population": 6.729,
+  "type": "Highland",
+  "coa": {
+    "t1": "sable",
+    "charges": [
+      {
+        "charge": "eagle",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "t3": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "polish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

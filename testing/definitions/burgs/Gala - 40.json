@@ -1,0 +1,38 @@
+{
+  "cell": 2334,
+  "x": 177.71,
+  "y": 380.92,
+  "i": 40,
+  "state": 8,
+  "culture": 5,
+  "name": "Gala",
+  "feature": 14,
+  "capital": 0,
+  "population": 2.43,
+  "type": "Generic",
+  "coa": {
+    "t1": "or",
+    "division": {
+      "division": "perChevronReversed",
+      "t": "sable",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "bell",
+        "t": "gules",
+        "p": "dfh",
+        "t2": "gules",
+        "divided": "counter",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

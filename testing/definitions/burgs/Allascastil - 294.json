@@ -1,0 +1,37 @@
+{
+  "cell": 3035,
+  "x": 750.99,
+  "y": 439.09,
+  "i": 294,
+  "state": 14,
+  "culture": 8,
+  "name": "Allascastil",
+  "feature": 4,
+  "capital": 0,
+  "population": 1.853,
+  "type": "Generic",
+  "coa": {
+    "t1": "or",
+    "ordinaries": [
+      {
+        "ordinary": "chevron",
+        "t": "sable"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "inescutcheon",
+        "t": "argent",
+        "p": "h",
+        "size": 0.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

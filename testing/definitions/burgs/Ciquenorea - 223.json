@@ -1,0 +1,32 @@
+{
+  "cell": 3293,
+  "x": 828.32,
+  "y": 475.01,
+  "i": 223,
+  "state": 12,
+  "culture": 8,
+  "name": "Ciquenorea",
+  "feature": 19,
+  "capital": 0,
+  "population": 4.149,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "bullHeadCaboshed",
+        "t": "vert",
+        "p": "kn",
+        "t2": "vert",
+        "size": 0.7
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

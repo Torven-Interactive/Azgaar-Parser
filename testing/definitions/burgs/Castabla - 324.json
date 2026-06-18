@@ -1,0 +1,28 @@
+{
+  "cell": 2621,
+  "x": 793.62,
+  "y": 394.48,
+  "i": 324,
+  "state": 14,
+  "culture": 8,
+  "name": "Castabla",
+  "feature": 4,
+  "capital": 0,
+  "population": 0.892,
+  "type": "River",
+  "coa": {
+    "t1": "or",
+    "division": {
+      "division": "perFess",
+      "t": "chequy-argent-gules-smaller",
+      "line": "straight"
+    },
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

@@ -1,0 +1,31 @@
+{
+  "cell": 2232,
+  "x": 221.15,
+  "y": 372.54,
+  "i": 199,
+  "state": 13,
+  "culture": 5,
+  "name": "Antri",
+  "feature": 14,
+  "capital": 0,
+  "population": 1.414,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "pillar",
+        "t": "azure",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

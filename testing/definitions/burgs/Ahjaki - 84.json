@@ -1,0 +1,31 @@
+{
+  "cell": 480,
+  "x": 361,
+  "y": 198.75,
+  "i": 84,
+  "state": 10,
+  "culture": 7,
+  "name": "Ahjaki",
+  "feature": 7,
+  "capital": 0,
+  "population": 0.854,
+  "type": "Generic",
+  "coa": {
+    "t1": "azure",
+    "charges": [
+      {
+        "charge": "mullet4",
+        "t": "or",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

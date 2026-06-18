@@ -1,0 +1,44 @@
+{
+  "cell": 2639,
+  "x": 873,
+  "y": 400.4,
+  "i": 86,
+  "state": 12,
+  "culture": 8,
+  "name": "Argera",
+  "feature": 19,
+  "capital": 0,
+  "population": 6.61,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perPale",
+      "t": "vert",
+      "line": "engrailed"
+    },
+    "charges": [
+      {
+        "charge": "castle2",
+        "t": "azure",
+        "p": "p",
+        "t2": "azure",
+        "t3": "azure",
+        "size": 0.7
+      },
+      {
+        "charge": "eagleTwoHeads",
+        "t": "or",
+        "p": "q",
+        "size": 0.7
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

@@ -1,0 +1,31 @@
+{
+  "cell": 2094,
+  "x": 828.39,
+  "y": 356.51,
+  "i": 69,
+  "state": 4,
+  "culture": 8,
+  "name": "Cartozo",
+  "feature": 4,
+  "capital": 0,
+  "population": 7.198,
+  "type": "Generic",
+  "coa": {
+    "t1": "vert",
+    "charges": [
+      {
+        "charge": "roundel2",
+        "t": "or",
+        "p": "jlh",
+        "size": 0.7
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

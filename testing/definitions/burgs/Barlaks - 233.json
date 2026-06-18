@@ -1,0 +1,57 @@
+{
+  "cell": 1324,
+  "x": 973.38,
+  "y": 290.28,
+  "i": 233,
+  "state": 17,
+  "culture": 3,
+  "name": "Barlaks",
+  "feature": 10,
+  "capital": 0,
+  "port": 1,
+  "population": 18.43,
+  "type": "Naval",
+  "coa": {
+    "t1": "gules",
+    "division": {
+      "division": "perCross",
+      "t": "or",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "arrowsSheaf",
+        "t": "argent",
+        "p": "j",
+        "t2": "argent",
+        "t3": "argent",
+        "size": 0.6
+      },
+      {
+        "charge": "hook",
+        "t": "azure",
+        "p": "l",
+        "size": 0.6
+      },
+      {
+        "charge": "crossSantiago",
+        "t": "purpure",
+        "p": "m",
+        "size": 0.6
+      },
+      {
+        "charge": "wasp",
+        "t": "argent",
+        "p": "o",
+        "size": 0.6
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 1,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "city"
+}

@@ -1,0 +1,33 @@
+{
+  "cell": 1681,
+  "x": 328.41,
+  "y": 334.79,
+  "i": 75,
+  "state": 13,
+  "culture": 5,
+  "name": "Antzamuri",
+  "feature": 14,
+  "capital": 0,
+  "population": 0.844,
+  "type": "Hunting",
+  "coa": {
+    "t1": "sable",
+    "charges": [
+      {
+        "charge": "lionRampant",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "t3": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "fort"
+}

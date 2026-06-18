@@ -1,0 +1,38 @@
+{
+  "cell": 3334,
+  "x": 751.55,
+  "y": 481.67,
+  "i": 203,
+  "state": 14,
+  "culture": 8,
+  "name": "Cojas",
+  "feature": 4,
+  "capital": 0,
+  "population": 0.819,
+  "type": "Generic",
+  "coa": {
+    "t1": "barry-or-gules",
+    "ordinaries": [
+      {
+        "ordinary": "cross",
+        "t": "sable",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "lanceHead",
+        "t": "argent",
+        "p": "beh",
+        "size": 0.3
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}
