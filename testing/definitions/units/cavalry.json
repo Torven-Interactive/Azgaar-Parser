@@ -1,0 +1,10 @@
+{
+  "icon": "🐴",
+  "name": "cavalry",
+  "rural": 0.12,
+  "urban": 0.03,
+  "crew": 2,
+  "power": 2,
+  "type": "mounted",
+  "separate": 0
+}

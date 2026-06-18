@@ -1,0 +1,10 @@
+{
+  "icon": "⚔️",
+  "name": "infantry",
+  "rural": 0.25,
+  "urban": 0.2,
+  "crew": 1,
+  "power": 1,
+  "type": "melee",
+  "separate": 0
+}

@@ -1,0 +1,142 @@
+{
+  "i": 4,
+  "name": "Alosa",
+  "expansionism": 5.9,
+  "capital": 4,
+  "type": "Generic",
+  "center": 2098,
+  "culture": 8,
+  "coa": {
+    "t1": "vert",
+    "charges": [
+      {
+        "charge": "salmon",
+        "t": "argent",
+        "p": "jln",
+        "t2": "argent",
+        "size": 0.7
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    854,
+    333
+  ],
+  "neighbors": [
+    5,
+    14
+  ],
+  "color": "#e78ac3",
+  "campaigns": [
+    {
+      "name": "Miruenian Campaign",
+      "start": 492,
+      "end": 493
+    },
+    {
+      "name": "Hordieluan Campaign",
+      "start": 628,
+      "end": 629
+    },
+    {
+      "name": "Alosa-Hordielian War",
+      "start": 700,
+      "attacker": 4,
+      "defender": 14
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "x",
+    "Rival",
+    "Neutral",
+    "Enemy",
+    "Unknown",
+    "Neutral",
+    "Neutral",
+    "Enemy",
+    "Neutral",
+    "Neutral",
+    "Enemy",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Unknown"
+  ],
+  "urban": 111.96600000000001,
+  "rural": 353.94930350780487,
+  "burgs": 14,
+  "area": 5460,
+  "cells": 95,
+  "form": "Union",
+  "formName": "Union",
+  "fullName": "Alosan Union",
+  "provinces": [
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "alert": 2.7,
+  "military": [
+    {
+      "i": 0,
+      "a": 89387,
+      "cell": 1746,
+      "x": 811.91,
+      "y": 328.65,
+      "bx": 811.91,
+      "by": 328.65,
+      "u": {
+        "archers": 46959,
+        "cavalry": 4879,
+        "artillery": 1853,
+        "infantry": 35696
+      },
+      "n": 0,
+      "name": "1st (Holmen) Regiment",
+      "state": 4,
+      "icon": "🏹"
+    },
+    {
+      "i": 1,
+      "a": 43295,
+      "cell": 2098,
+      "x": 861.3,
+      "y": 350.7,
+      "bx": 861.3,
+      "by": 350.7,
+      "u": {
+        "archers": 22413,
+        "cavalry": 2693,
+        "infantry": 17619,
+        "artillery": 570
+      },
+      "n": 0,
+      "name": "2nd (Mares) Regiment",
+      "state": 4,
+      "icon": "🏹"
+    },
+    {
+      "i": 2,
+      "a": 403,
+      "cell": 1746,
+      "x": 814.44,
+      "y": 316.29,
+      "bx": 814.44,
+      "by": 316.29,
+      "u": {
+        "fleet": 403
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 4,
+      "icon": "🌊"
+    }
+  ]
+}

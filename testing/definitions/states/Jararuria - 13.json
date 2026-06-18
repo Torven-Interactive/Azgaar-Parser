@@ -1,0 +1,119 @@
+{
+  "i": 13,
+  "name": "Jararuria",
+  "expansionism": 6.8,
+  "capital": 13,
+  "type": "Generic",
+  "center": 1781,
+  "culture": 5,
+  "coa": {
+    "t1": "bendy-argent-purpure",
+    "ordinaries": [
+      {
+        "ordinary": "pile",
+        "t": "azure"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    202,
+    346
+  ],
+  "neighbors": [
+    8
+  ],
+  "color": "#94cba0",
+  "campaigns": [
+    {
+      "name": "Dutian Invasion",
+      "start": 694,
+      "end": 696
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Friendly",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Unknown",
+    "Neutral",
+    "Suspicion",
+    "Ally",
+    "Unknown",
+    "Neutral",
+    "Suspicion",
+    "Neutral",
+    "x",
+    "Unknown",
+    "Neutral",
+    "Unknown",
+    "Neutral",
+    "Neutral"
+  ],
+  "urban": 258.213,
+  "rural": 897.6635192036629,
+  "burgs": 53,
+  "area": 7329,
+  "cells": 157,
+  "form": "Union",
+  "formName": "United Provinces",
+  "fullName": "United Provinces of Jararuria",
+  "provinces": [
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78
+  ],
+  "alert": 0.17,
+  "military": [
+    {
+      "i": 0,
+      "a": 18624,
+      "cell": 1775,
+      "x": 190.4,
+      "y": 335.6,
+      "bx": 190.4,
+      "by": 335.6,
+      "u": {
+        "archers": 9591,
+        "cavalry": 1164,
+        "artillery": 307,
+        "infantry": 7562
+      },
+      "n": 0,
+      "name": "1st (Arkina) Regiment",
+      "state": 13,
+      "icon": "🏹"
+    },
+    {
+      "i": 1,
+      "a": 43,
+      "cell": 2555,
+      "x": 240.1,
+      "y": 402.04,
+      "bx": 240.1,
+      "by": 402.04,
+      "u": {
+        "fleet": 43
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 13,
+      "icon": "🌊"
+    }
+  ]
+}

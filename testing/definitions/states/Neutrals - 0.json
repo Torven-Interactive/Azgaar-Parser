@@ -1,0 +1,25 @@
+{
+  "i": 0,
+  "name": "Neutrals",
+  "neighbors": [],
+  "diplomacy": [
+    [
+      "Alosa-Hordielian War",
+      "Alosa declared a war on its rival Hordielu",
+      "Hordielu\u0027s ally Bjerkho joined the war on defenders side",
+      "Bjerkho\u0027s vassal Goria joined the war on defenders side"
+    ],
+    [
+      "Skroia-Hogurdian War",
+      "Skroia declared a war on its rival Hogurdia",
+      "Skroia\u0027s ally Gotyn joined the war on attackers side",
+      "Skroia\u0027s ally Miruenia joined the war on attackers side"
+    ]
+  ],
+  "urban": 0,
+  "rural": 0,
+  "burgs": 0,
+  "area": 0,
+  "cells": 0,
+  "provinces": []
+}

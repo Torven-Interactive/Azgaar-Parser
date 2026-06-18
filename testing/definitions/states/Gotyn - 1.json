@@ -1,0 +1,110 @@
+{
+  "i": 1,
+  "name": "Gotyn",
+  "expansionism": 1.5,
+  "capital": 1,
+  "type": "Highland",
+  "center": 1832,
+  "culture": 4,
+  "coa": {
+    "t1": "vert",
+    "ordinaries": [
+      {
+        "ordinary": "orle",
+        "t": "argent"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "inescutcheon",
+        "t": "or",
+        "p": "peq",
+        "size": 0.4
+      },
+      {
+        "charge": "crossHummetty",
+        "t": "sable",
+        "p": "peq",
+        "size": 0.2
+      }
+    ],
+    "shield": "polish"
+  },
+  "pole": [
+    565,
+    348
+  ],
+  "neighbors": [
+    7,
+    16
+  ],
+  "color": "#66c2a5",
+  "campaigns": [
+    {
+      "name": "Bjerkhan War",
+      "start": 565,
+      "end": 571
+    },
+    {
+      "name": "Virian Campaign",
+      "start": 694,
+      "end": 695
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "x",
+    "Friendly",
+    "Friendly",
+    "Neutral",
+    "Friendly",
+    "Neutral",
+    "Rival",
+    "Unknown",
+    "Ally",
+    "Unknown",
+    "Rival",
+    "Neutral",
+    "Friendly",
+    "Neutral",
+    "Neutral",
+    "Suspicion",
+    "Enemy",
+    "Neutral"
+  ],
+  "urban": 34.188,
+  "rural": 164.71103045344353,
+  "burgs": 4,
+  "area": 1801,
+  "cells": 26,
+  "form": "Monarchy",
+  "formName": "Duchy",
+  "fullName": "Duchy of Gotyn",
+  "provinces": [
+    1,
+    2,
+    109
+  ],
+  "alert": 1.15,
+  "military": [
+    {
+      "i": 0,
+      "a": 34606,
+      "cell": 1832,
+      "x": 579.1,
+      "y": 332.21,
+      "bx": 579.1,
+      "by": 332.21,
+      "u": {
+        "archers": 18710,
+        "cavalry": 1215,
+        "artillery": 540,
+        "infantry": 14141
+      },
+      "n": 0,
+      "name": "1st (Moborod) Regiment",
+      "state": 1,
+      "icon": "👑"
+    }
+  ]
+}

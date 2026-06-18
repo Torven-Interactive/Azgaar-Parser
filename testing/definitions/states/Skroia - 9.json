@@ -1,0 +1,126 @@
+{
+  "i": 9,
+  "name": "Skroia",
+  "expansionism": 5.2,
+  "capital": 9,
+  "type": "Naval",
+  "center": 411,
+  "culture": 3,
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "lozengeFaceted",
+        "t": "purpure",
+        "p": "jln",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    803,
+    200
+  ],
+  "neighbors": [
+    2,
+    7,
+    3
+  ],
+  "color": "#ff96bc",
+  "campaigns": [
+    {
+      "name": "Bliksanian War",
+      "start": 536,
+      "end": 537
+    },
+    {
+      "name": "Bjerkhan Conquest",
+      "start": 661,
+      "end": 662
+    },
+    {
+      "name": "Rikageran Conquest",
+      "start": 694,
+      "end": 695
+    },
+    {
+      "name": "Skroia-Hogurdian War",
+      "start": 697,
+      "attacker": 9,
+      "defender": 17
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Ally",
+    "Friendly",
+    "Friendly",
+    "Neutral",
+    "Ally",
+    "Neutral",
+    "Rival",
+    "Neutral",
+    "x",
+    "Neutral",
+    "Rival",
+    "Neutral",
+    "Unknown",
+    "Neutral",
+    "Neutral",
+    "Friendly",
+    "Enemy",
+    "Neutral"
+  ],
+  "urban": 42.30200000000001,
+  "rural": 227.37382584810257,
+  "burgs": 5,
+  "area": 2987,
+  "cells": 54,
+  "form": "Monarchy",
+  "formName": "Grand Duchy",
+  "fullName": "Grand Duchy of Skroia",
+  "provinces": [
+    41,
+    42,
+    113
+  ],
+  "alert": 1.74,
+  "military": [
+    {
+      "i": 0,
+      "a": 34519,
+      "cell": 411,
+      "x": 778.2,
+      "y": 190.6,
+      "bx": 778.2,
+      "by": 190.6,
+      "u": {
+        "archers": 19342,
+        "cavalry": 893,
+        "infantry": 13375,
+        "artillery": 909
+      },
+      "n": 0,
+      "name": "1st (Bifjor) Regiment",
+      "state": 9,
+      "icon": "👑"
+    },
+    {
+      "i": 1,
+      "a": 302,
+      "cell": 411,
+      "x": 771.7,
+      "y": 188.72,
+      "bx": 771.7,
+      "by": 188.72,
+      "u": {
+        "fleet": 302
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 9,
+      "icon": "🌊"
+    }
+  ]
+}

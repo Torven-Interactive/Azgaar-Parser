@@ -1,0 +1,116 @@
+{
+  "i": 11,
+  "name": "Goria",
+  "expansionism": 3.2,
+  "capital": 11,
+  "type": "Highland",
+  "center": 2705,
+  "culture": 4,
+  "coa": {
+    "t1": "sable",
+    "division": {
+      "division": "chevronny",
+      "t": "argent"
+    },
+    "charges": [
+      {
+        "charge": "wolfPassant",
+        "t": "or",
+        "p": "e",
+        "t2": "or",
+        "t3": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "polish"
+  },
+  "pole": [
+    605,
+    405
+  ],
+  "neighbors": [
+    7,
+    14
+  ],
+  "color": "#b9ce73",
+  "campaigns": [
+    {
+      "name": "Bjerkhan Rebellion",
+      "start": 531,
+      "end": 536
+    },
+    {
+      "name": "Sochevean War",
+      "start": 672,
+      "end": 678
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Rival",
+    "Neutral",
+    "Neutral",
+    "Enemy",
+    "Rival",
+    "Unknown",
+    "Vassal",
+    "Neutral",
+    "Rival",
+    "Neutral",
+    "x",
+    "Neutral",
+    "Suspicion",
+    "Ally",
+    "Neutral",
+    "Rival",
+    "Suspicion",
+    "Friendly"
+  ],
+  "urban": 17.649,
+  "rural": 108.058918222785,
+  "burgs": 1,
+  "area": 1008,
+  "cells": 26,
+  "form": "Monarchy",
+  "formName": "Duchy",
+  "fullName": "Duchy of Goria",
+  "provinces": [],
+  "alert": 1.19,
+  "military": [
+    {
+      "i": 0,
+      "a": 17063,
+      "cell": 2705,
+      "x": 603.42,
+      "y": 401.21,
+      "bx": 603.42,
+      "by": 401.21,
+      "u": {
+        "archers": 9471,
+        "cavalry": 497,
+        "infantry": 6777,
+        "artillery": 318
+      },
+      "n": 0,
+      "name": "1st (Goresk) Regiment",
+      "state": 11,
+      "icon": "👑"
+    },
+    {
+      "i": 1,
+      "a": 47,
+      "cell": 2705,
+      "x": 590.8,
+      "y": 398.9,
+      "bx": 590.8,
+      "by": 398.9,
+      "u": {
+        "fleet": 47
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 11,
+      "icon": "🌊"
+    }
+  ]
+}

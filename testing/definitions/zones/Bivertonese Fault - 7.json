@@ -1,0 +1,12 @@
+{
+  "i": 7,
+  "name": "Bivertonese Fault",
+  "type": "Fault",
+  "cells": [
+    1204,
+    1278,
+    1280,
+    1601
+  ],
+  "color": "url(#hatch2)"
+}

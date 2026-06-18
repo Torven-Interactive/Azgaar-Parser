@@ -1,0 +1,10 @@
+{
+  "icon": "💣",
+  "name": "artillery",
+  "rural": 0,
+  "urban": 0.03,
+  "crew": 8,
+  "power": 12,
+  "type": "machinery",
+  "separate": 0
+}

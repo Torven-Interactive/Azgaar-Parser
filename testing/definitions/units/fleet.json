@@ -1,0 +1,10 @@
+{
+  "icon": "🌊",
+  "name": "fleet",
+  "rural": 0,
+  "urban": 0.015,
+  "crew": 100,
+  "power": 50,
+  "type": "naval",
+  "separate": 1
+}

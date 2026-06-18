@@ -1,0 +1,9 @@
+{
+  "i": 9,
+  "name": "Socherean Flood",
+  "type": "Flood",
+  "cells": [
+    1832
+  ],
+  "color": "url(#hatch13)"
+}

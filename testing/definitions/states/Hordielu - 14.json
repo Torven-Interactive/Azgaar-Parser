@@ -1,0 +1,136 @@
+{
+  "i": 14,
+  "name": "Hordielu",
+  "expansionism": 4.3,
+  "capital": 14,
+  "type": "Generic",
+  "center": 2723,
+  "culture": 8,
+  "coa": {
+    "t1": "barry-or-gules",
+    "division": {
+      "division": "perFess",
+      "t": "purpure",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "orle",
+        "t": "azure"
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    726,
+    445
+  ],
+  "neighbors": [
+    5,
+    4,
+    11
+  ],
+  "color": "#e6ab80",
+  "campaigns": [
+    {
+      "name": "Gorian War",
+      "start": 507,
+      "end": 517
+    },
+    {
+      "name": "Miruenian Conquest",
+      "start": 677,
+      "end": 685
+    },
+    {
+      "name": "Alosan Campaign",
+      "start": 694,
+      "end": 699
+    },
+    {
+      "name": "Alosa-Hordielian War",
+      "start": 700,
+      "attacker": 4,
+      "defender": 14
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Neutral",
+    "Friendly",
+    "Friendly",
+    "Enemy",
+    "Suspicion",
+    "Unknown",
+    "Ally",
+    "Suspicion",
+    "Neutral",
+    "Unknown",
+    "Ally",
+    "Neutral",
+    "Unknown",
+    "x",
+    "Neutral",
+    "Unknown",
+    "Neutral",
+    "Suspicion"
+  ],
+  "urban": 101.405,
+  "rural": 713.1439164280891,
+  "burgs": 31,
+  "area": 8524,
+  "cells": 143,
+  "form": "Monarchy",
+  "formName": "Empire",
+  "fullName": "Hordieluan Empire",
+  "provinces": [
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    115
+  ],
+  "alert": 0.88,
+  "military": [
+    {
+      "i": 0,
+      "a": 85374,
+      "cell": 2723,
+      "x": 763.38,
+      "y": 405.57,
+      "bx": 763.38,
+      "by": 405.57,
+      "u": {
+        "archers": 42613,
+        "cavalry": 6393,
+        "artillery": 797,
+        "infantry": 35571
+      },
+      "n": 0,
+      "name": "1st (Urerogol) Regiment",
+      "state": 14,
+      "icon": "👑"
+    },
+    {
+      "i": 1,
+      "a": 118,
+      "cell": 2723,
+      "x": 763.1,
+      "y": 414.6,
+      "bx": 763.1,
+      "by": 414.6,
+      "u": {
+        "fleet": 118
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 14,
+      "icon": "🌊"
+    }
+  ]
+}

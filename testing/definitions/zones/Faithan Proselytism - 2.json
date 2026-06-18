@@ -1,0 +1,16 @@
+{
+  "i": 2,
+  "name": "Faithan Proselytism",
+  "type": "Proselytism",
+  "cells": [
+    738,
+    739,
+    738,
+    740,
+    812,
+    741,
+    814,
+    813
+  ],
+  "color": "url(#hatch6)"
+}

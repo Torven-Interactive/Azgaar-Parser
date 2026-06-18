@@ -1,0 +1,127 @@
+{
+  "i": 3,
+  "name": "Lendever",
+  "expansionism": 2.7,
+  "capital": 3,
+  "type": "Naval",
+  "center": 670,
+  "culture": 3,
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "bordure",
+        "t": "argent"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "mullet10",
+        "t": "sable",
+        "p": "ABCDEFGHIJKL",
+        "size": 0.18
+      },
+      {
+        "charge": "lizard",
+        "t": "or",
+        "p": "e",
+        "size": 1.1
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    874,
+    228
+  ],
+  "neighbors": [
+    2,
+    9
+  ],
+  "color": "#8da0cb",
+  "campaigns": [
+    {
+      "name": "Gotenese Invasion",
+      "start": 377,
+      "end": 381
+    },
+    {
+      "name": "Bliksanian Conquest",
+      "start": 648,
+      "end": 656
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Friendly",
+    "Vassal",
+    "x",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Friendly",
+    "Friendly",
+    "Neutral",
+    "Friendly",
+    "Neutral",
+    "Friendly",
+    "Neutral",
+    "Suspicion",
+    "Neutral",
+    "Neutral"
+  ],
+  "urban": 32.407000000000004,
+  "rural": 210.74613630771637,
+  "burgs": 11,
+  "area": 2915,
+  "cells": 54,
+  "form": "Monarchy",
+  "formName": "Grand Duchy",
+  "fullName": "Grand Duchy of Lendever",
+  "provinces": [
+    11,
+    12,
+    13,
+    14
+  ],
+  "alert": 0.17,
+  "military": [
+    {
+      "i": 0,
+      "a": 3447,
+      "cell": 670,
+      "x": 876.96,
+      "y": 212.61,
+      "bx": 876.96,
+      "by": 212.61,
+      "u": {
+        "archers": 1940,
+        "cavalry": 89,
+        "infantry": 1345,
+        "artillery": 73
+      },
+      "n": 0,
+      "name": "1st (Sendogia) Regiment",
+      "state": 3,
+      "icon": "👑"
+    },
+    {
+      "i": 1,
+      "a": 28,
+      "cell": 670,
+      "x": 881.27,
+      "y": 204.25,
+      "bx": 881.27,
+      "by": 204.25,
+      "u": {
+        "fleet": 28
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 3,
+      "icon": "🌊"
+    }
+  ]
+}

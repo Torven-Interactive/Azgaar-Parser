@@ -1,0 +1,114 @@
+{
+  "i": 17,
+  "name": "Hogurdia",
+  "expansionism": 3.2,
+  "capital": 17,
+  "type": "Naval",
+  "center": 1642,
+  "culture": 3,
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "boarHeadErased",
+        "t": "gules",
+        "p": "jln",
+        "t2": "purpure",
+        "t3": "gules",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    966,
+    306
+  ],
+  "neighbors": [],
+  "color": "#c3ed56",
+  "campaigns": [
+    {
+      "name": "Esvolese War",
+      "start": 694,
+      "end": 695
+    },
+    {
+      "name": "Skroia-Hogurdian War",
+      "start": 697,
+      "attacker": 9,
+      "defender": 17
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Enemy",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Enemy",
+    "Unknown",
+    "Suspicion",
+    "Neutral",
+    "Enemy",
+    "Unknown",
+    "Suspicion",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Friendly",
+    "x",
+    "Neutral"
+  ],
+  "urban": 28.993000000000002,
+  "rural": 97.01358073949814,
+  "burgs": 4,
+  "area": 1351,
+  "cells": 34,
+  "form": "Republic",
+  "formName": "Republic",
+  "fullName": "Republic of Hogurdia",
+  "provinces": [
+    98,
+    99,
+    117
+  ],
+  "alert": 1.48,
+  "military": [
+    {
+      "i": 0,
+      "a": 16894,
+      "cell": 1324,
+      "x": 971.1,
+      "y": 295.6,
+      "bx": 971.1,
+      "by": 295.6,
+      "u": {
+        "archers": 9517,
+        "cavalry": 396,
+        "infantry": 6433,
+        "artillery": 548
+      },
+      "n": 0,
+      "name": "1st (Barlaks) Regiment",
+      "state": 17,
+      "icon": "🏹"
+    },
+    {
+      "i": 1,
+      "a": 249,
+      "cell": 1324,
+      "x": 978.1,
+      "y": 286.3,
+      "bx": 978.1,
+      "by": 286.3,
+      "u": {
+        "fleet": 249
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 17,
+      "icon": "🌊"
+    }
+  ]
+}

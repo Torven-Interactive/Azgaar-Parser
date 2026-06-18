@@ -1,0 +1,10 @@
+{
+  "icon": "🏹",
+  "name": "archers",
+  "rural": 0.12,
+  "urban": 0.2,
+  "crew": 1,
+  "power": 1,
+  "type": "ranged",
+  "separate": 0
+}

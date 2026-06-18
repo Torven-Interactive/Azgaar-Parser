@@ -1,0 +1,106 @@
+{
+  "i": 8,
+  "name": "Urdikuria",
+  "expansionism": 2,
+  "capital": 8,
+  "type": "Generic",
+  "center": 2224,
+  "culture": 5,
+  "coa": {
+    "t1": "vert",
+    "division": {
+      "division": "perChevron",
+      "t": "or",
+      "line": "straight"
+    },
+    "shield": "oldFrench"
+  },
+  "pole": [
+    170,
+    389
+  ],
+  "neighbors": [
+    13
+  ],
+  "color": "#f88c7e",
+  "campaigns": [
+    {
+      "name": "Jararurian War",
+      "start": 586,
+      "end": 591
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Unknown",
+    "Neutral",
+    "Neutral",
+    "Unknown",
+    "Neutral",
+    "Unknown",
+    "Neutral",
+    "x",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Unknown",
+    "Ally",
+    "Suspicion",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral"
+  ],
+  "urban": 46.56300000000001,
+  "rural": 276.18957686424255,
+  "burgs": 11,
+  "area": 2157,
+  "cells": 41,
+  "form": "Monarchy",
+  "formName": "Grand Duchy",
+  "fullName": "Grand Duchy of Urdikuria",
+  "provinces": [
+    37,
+    38,
+    39,
+    40
+  ],
+  "alert": 0.17,
+  "military": [
+    {
+      "i": 0,
+      "a": 5885,
+      "cell": 2115,
+      "x": 169.2,
+      "y": 366,
+      "bx": 169.2,
+      "by": 366,
+      "u": {
+        "archers": 3029,
+        "cavalry": 384,
+        "artillery": 61,
+        "infantry": 2411
+      },
+      "n": 0,
+      "name": "1st (Gausurnia) Regiment",
+      "state": 8,
+      "icon": "🏹"
+    },
+    {
+      "i": 1,
+      "a": 9,
+      "cell": 2538,
+      "x": 155.39,
+      "y": 407.33,
+      "bx": 155.39,
+      "by": 407.33,
+      "u": {
+        "fleet": 9
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 8,
+      "icon": "🌊"
+    }
+  ]
+}

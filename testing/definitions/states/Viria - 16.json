@@ -1,0 +1,126 @@
+{
+  "i": 16,
+  "name": "Viria",
+  "expansionism": 2.6,
+  "capital": 16,
+  "type": "Generic",
+  "center": 2865,
+  "culture": 11,
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "crossHummetty",
+        "t": "azure",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "renaissance"
+  },
+  "pole": [
+    458,
+    430
+  ],
+  "neighbors": [
+    7,
+    1,
+    18
+  ],
+  "color": "#f688d5",
+  "campaigns": [
+    {
+      "name": "Bjerkhan Conquest",
+      "start": 615,
+      "end": 616
+    },
+    {
+      "name": "Gotynese War",
+      "start": 694,
+      "end": 699
+    },
+    {
+      "name": "Eldian Conquest",
+      "start": 694,
+      "end": 697
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Suspicion",
+    "Suspicion",
+    "Suspicion",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Rival",
+    "Neutral",
+    "Friendly",
+    "Unknown",
+    "Rival",
+    "Neutral",
+    "Unknown",
+    "Unknown",
+    "Neutral",
+    "x",
+    "Friendly",
+    "Suspicion"
+  ],
+  "urban": 129.04899999999998,
+  "rural": 578.816336274147,
+  "burgs": 26,
+  "area": 8991,
+  "cells": 159,
+  "form": "Monarchy",
+  "formName": "Empire",
+  "fullName": "Virian Empire",
+  "provinces": [
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    116
+  ],
+  "alert": 0.35,
+  "military": [
+    {
+      "i": 0,
+      "a": 22450,
+      "cell": 1826,
+      "x": 529.3,
+      "y": 338.5,
+      "bx": 529.3,
+      "by": 338.5,
+      "u": {
+        "archers": 11362,
+        "cavalry": 1561,
+        "artillery": 300,
+        "infantry": 9227
+      },
+      "n": 0,
+      "name": "1st (Beluzia) Regiment",
+      "state": 16,
+      "icon": "🏹"
+    },
+    {
+      "i": 1,
+      "a": 51,
+      "cell": 2272,
+      "x": 509.5,
+      "y": 366.5,
+      "bx": 509.5,
+      "by": 366.5,
+      "u": {
+        "fleet": 51
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 16,
+      "icon": "🌊"
+    }
+  ]
+}

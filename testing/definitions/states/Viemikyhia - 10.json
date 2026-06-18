@@ -1,0 +1,117 @@
+{
+  "i": 10,
+  "name": "Viemikyhia",
+  "expansionism": 5.7,
+  "capital": 10,
+  "type": "Generic",
+  "center": 629,
+  "culture": 7,
+  "coa": {
+    "t1": "azure",
+    "charges": [
+      {
+        "charge": "crossClechy",
+        "t": "argent",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "pole": [
+    324,
+    245
+  ],
+  "neighbors": [],
+  "color": "#d5a2dc",
+  "campaigns": [
+    {
+      "name": "Kankankian Campaign",
+      "start": 577,
+      "end": 585
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Unknown",
+    "Friendly",
+    "Friendly",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "x",
+    "Neutral",
+    "Suspicion",
+    "Neutral",
+    "Unknown",
+    "Suspicion",
+    "Unknown",
+    "Unknown",
+    "Unknown"
+  ],
+  "urban": 168.30599999999998,
+  "rural": 939.7664049267769,
+  "burgs": 43,
+  "area": 8364,
+  "cells": 166,
+  "form": "Monarchy",
+  "formName": "Kingdom",
+  "fullName": "Kingdom of Viemikyhia",
+  "provinces": [
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    114
+  ],
+  "alert": 0.21,
+  "military": [
+    {
+      "i": 0,
+      "a": 23538,
+      "cell": 771,
+      "x": 339.25,
+      "y": 227.43,
+      "bx": 339.25,
+      "by": 227.43,
+      "u": {
+        "archers": 12123,
+        "cavalry": 1531,
+        "artillery": 248,
+        "infantry": 9636
+      },
+      "n": 0,
+      "name": "1st (Mantlia) Regiment",
+      "state": 10,
+      "icon": "🏹"
+    },
+    {
+      "i": 1,
+      "a": 39,
+      "cell": 771,
+      "x": 338.28,
+      "y": 223.95,
+      "bx": 338.28,
+      "by": 223.95,
+      "u": {
+        "fleet": 39
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 10,
+      "icon": "🌊"
+    }
+  ]
+}

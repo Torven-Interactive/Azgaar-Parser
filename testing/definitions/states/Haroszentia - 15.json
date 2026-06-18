@@ -1,0 +1,113 @@
+{
+  "i": 15,
+  "name": "Haroszentia",
+  "expansionism": 4,
+  "capital": 15,
+  "type": "Generic",
+  "center": 535,
+  "culture": 2,
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "gore",
+        "t": "purpure"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "mascle",
+        "t": "azure",
+        "p": "joe",
+        "size": 0.5
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "pole": [
+    1111,
+    185
+  ],
+  "neighbors": [
+    6
+  ],
+  "color": "#a9bec2",
+  "campaigns": [
+    {
+      "name": "Devat Conflict",
+      "start": 694,
+      "end": 695
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Suspicion",
+    "Ally",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Suspicion",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "x",
+    "Neutral",
+    "Neutral",
+    "Neutral"
+  ],
+  "urban": 20.761,
+  "rural": 115.4388592839241,
+  "burgs": 5,
+  "area": 1059,
+  "cells": 24,
+  "form": "Monarchy",
+  "formName": "Duchy",
+  "fullName": "Duchy of Haroszentia",
+  "provinces": [
+    88,
+    89
+  ],
+  "alert": 0.6,
+  "military": [
+    {
+      "i": 0,
+      "a": 9208,
+      "cell": 454,
+      "x": 1104.9,
+      "y": 186.2,
+      "bx": 1104.9,
+      "by": 186.2,
+      "u": {
+        "archers": 4742,
+        "cavalry": 597,
+        "artillery": 96,
+        "infantry": 3773
+      },
+      "n": 0,
+      "name": "1st (Hajvalaspercs) Regiment",
+      "state": 15,
+      "icon": "🏹"
+    },
+    {
+      "i": 1,
+      "a": 12,
+      "cell": 535,
+      "x": 1129.51,
+      "y": 192.81,
+      "bx": 1129.51,
+      "by": 192.81,
+      "u": {
+        "fleet": 12
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 15,
+      "icon": "🌊"
+    }
+  ]
+}

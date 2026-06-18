@@ -1,0 +1,132 @@
+{
+  "i": 7,
+  "name": "Bjerkho",
+  "expansionism": 6.9,
+  "capital": 7,
+  "type": "Naval",
+  "center": 966,
+  "culture": 3,
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "perPale",
+      "t": "lozengy-sable-argent",
+      "line": "straight"
+    },
+    "shield": "heater"
+  },
+  "pole": [
+    648,
+    284
+  ],
+  "neighbors": [
+    9,
+    5,
+    16,
+    1,
+    11
+  ],
+  "color": "#e7a686",
+  "campaigns": [
+    {
+      "name": "Virian Campaign",
+      "start": 515,
+      "end": 522
+    },
+    {
+      "name": "Skroian War",
+      "start": 671,
+      "end": 674
+    },
+    {
+      "name": "Gotynese Conquest",
+      "start": 682,
+      "end": 690
+    },
+    {
+      "name": "Miruenian Campaign",
+      "start": 688,
+      "end": 696
+    },
+    {
+      "name": "Trel Campaign",
+      "start": 694,
+      "end": 698
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Rival",
+    "Neutral",
+    "Neutral",
+    "Enemy",
+    "Rival",
+    "Unknown",
+    "x",
+    "Neutral",
+    "Rival",
+    "Neutral",
+    "Suzerain",
+    "Neutral",
+    "Suspicion",
+    "Ally",
+    "Neutral",
+    "Rival",
+    "Suspicion",
+    "Friendly"
+  ],
+  "urban": 74.06099999999999,
+  "rural": 596.0408846437931,
+  "burgs": 15,
+  "area": 8610,
+  "cells": 179,
+  "form": "Monarchy",
+  "formName": "Empire",
+  "fullName": "Bjerkhan Empire",
+  "provinces": [
+    32,
+    33,
+    34,
+    35,
+    36,
+    112
+  ],
+  "alert": 3.01,
+  "military": [
+    {
+      "i": 0,
+      "a": 95028,
+      "cell": 966,
+      "x": 735.7,
+      "y": 250.9,
+      "bx": 735.7,
+      "by": 250.9,
+      "u": {
+        "archers": 53409,
+        "cavalry": 2542,
+        "infantry": 37250,
+        "artillery": 1827
+      },
+      "n": 0,
+      "name": "1st (Rifting) Regiment",
+      "state": 7,
+      "icon": "👑"
+    },
+    {
+      "i": 1,
+      "a": 798,
+      "cell": 966,
+      "x": 725,
+      "y": 246.21,
+      "bx": 725,
+      "by": 246.21,
+      "u": {
+        "fleet": 798
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 7,
+      "icon": "🌊"
+    }
+  ]
+}

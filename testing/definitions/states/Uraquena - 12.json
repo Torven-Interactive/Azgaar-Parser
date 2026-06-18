@@ -1,0 +1,121 @@
+{
+  "i": 12,
+  "name": "Uraquena",
+  "expansionism": 1.4,
+  "capital": 12,
+  "type": "Generic",
+  "center": 2824,
+  "culture": 8,
+  "coa": {
+    "t1": "gules",
+    "division": {
+      "division": "perFess",
+      "t": "argent",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "pineCone",
+        "t": "or",
+        "p": "k",
+        "size": 0.7
+      },
+      {
+        "charge": "mascle",
+        "t": "azure",
+        "p": "n",
+        "size": 0.7
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    857,
+    426
+  ],
+  "neighbors": [],
+  "color": "#f7f841",
+  "campaigns": [
+    {
+      "name": "Dostilan Conquest",
+      "start": 690,
+      "end": 696
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Neutral",
+    "Friendly",
+    "Friendly",
+    "Neutral",
+    "Friendly",
+    "Neutral",
+    "Neutral",
+    "Unknown",
+    "Neutral",
+    "Suspicion",
+    "Neutral",
+    "x",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Suspicion"
+  ],
+  "urban": 120.31700000000001,
+  "rural": 539.8030579686165,
+  "burgs": 23,
+  "area": 5239,
+  "cells": 96,
+  "form": "Monarchy",
+  "formName": "Principality",
+  "fullName": "Principality of Uraquena",
+  "provinces": [
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62
+  ],
+  "alert": 0.1,
+  "military": [
+    {
+      "i": 0,
+      "a": 8186,
+      "cell": 2824,
+      "x": 825.55,
+      "y": 417.6,
+      "bx": 825.55,
+      "by": 417.6,
+      "u": {
+        "archers": 4243,
+        "cavalry": 503,
+        "artillery": 113,
+        "infantry": 3327
+      },
+      "n": 0,
+      "name": "1st (Quincos) Regiment",
+      "state": 12,
+      "icon": "👑"
+    },
+    {
+      "i": 1,
+      "a": 25,
+      "cell": 2824,
+      "x": 822.33,
+      "y": 420.55,
+      "bx": 822.33,
+      "by": 420.55,
+      "u": {
+        "fleet": 25
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 12,
+      "icon": "🌊"
+    }
+  ]
+}

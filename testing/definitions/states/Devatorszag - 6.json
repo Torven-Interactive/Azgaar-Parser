@@ -1,0 +1,111 @@
+{
+  "i": 6,
+  "name": "Devatorszag",
+  "expansionism": 3.6,
+  "capital": 6,
+  "type": "Generic",
+  "center": 150,
+  "culture": 2,
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "scalesHanging",
+        "t": "gules",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "pole": [
+    1060,
+    157
+  ],
+  "neighbors": [
+    15
+  ],
+  "color": "#ffd92f",
+  "campaigns": [
+    {
+      "name": "Haroszentian Invasion",
+      "start": 476,
+      "end": 478
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "x",
+    "Unknown",
+    "Unknown",
+    "Neutral",
+    "Neutral",
+    "Unknown",
+    "Neutral",
+    "Neutral",
+    "Unknown",
+    "Ally",
+    "Neutral",
+    "Unknown",
+    "Suspicion"
+  ],
+  "urban": 88.555,
+  "rural": 461.12347251176834,
+  "burgs": 17,
+  "area": 4106,
+  "cells": 78,
+  "form": "Theocracy",
+  "formName": "Theocracy",
+  "fullName": "Devat Theocracy",
+  "provinces": [
+    27,
+    28,
+    29,
+    30,
+    31,
+    111
+  ],
+  "alert": 0.16,
+  "military": [
+    {
+      "i": 0,
+      "a": 6687,
+      "cell": 378,
+      "x": 1086.25,
+      "y": 175.87,
+      "bx": 1086.25,
+      "by": 175.87,
+      "u": {
+        "archers": 3457,
+        "cavalry": 418,
+        "artillery": 83,
+        "infantry": 2729
+      },
+      "n": 0,
+      "name": "1st (Karospercsza) Regiment",
+      "state": 6,
+      "icon": "🏹"
+    },
+    {
+      "i": 1,
+      "a": 18,
+      "cell": 378,
+      "x": 1085.08,
+      "y": 184.93,
+      "bx": 1085.08,
+      "by": 184.93,
+      "u": {
+        "fleet": 18
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 6,
+      "icon": "🌊"
+    }
+  ]
+}

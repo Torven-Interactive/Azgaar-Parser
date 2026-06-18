@@ -1,0 +1,127 @@
+{
+  "i": 18,
+  "name": "Eldia",
+  "expansionism": 2.3,
+  "capital": 18,
+  "type": "Generic",
+  "center": 2367,
+  "culture": 5,
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perPale",
+      "t": "purpure",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "lanceHead",
+        "t": "gules",
+        "p": "e",
+        "divided": "field",
+        "size": 1.5
+      },
+      {
+        "charge": "crossLatin",
+        "t": "or",
+        "p": "e",
+        "divided": "division",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    381,
+    461
+  ],
+  "neighbors": [
+    16
+  ],
+  "color": "#ffd246",
+  "campaigns": [
+    {
+      "name": "Geran War",
+      "start": 361,
+      "end": 367
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Unknown",
+    "Neutral",
+    "Suspicion",
+    "Friendly",
+    "Neutral",
+    "Neutral",
+    "Unknown",
+    "Friendly",
+    "Suspicion",
+    "Neutral",
+    "Suspicion",
+    "Neutral",
+    "Suspicion",
+    "Neutral",
+    "x"
+  ],
+  "urban": 127.582,
+  "rural": 579.2797793745995,
+  "burgs": 31,
+  "area": 5733,
+  "cells": 113,
+  "form": "Monarchy",
+  "formName": "Principality",
+  "fullName": "Principality of Eldia",
+  "provinces": [
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108
+  ],
+  "alert": 0.15,
+  "military": [
+    {
+      "i": 0,
+      "a": 10006,
+      "cell": 1927,
+      "x": 377.2,
+      "y": 347.3,
+      "bx": 377.2,
+      "by": 347.3,
+      "u": {
+        "archers": 5182,
+        "cavalry": 619,
+        "artillery": 133,
+        "infantry": 4072
+      },
+      "n": 0,
+      "name": "1st (Gaudia) Regiment",
+      "state": 18,
+      "icon": "🏹"
+    },
+    {
+      "i": 1,
+      "a": 24,
+      "cell": 2367,
+      "x": 415.64,
+      "y": 389.89,
+      "bx": 415.64,
+      "by": 389.89,
+      "u": {
+        "fleet": 24
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 18,
+      "icon": "🌊"
+    }
+  ]
+}

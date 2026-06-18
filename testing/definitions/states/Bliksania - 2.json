@@ -1,0 +1,125 @@
+{
+  "i": 2,
+  "name": "Bliksania",
+  "expansionism": 4.8,
+  "capital": 2,
+  "type": "Naval",
+  "center": 124,
+  "culture": 3,
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perFess",
+      "t": "purpure",
+      "line": "nebuly"
+    },
+    "charges": [
+      {
+        "charge": "mulletFaceted",
+        "t": "gules",
+        "p": "kmo",
+        "size": 0.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    840,
+    169
+  ],
+  "neighbors": [
+    9,
+    3
+  ],
+  "color": "#fc8d62",
+  "campaigns": [
+    {
+      "name": "Skroian Rebellion",
+      "start": 444,
+      "end": 453
+    },
+    {
+      "name": "Rifjor War",
+      "start": 628,
+      "end": 631
+    }
+  ],
+  "diplomacy": [
+    "x",
+    "Friendly",
+    "x",
+    "Suzerain",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Neutral",
+    "Friendly",
+    "Friendly",
+    "Neutral",
+    "Friendly",
+    "Neutral",
+    "Friendly",
+    "Neutral",
+    "Suspicion",
+    "Neutral",
+    "Neutral"
+  ],
+  "urban": 144.273,
+  "rural": 632.3507599234581,
+  "burgs": 26,
+  "area": 5930,
+  "cells": 105,
+  "form": "Theocracy",
+  "formName": "Theocracy",
+  "fullName": "Bliksanian Theocracy",
+  "provinces": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    110
+  ],
+  "alert": 0.46,
+  "military": [
+    {
+      "i": 0,
+      "a": 30711,
+      "cell": 168,
+      "x": 838.07,
+      "y": 153.86,
+      "bx": 838.07,
+      "by": 153.86,
+      "u": {
+        "archers": 17276,
+        "cavalry": 772,
+        "infantry": 11857,
+        "artillery": 806
+      },
+      "n": 0,
+      "name": "1st (Rifjoria) Regiment",
+      "state": 2,
+      "icon": "🏹"
+    },
+    {
+      "i": 1,
+      "a": 63,
+      "cell": 231,
+      "x": 898.8,
+      "y": 163.7,
+      "bx": 898.8,
+      "by": 163.7,
+      "u": {
+        "fleet": 63
+      },
+      "n": 1,
+      "name": "1st Fleet",
+      "state": 2,
+      "icon": "🌊"
+    }
+  ]
+}
