@@ -38,7 +38,7 @@ public class Window extends JFrame {
      * 📐 Configures structural window frame rules
      */
     private void initializeFrame() {
-        setTitle("AzgaarParser v1.1.3 - Data Refinery Tool");
+        setTitle("AzgaarParser v2.0.0 - Data Refinery Tool");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setMinimumSize(new Dimension(650, 480));
         setLocationRelativeTo(null); // Clear placement padding, center on screen
