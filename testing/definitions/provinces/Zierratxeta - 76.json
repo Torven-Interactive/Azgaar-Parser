@@ -1,0 +1,39 @@
+{
+  "i": 76,
+  "state": 13,
+  "center": 2231,
+  "burg": 180,
+  "name": "Zierratxeta",
+  "formName": "Republic",
+  "fullName": "Zierratxeta Republic",
+  "color": "#bcc9a5",
+  "coa": {
+    "t1": "bendySinister-argent-purpure",
+    "division": {
+      "division": "perPale",
+      "t": "gules",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "goutte",
+        "t": "azure",
+        "p": "ABCDEFGHIJKL",
+        "t2": "azure",
+        "t3": "azure",
+        "size": 0.18
+      },
+      {
+        "charge": "rustre",
+        "t": "azure",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    181,
+    356
+  ]
+}

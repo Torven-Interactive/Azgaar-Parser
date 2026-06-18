@@ -1,0 +1,38 @@
+{
+  "i": 86,
+  "state": 14,
+  "center": 2719,
+  "burg": 211,
+  "name": "Valza",
+  "formName": "Margrave",
+  "fullName": "Valza Margrave",
+  "color": "#d6bca4",
+  "coa": {
+    "t1": "barry-or-gules",
+    "division": {
+      "division": "perBend",
+      "t": "vert",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "parrot",
+        "t": "gules",
+        "p": "l",
+        "t2": "gules",
+        "size": 0.7
+      },
+      {
+        "charge": "castle",
+        "t": "argent",
+        "p": "m",
+        "size": 0.7
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    733,
+    409
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "i": 92,
+  "state": 16,
+  "center": 2272,
+  "burg": 31,
+  "name": "Tranjeiro",
+  "formName": "County",
+  "fullName": "Tranjeiro County",
+  "color": "#f2b0d2",
+  "coa": {
+    "t1": "sable",
+    "charges": [
+      {
+        "charge": "skull2",
+        "t": "argent",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "renaissance"
+  },
+  "pole": [
+    527,
+    378
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "i": 101,
+  "state": 18,
+  "center": 2995,
+  "burg": 148,
+  "name": "Urbelubi",
+  "formName": "Barony",
+  "fullName": "Urbelubi Barony",
+  "color": "#ffc866",
+  "coa": {
+    "t1": "or",
+    "division": {
+      "division": "perCross",
+      "t": "chainy-argent-azure",
+      "line": "nebuly"
+    },
+    "charges": [
+      {
+        "charge": "laurelWreath",
+        "t": "sable",
+        "p": "j",
+        "t2": "purpure",
+        "size": 0.6
+      },
+      {
+        "charge": "badgerStatant",
+        "t": "sable",
+        "p": "l",
+        "size": 0.6
+      },
+      {
+        "charge": "bucket",
+        "t": "purpure",
+        "p": "m",
+        "size": 0.6
+      },
+      {
+        "charge": "bullHeadCaboshed",
+        "t": "sable",
+        "p": "o",
+        "size": 0.6
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    390,
+    453
+  ]
+}

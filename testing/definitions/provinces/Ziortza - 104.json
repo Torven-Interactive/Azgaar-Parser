@@ -1,0 +1,26 @@
+{
+  "i": 104,
+  "state": 18,
+  "center": 2997,
+  "burg": 196,
+  "name": "Ziortza",
+  "formName": "County",
+  "fullName": "Ziortza County",
+  "color": "#ffc866",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "trefle",
+        "t": "or",
+        "p": "kn",
+        "size": 0.7
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    418,
+    453
+  ]
+}

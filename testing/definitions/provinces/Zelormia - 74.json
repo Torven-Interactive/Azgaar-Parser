@@ -1,0 +1,26 @@
+{
+  "i": 74,
+  "state": 13,
+  "center": 1660,
+  "burg": 325,
+  "name": "Zelormia",
+  "formName": "Republic",
+  "fullName": "Zelormia Republic",
+  "color": "#bcc6ab",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "cancer",
+        "t": "sable",
+        "p": "def",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    213,
+    330
+  ]
+}

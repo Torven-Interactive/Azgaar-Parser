@@ -1,0 +1,30 @@
+{
+  "i": 79,
+  "state": 14,
+  "center": 2723,
+  "burg": 14,
+  "name": "Urerogol",
+  "formName": "County",
+  "fullName": "Urerogol County",
+  "color": "#d7cd90",
+  "coa": {
+    "t1": "barry-or-gules",
+    "division": {
+      "division": "perPale",
+      "t": "sable",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "pile",
+        "t": "vert",
+        "line": "straight"
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    766,
+    402
+  ]
+}

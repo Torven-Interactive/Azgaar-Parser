@@ -1,0 +1,26 @@
+{
+  "i": 105,
+  "state": 18,
+  "center": 2465,
+  "burg": 277,
+  "name": "Zararautzia",
+  "formName": "County",
+  "fullName": "Zararautzia County",
+  "color": "#ffc865",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "crossHummetty",
+        "t": "gules",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    391,
+    388
+  ]
+}

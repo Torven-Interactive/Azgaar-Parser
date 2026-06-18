@@ -1,0 +1,28 @@
+{
+  "i": 75,
+  "state": 13,
+  "center": 1679,
+  "burg": 73,
+  "name": "Zierbatzi",
+  "formName": "Republic",
+  "fullName": "Zierbatzi Republic",
+  "color": "#a6c3b7",
+  "coa": {
+    "t1": "bendy-argent-purpure",
+    "charges": [
+      {
+        "charge": "ramHeadErased",
+        "t": "vert",
+        "p": "e",
+        "t2": "vert",
+        "t3": "gules",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    311,
+    322
+  ]
+}

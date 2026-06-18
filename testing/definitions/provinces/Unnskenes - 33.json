@@ -1,0 +1,34 @@
+{
+  "i": 33,
+  "state": 7,
+  "center": 884,
+  "burg": 37,
+  "name": "Unnskenes",
+  "formName": "County",
+  "fullName": "Unnskenes County",
+  "color": "#e6a29e",
+  "coa": {
+    "t1": "or",
+    "ordinaries": [
+      {
+        "ordinary": "bendSinister",
+        "t": "gules",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "donkeyHeadCaboshed",
+        "t": "or",
+        "p": "e",
+        "t2": "or",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    756,
+    233
+  ]
+}

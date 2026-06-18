@@ -1,0 +1,26 @@
+{
+  "i": 45,
+  "state": 10,
+  "center": 925,
+  "burg": 122,
+  "name": "Thignia",
+  "formName": "County",
+  "fullName": "Thignia County",
+  "color": "#f6a1e0",
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "raft",
+        "t": "sable",
+        "p": "abcpqh",
+        "size": 0.5
+      }
+    ],
+    "shield": "french"
+  },
+  "pole": [
+    319,
+    252
+  ]
+}

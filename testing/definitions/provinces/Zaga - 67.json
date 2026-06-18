@@ -1,0 +1,34 @@
+{
+  "i": 67,
+  "state": 13,
+  "center": 1800,
+  "burg": 179,
+  "name": "Zaga",
+  "formName": "State",
+  "fullName": "Zaga State",
+  "color": "#bcc7a8",
+  "coa": {
+    "t1": "sable",
+    "ordinaries": [
+      {
+        "ordinary": "crossParted",
+        "t": "or",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "horseSalient",
+        "t": "sable",
+        "p": "e",
+        "t2": "sable",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    327,
+    327
+  ]
+}

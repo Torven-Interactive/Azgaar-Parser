@@ -1,0 +1,30 @@
+{
+  "i": 78,
+  "state": 13,
+  "center": 2025,
+  "burg": 46,
+  "name": "Zuruetakal",
+  "formName": "Province",
+  "fullName": "Zuruetakal Province",
+  "color": "#97cbbd",
+  "coa": {
+    "t1": "semy_of_mascle-azure-argent",
+    "division": {
+      "division": "perFess",
+      "t": "argent",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "saltireParted",
+        "t": "or",
+        "line": "straight"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    307,
+    351
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "i": 90,
+  "state": 16,
+  "center": 2865,
+  "burg": 16,
+  "name": "Virao",
+  "formName": "County",
+  "fullName": "Virao County",
+  "color": "#e2abe2",
+  "coa": {
+    "t1": "or",
+    "division": {
+      "division": "perPale",
+      "t": "barry-argent-vert",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "rapier",
+        "t": "azure",
+        "p": "p",
+        "t2": "azure",
+        "size": 0.7
+      },
+      {
+        "charge": "hourglass",
+        "t": "purpure",
+        "p": "q",
+        "size": 0.7
+      }
+    ],
+    "shield": "renaissance"
+  },
+  "pole": [
+    507,
+    416
+  ]
+}

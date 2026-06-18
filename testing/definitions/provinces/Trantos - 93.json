@@ -1,0 +1,31 @@
+{
+  "i": 93,
+  "state": 16,
+  "center": 2586,
+  "burg": 217,
+  "name": "Trantos",
+  "formName": "Margrave",
+  "fullName": "Trantos Margrave",
+  "color": "#ff96cc",
+  "coa": {
+    "t1": "or",
+    "division": {
+      "division": "perChevronReversed",
+      "t": "purpure",
+      "line": "dragonTeeth"
+    },
+    "charges": [
+      {
+        "charge": "escallop",
+        "t": "azure",
+        "p": "mok",
+        "size": 0.5
+      }
+    ],
+    "shield": "renaissance"
+  },
+  "pole": [
+    482,
+    403
+  ]
+}

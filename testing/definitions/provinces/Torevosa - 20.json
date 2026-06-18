@@ -1,0 +1,26 @@
+{
+  "i": 20,
+  "state": 5,
+  "center": 2087,
+  "burg": 5,
+  "name": "Torevosa",
+  "formName": "Earldom",
+  "fullName": "Torevosa Earldom",
+  "color": "#c4ec56",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "crossHummetty",
+        "t": "or",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    773,
+    358
+  ]
+}

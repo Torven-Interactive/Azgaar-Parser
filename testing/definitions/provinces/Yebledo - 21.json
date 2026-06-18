@@ -1,0 +1,28 @@
+{
+  "i": 21,
+  "state": 5,
+  "center": 2078,
+  "burg": 291,
+  "name": "Yebledo",
+  "formName": "County",
+  "fullName": "Yebledo County",
+  "color": "#9aed76",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "lionPassantGuardant",
+        "t": "gules",
+        "p": "e",
+        "t2": "gules",
+        "t3": "gules",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    707,
+    365
+  ]
+}
