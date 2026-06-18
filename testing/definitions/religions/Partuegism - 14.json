@@ -1,0 +1,17 @@
+{
+  "name": "Partuegism",
+  "type": "Organized",
+  "form": "Monotheism",
+  "culture": 8,
+  "center": 2098,
+  "deity": "Partuega, The Otherworldly Divine One",
+  "expansion": "global",
+  "expansionism": 2,
+  "color": "#f6e371",
+  "i": 14,
+  "code": "Pa",
+  "origins": [
+    3,
+    8
+  ]
+}

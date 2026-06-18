@@ -1,0 +1,16 @@
+{
+  "name": "Caremism",
+  "type": "Folk",
+  "form": "Polytheism",
+  "culture": 11,
+  "center": 2584,
+  "deity": "Alcougalhal, The Almighty Creator of Day",
+  "expansion": "global",
+  "expansionism": 0,
+  "color": "#ffed6f",
+  "i": 11,
+  "code": "Ca",
+  "origins": [
+    0
+  ]
+}

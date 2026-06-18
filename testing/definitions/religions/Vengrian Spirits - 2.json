@@ -1,0 +1,15 @@
+{
+  "name": "Vengrian Spirits",
+  "type": "Folk",
+  "form": "Animism",
+  "culture": 2,
+  "center": 442,
+  "expansion": "culture",
+  "expansionism": 0,
+  "color": "#80b1d3",
+  "i": 2,
+  "code": "VS",
+  "origins": [
+    0
+  ]
+}

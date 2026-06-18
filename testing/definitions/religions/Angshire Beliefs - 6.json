@@ -1,0 +1,16 @@
+{
+  "name": "Angshire Beliefs",
+  "type": "Folk",
+  "form": "Shamanism",
+  "culture": 6,
+  "center": 1283,
+  "deity": "Chipingmo, The Sapphire Mother",
+  "expansion": "culture",
+  "expansionism": 0,
+  "color": "#fb8072",
+  "i": 6,
+  "code": "AB",
+  "origins": [
+    0
+  ]
+}

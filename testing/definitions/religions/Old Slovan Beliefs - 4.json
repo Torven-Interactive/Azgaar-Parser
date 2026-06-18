@@ -1,0 +1,16 @@
+{
+  "name": "Old Slovan Beliefs",
+  "type": "Folk",
+  "form": "Nature Worship",
+  "culture": 4,
+  "center": 2604,
+  "deity": "Glinshek, The Great",
+  "expansion": "culture",
+  "expansionism": 0,
+  "color": "#fccde5",
+  "i": 4,
+  "code": "OS",
+  "origins": [
+    0
+  ]
+}

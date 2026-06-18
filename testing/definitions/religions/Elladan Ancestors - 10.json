@@ -1,0 +1,16 @@
+{
+  "name": "Elladan Ancestors",
+  "type": "Folk",
+  "form": "Ancestor Worship",
+  "culture": 10,
+  "center": 868,
+  "deity": "Thyrolis, The Pregnant",
+  "expansion": "culture",
+  "expansionism": 0,
+  "color": "#c6b9c1",
+  "i": 10,
+  "code": "EA",
+  "origins": [
+    0
+  ]
+}

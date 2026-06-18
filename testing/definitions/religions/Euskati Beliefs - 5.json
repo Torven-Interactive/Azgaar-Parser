@@ -1,0 +1,16 @@
+{
+  "name": "Euskati Beliefs",
+  "type": "Folk",
+  "form": "Ancestor Worship",
+  "culture": 5,
+  "center": 1926,
+  "deity": "Erio, The Cruel Reaper",
+  "expansion": "culture",
+  "expansionism": 0,
+  "color": "#bc80bd",
+  "i": 5,
+  "code": "EB",
+  "origins": [
+    0
+  ]
+}

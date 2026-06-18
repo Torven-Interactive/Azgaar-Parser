@@ -1,0 +1,16 @@
+{
+  "name": "Ujszod Blasphemy",
+  "type": "Cult",
+  "form": "Dark Cult",
+  "culture": 2,
+  "center": 150,
+  "deity": "Menyemod, The Coral Heaven",
+  "expansion": "global",
+  "expansionism": 0.7,
+  "color": "#9077c3",
+  "i": 15,
+  "code": "UB",
+  "origins": [
+    2
+  ]
+}

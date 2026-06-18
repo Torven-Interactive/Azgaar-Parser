@@ -1,0 +1,15 @@
+{
+  "name": "Luari Spirits",
+  "type": "Folk",
+  "form": "Animism",
+  "culture": 9,
+  "center": 618,
+  "expansion": "culture",
+  "expansionism": 0,
+  "color": "#dababf",
+  "i": 9,
+  "code": "LS",
+  "origins": [
+    0
+  ]
+}

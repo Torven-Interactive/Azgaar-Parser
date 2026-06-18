@@ -1,0 +1,16 @@
+{
+  "name": "Astellian Beliefs",
+  "type": "Folk",
+  "form": "Shamanism",
+  "culture": 8,
+  "center": 2887,
+  "deity": "Herguiltab, The Flying Ibis",
+  "expansion": "culture",
+  "expansionism": 0,
+  "color": "#fdb462",
+  "i": 8,
+  "code": "AS",
+  "origins": [
+    0
+  ]
+}

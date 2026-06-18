@@ -1,0 +1,16 @@
+{
+  "name": "Vaalansuuta Deities",
+  "type": "Folk",
+  "form": "Polytheism",
+  "culture": 7,
+  "center": 702,
+  "deity": "Niivi, The Celestial Spirit",
+  "expansion": "global",
+  "expansionism": 0,
+  "color": "#b3de69",
+  "i": 7,
+  "code": "VD",
+  "origins": [
+    0
+  ]
+}

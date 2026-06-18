@@ -1,0 +1,16 @@
+{
+  "name": "Norse Ancestors",
+  "type": "Folk",
+  "form": "Ancestor Worship",
+  "culture": 3,
+  "center": 182,
+  "deity": "Bostrand, The Mystical Sage",
+  "expansion": "culture",
+  "expansionism": 0,
+  "color": "#8dd3c7",
+  "i": 3,
+  "code": "NA",
+  "origins": [
+    0
+  ]
+}

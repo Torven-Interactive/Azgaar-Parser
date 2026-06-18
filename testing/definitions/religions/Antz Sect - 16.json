@@ -1,0 +1,16 @@
+{
+  "name": "Antz Sect",
+  "type": "Heresy",
+  "form": "Heresy",
+  "culture": 5,
+  "center": 2224,
+  "deity": "Berga, The Light Roc",
+  "expansion": "global",
+  "expansionism": 0.9,
+  "color": "#a37fd4",
+  "i": 16,
+  "code": "AN",
+  "origins": [
+    5
+  ]
+}

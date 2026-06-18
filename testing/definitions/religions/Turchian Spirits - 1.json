@@ -1,0 +1,16 @@
+{
+  "name": "Turchian Spirits",
+  "type": "Folk",
+  "form": "Shamanism",
+  "culture": 1,
+  "center": 742,
+  "deity": "Kalkankor, The Master",
+  "expansion": "culture",
+  "expansionism": 0,
+  "color": "#ccebc5",
+  "i": 1,
+  "code": "TS",
+  "origins": [
+    0
+  ]
+}

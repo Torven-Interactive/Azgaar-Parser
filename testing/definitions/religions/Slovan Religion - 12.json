@@ -1,0 +1,16 @@
+{
+  "name": "Slovan Religion",
+  "type": "Organized",
+  "form": "Dualism",
+  "culture": 4,
+  "center": 1832,
+  "deity": "Pelyenicha, The Huge",
+  "expansion": "culture",
+  "expansionism": 7.3,
+  "color": "#ffcbe6",
+  "i": 12,
+  "code": "SR",
+  "origins": [
+    4
+  ]
+}

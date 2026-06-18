@@ -1,0 +1,5 @@
+{
+  "id": "marker15",
+  "name": "Dungeon",
+  "legend": "\u003cdiv\u003eUndiscovered dungeon. See \u003ca href\u003d\"https://watabou.github.io/one-page-dungeon/?seed\u003d99839232536\" target\u003d\"_blank\"\u003eOne page dungeon\u003c/a\u003e\u003c/div\u003e\u003ciframe style\u003d\"pointer-events: none;\" src\u003d\"https://watabou.github.io/one-page-dungeon/?seed\u003d99839232536\" sandbox\u003d\"allow-scripts allow-same-origin\"\u003e\u003c/iframe\u003e"
+}

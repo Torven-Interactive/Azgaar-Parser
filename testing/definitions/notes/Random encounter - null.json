@@ -1,0 +1,5 @@
+{
+  "id": "marker38",
+  "name": "Random encounter",
+  "legend": "\u003cdiv\u003eYou have encountered a character.\u003c/div\u003e\u003ciframe src\u003d\"https://deorum.vercel.app/encounter/2688\" width\u003d\"375\" height\u003d\"600\" sandbox\u003d\"allow-scripts allow-same-origin allow-popups\"\u003e\u003c/iframe\u003e"
+}

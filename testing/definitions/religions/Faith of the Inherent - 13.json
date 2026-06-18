@@ -1,0 +1,16 @@
+{
+  "name": "Faith of the Inherent",
+  "type": "Organized",
+  "form": "Syncretism",
+  "culture": 3,
+  "center": 124,
+  "deity": "Ellaber, The Calm Hound",
+  "expansion": "global",
+  "expansionism": 7,
+  "color": "#86fad4",
+  "i": 13,
+  "code": "Fa",
+  "origins": [
+    3
+  ]
+}
