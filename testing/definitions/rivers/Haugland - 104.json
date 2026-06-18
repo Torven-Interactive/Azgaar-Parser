@@ -1,0 +1,13 @@
+{
+  "i": 104,
+  "parent": 104,
+  "cells": [
+    343,
+    278,
+    214,
+    164
+  ],
+  "basin": 104,
+  "name": "Haugland",
+  "type": "River"
+}

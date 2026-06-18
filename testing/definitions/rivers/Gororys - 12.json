@@ -1,0 +1,13 @@
+{
+  "i": 12,
+  "parent": 12,
+  "cells": [
+    2177,
+    2280,
+    2388,
+    2490
+  ],
+  "basin": 12,
+  "name": "Gororys",
+  "type": "River"
+}

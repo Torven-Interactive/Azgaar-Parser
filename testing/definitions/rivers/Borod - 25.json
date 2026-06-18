@@ -1,0 +1,12 @@
+{
+  "i": 25,
+  "parent": 25,
+  "cells": [
+    2179,
+    2283,
+    2284
+  ],
+  "basin": 25,
+  "name": "Borod",
+  "type": "River"
+}

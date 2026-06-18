@@ -1,0 +1,12 @@
+{
+  "i": 8,
+  "parent": 8,
+  "cells": [
+    744,
+    819,
+    902
+  ],
+  "basin": 8,
+  "name": "Hvolsver",
+  "type": "River"
+}

@@ -1,0 +1,13 @@
+{
+  "i": 3,
+  "parent": 3,
+  "cells": [
+    1586,
+    1587,
+    1467,
+    1469
+  ],
+  "basin": 3,
+  "name": "Goroshin",
+  "type": "River"
+}

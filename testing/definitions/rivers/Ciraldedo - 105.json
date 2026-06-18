@@ -1,0 +1,13 @@
+{
+  "i": 105,
+  "parent": 105,
+  "cells": [
+    1980,
+    2095,
+    2099,
+    2210
+  ],
+  "basin": 105,
+  "name": "Ciraldedo",
+  "type": "River"
+}

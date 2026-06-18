@@ -1,0 +1,12 @@
+{
+  "i": 7,
+  "parent": 6,
+  "cells": [
+    586,
+    507,
+    417
+  ],
+  "basin": 6,
+  "name": "Hvandur",
+  "type": "River"
+}
