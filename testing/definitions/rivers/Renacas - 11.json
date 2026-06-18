@@ -1,0 +1,13 @@
+{
+  "i": 11,
+  "parent": 11,
+  "cells": [
+    2062,
+    1943,
+    1826,
+    1710
+  ],
+  "basin": 11,
+  "name": "Renacas",
+  "type": "River"
+}

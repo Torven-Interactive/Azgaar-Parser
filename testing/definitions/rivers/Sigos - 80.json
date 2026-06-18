@@ -1,0 +1,12 @@
+{
+  "i": 80,
+  "parent": 80,
+  "cells": [
+    2517,
+    2621,
+    2726
+  ],
+  "basin": 80,
+  "name": "Sigos",
+  "type": "River"
+}

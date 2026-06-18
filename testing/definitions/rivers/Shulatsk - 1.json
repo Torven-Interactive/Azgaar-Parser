@@ -1,0 +1,13 @@
+{
+  "i": 1,
+  "parent": 2,
+  "cells": [
+    1830,
+    1946,
+    1947,
+    1832
+  ],
+  "basin": 2,
+  "name": "Shulatsk",
+  "type": "River"
+}

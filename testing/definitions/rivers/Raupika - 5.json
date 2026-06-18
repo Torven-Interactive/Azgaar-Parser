@@ -1,0 +1,15 @@
+{
+  "i": 5,
+  "parent": 5,
+  "cells": [
+    587,
+    588,
+    510,
+    421,
+    350,
+    351
+  ],
+  "basin": 5,
+  "name": "Raupika",
+  "type": "River"
+}

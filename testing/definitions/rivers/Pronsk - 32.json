@@ -1,0 +1,13 @@
+{
+  "i": 32,
+  "parent": 32,
+  "cells": [
+    2288,
+    2184,
+    2183,
+    2293
+  ],
+  "basin": 32,
+  "name": "Pronsk",
+  "type": "River"
+}
