@@ -1,0 +1,36 @@
+{
+  "cell": 2556,
+  "x": 243.32,
+  "y": 396.45,
+  "i": 320,
+  "state": 13,
+  "culture": 5,
+  "name": "Muruakamiz",
+  "feature": 14,
+  "capital": 0,
+  "population": 0.189,
+  "type": "Generic",
+  "coa": {
+    "t1": "purpure",
+    "division": {
+      "division": "perSaltire",
+      "t": "argent"
+    },
+    "charges": [
+      {
+        "charge": "spiral",
+        "t": "or",
+        "p": "bhdf",
+        "divided": "counter",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

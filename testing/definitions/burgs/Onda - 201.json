@@ -1,0 +1,31 @@
+{
+  "cell": 2362,
+  "x": 385.3,
+  "y": 380.2,
+  "i": 201,
+  "state": 18,
+  "culture": 5,
+  "name": "Onda",
+  "feature": 18,
+  "capital": 0,
+  "population": 6.822,
+  "type": "Hunting",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "crossMaltese",
+        "t": "sable",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

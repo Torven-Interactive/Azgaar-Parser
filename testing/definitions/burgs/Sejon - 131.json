@@ -1,0 +1,31 @@
+{
+  "cell": 3376,
+  "x": 765.61,
+  "y": 492.17,
+  "i": 131,
+  "state": 14,
+  "culture": 8,
+  "name": "Sejon",
+  "feature": 4,
+  "capital": 0,
+  "population": 3.281,
+  "type": "Generic",
+  "coa": {
+    "t1": "barry-or-gules",
+    "charges": [
+      {
+        "charge": "scythe2",
+        "t": "gules",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

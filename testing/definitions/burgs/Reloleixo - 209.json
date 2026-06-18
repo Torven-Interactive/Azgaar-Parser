@@ -1,0 +1,38 @@
+{
+  "cell": 2059,
+  "x": 516.5,
+  "y": 356.8,
+  "i": 209,
+  "state": 16,
+  "culture": 11,
+  "name": "Reloleixo",
+  "feature": 12,
+  "capital": 0,
+  "population": 0.55,
+  "type": "Generic",
+  "coa": {
+    "t1": "or",
+    "ordinaries": [
+      {
+        "ordinary": "cross",
+        "t": "vert",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "lanceHead",
+        "t": "gules",
+        "p": "acgi",
+        "size": 0.5
+      }
+    ],
+    "shield": "renaissance"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "fort"
+}

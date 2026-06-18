@@ -1,0 +1,43 @@
+{
+  "cell": 442,
+  "x": 1070.44,
+  "y": 185.64,
+  "i": 265,
+  "state": 6,
+  "culture": 2,
+  "name": "Torinczi",
+  "feature": 2,
+  "capital": 0,
+  "population": 3.223,
+  "type": "Generic",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "perPale",
+      "t": "argent",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "chief",
+        "t": "or",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "buckle",
+        "t": "gules",
+        "p": "b",
+        "size": 0.5
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

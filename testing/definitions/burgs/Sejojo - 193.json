@@ -1,0 +1,31 @@
+{
+  "cell": 3113,
+  "x": 851.18,
+  "y": 448.6,
+  "i": 193,
+  "state": 12,
+  "culture": 8,
+  "name": "Sejojo",
+  "feature": 19,
+  "capital": 0,
+  "population": 2.562,
+  "type": "Generic",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "pineCone",
+        "t": "argent",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

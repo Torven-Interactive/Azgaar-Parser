@@ -1,0 +1,44 @@
+{
+  "cell": 1241,
+  "x": 961.3,
+  "y": 289,
+  "i": 138,
+  "state": 17,
+  "culture": 3,
+  "name": "Straugar",
+  "feature": 10,
+  "capital": 0,
+  "population": 5.061,
+  "type": "Hunting",
+  "coa": {
+    "t1": "purpure",
+    "division": {
+      "division": "perPale",
+      "t": "or",
+      "line": "invecked"
+    },
+    "charges": [
+      {
+        "charge": "arrowsSheaf",
+        "t": "argent",
+        "p": "p",
+        "t2": "argent",
+        "t3": "argent",
+        "size": 0.7
+      },
+      {
+        "charge": "heart",
+        "t": "sable",
+        "p": "q",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

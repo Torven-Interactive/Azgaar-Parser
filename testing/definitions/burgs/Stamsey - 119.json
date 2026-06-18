@@ -1,0 +1,32 @@
+{
+  "cell": 295,
+  "x": 917.4,
+  "y": 170.4,
+  "i": 119,
+  "state": 2,
+  "culture": 3,
+  "name": "Stamsey",
+  "feature": 6,
+  "capital": 0,
+  "population": 4.432,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "hatchet",
+        "t": "sable",
+        "p": "jln",
+        "t2": "sable",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

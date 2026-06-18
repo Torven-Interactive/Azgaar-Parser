@@ -1,0 +1,36 @@
+{
+  "cell": 2144,
+  "x": 337.07,
+  "y": 361.87,
+  "i": 42,
+  "state": 13,
+  "culture": 5,
+  "name": "Mustao",
+  "feature": 14,
+  "capital": 0,
+  "population": 7.235,
+  "type": "Hunting",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "perCross",
+      "t": "argent",
+      "line": "wavy"
+    },
+    "charges": [
+      {
+        "charge": "mullet7",
+        "t": "or",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

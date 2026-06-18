@@ -1,0 +1,32 @@
+{
+  "cell": 2824,
+  "x": 824.08,
+  "y": 419.41,
+  "i": 12,
+  "state": 12,
+  "culture": 8,
+  "name": "Sansevil",
+  "feature": 19,
+  "capital": 1,
+  "port": 1,
+  "population": 21.309,
+  "type": "Naval",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "escallop",
+        "t": "gules",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 1,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "capital"
+}

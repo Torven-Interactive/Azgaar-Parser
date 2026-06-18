@@ -1,0 +1,34 @@
+{
+  "cell": 3167,
+  "x": 773.93,
+  "y": 458.54,
+  "i": 80,
+  "state": 14,
+  "culture": 8,
+  "name": "Sonillos",
+  "feature": 4,
+  "capital": 0,
+  "port": 1,
+  "population": 1.333,
+  "type": "Naval",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "grapeBunch2",
+        "t": "argent",
+        "p": "jeo",
+        "t2": "argent",
+        "t3": "argent",
+        "size": 0.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

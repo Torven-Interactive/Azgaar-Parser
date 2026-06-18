@@ -1,0 +1,39 @@
+{
+  "cell": 1915,
+  "x": 329.96,
+  "y": 341,
+  "i": 68,
+  "state": 13,
+  "culture": 5,
+  "name": "Tokondioain",
+  "feature": 14,
+  "capital": 0,
+  "population": 3.227,
+  "type": "Hunting",
+  "coa": {
+    "t1": "gules",
+    "ordinaries": [
+      {
+        "ordinary": "pale",
+        "t": "argent",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "wolfHeadErased",
+        "t": "gules",
+        "p": "e",
+        "t2": "gules",
+        "size": 0.7
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

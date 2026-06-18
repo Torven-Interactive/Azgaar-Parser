@@ -1,0 +1,32 @@
+{
+  "cell": 1747,
+  "x": 818.3,
+  "y": 325.7,
+  "i": 215,
+  "state": 4,
+  "culture": 3,
+  "name": "Thorstad",
+  "feature": 4,
+  "capital": 0,
+  "population": 3.197,
+  "type": "Generic",
+  "coa": {
+    "t1": "chequy-or-gules",
+    "charges": [
+      {
+        "charge": "tower",
+        "t": "sable",
+        "p": "e",
+        "t2": "sable",
+        "size": 1.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

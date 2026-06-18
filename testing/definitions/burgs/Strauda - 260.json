@@ -1,0 +1,42 @@
+{
+  "cell": 658,
+  "x": 780.61,
+  "y": 216.89,
+  "i": 260,
+  "state": 9,
+  "culture": 3,
+  "name": "Strauda",
+  "feature": 4,
+  "capital": 0,
+  "population": 4.621,
+  "type": "Hunting",
+  "coa": {
+    "t1": "sable",
+    "division": {
+      "division": "perFess",
+      "t": "argent",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "lozengeFaceted",
+        "t": "or",
+        "p": "k",
+        "size": 0.7
+      },
+      {
+        "charge": "crossClechy",
+        "t": "vert",
+        "p": "n",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

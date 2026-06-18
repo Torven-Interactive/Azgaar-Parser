@@ -1,0 +1,38 @@
+{
+  "cell": 2714,
+  "x": 693.77,
+  "y": 402.6,
+  "i": 272,
+  "state": 14,
+  "culture": 8,
+  "name": "Tenzonta",
+  "feature": 4,
+  "capital": 0,
+  "port": 1,
+  "population": 6.901,
+  "type": "Naval",
+  "coa": {
+    "t1": "barry-or-gules",
+    "ordinaries": [
+      {
+        "ordinary": "canton",
+        "t": "gules"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "billet",
+        "t": "or",
+        "p": "y",
+        "size": 0.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

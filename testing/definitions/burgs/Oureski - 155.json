@@ -1,0 +1,31 @@
+{
+  "cell": 769,
+  "x": 329.66,
+  "y": 230.76,
+  "i": 155,
+  "state": 10,
+  "culture": 7,
+  "name": "Oureski",
+  "feature": 7,
+  "capital": 0,
+  "population": 0.976,
+  "type": "Generic",
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "bridge",
+        "t": "vert",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

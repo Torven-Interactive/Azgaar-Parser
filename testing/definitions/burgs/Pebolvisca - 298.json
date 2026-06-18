@@ -1,0 +1,35 @@
+{
+  "cell": 1384,
+  "x": 736.9,
+  "y": 301.9,
+  "i": 298,
+  "state": 5,
+  "culture": 8,
+  "name": "Pebolvisca",
+  "feature": 4,
+  "capital": 0,
+  "population": 3.828,
+  "type": "Generic",
+  "coa": {
+    "t1": "chequy-argent-gules",
+    "division": {
+      "division": "perPale",
+      "t": "purpure",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "cross",
+        "t": "gules",
+        "line": "straight"
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

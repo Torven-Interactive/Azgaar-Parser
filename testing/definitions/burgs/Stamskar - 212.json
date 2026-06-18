@@ -1,0 +1,31 @@
+{
+  "cell": 1504,
+  "x": 854.5,
+  "y": 311.4,
+  "i": 212,
+  "state": 4,
+  "culture": 3,
+  "name": "Stamskar",
+  "feature": 4,
+  "capital": 0,
+  "population": 6.678,
+  "type": "Generic",
+  "coa": {
+    "t1": "purpure",
+    "charges": [
+      {
+        "charge": "crossBiparted",
+        "t": "argent",
+        "p": "beh",
+        "size": 0.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

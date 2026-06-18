@@ -1,0 +1,37 @@
+{
+  "cell": 2586,
+  "x": 478.08,
+  "y": 391.84,
+  "i": 217,
+  "state": 16,
+  "culture": 11,
+  "name": "Trantos",
+  "feature": 12,
+  "capital": 0,
+  "port": 1,
+  "population": 8.206,
+  "type": "Naval",
+  "coa": {
+    "t1": "or",
+    "division": {
+      "division": "perFess",
+      "t": "purpure",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "bendSinister",
+        "t": "sable",
+        "line": "straight",
+        "divided": "counter"
+      }
+    ],
+    "shield": "renaissance"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

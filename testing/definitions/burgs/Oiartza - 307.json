@@ -1,0 +1,39 @@
+{
+  "cell": 2116,
+  "x": 179.22,
+  "y": 359.47,
+  "i": 307,
+  "state": 13,
+  "culture": 5,
+  "name": "Oiartza",
+  "feature": 14,
+  "capital": 0,
+  "population": 7.478,
+  "type": "Generic",
+  "coa": {
+    "t1": "bendy-argent-purpure",
+    "ordinaries": [
+      {
+        "ordinary": "canton",
+        "t": "sable"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "bullPassant",
+        "t": "or",
+        "p": "y",
+        "t2": "or",
+        "t3": "or",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

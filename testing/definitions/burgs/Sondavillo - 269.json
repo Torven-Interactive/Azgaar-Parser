@@ -1,0 +1,32 @@
+{
+  "cell": 3114,
+  "x": 846.93,
+  "y": 455.82,
+  "i": 269,
+  "state": 12,
+  "culture": 8,
+  "name": "Sondavillo",
+  "feature": 19,
+  "capital": 0,
+  "port": 1,
+  "population": 14.552,
+  "type": "Naval",
+  "coa": {
+    "t1": "azure",
+    "charges": [
+      {
+        "charge": "shipWheel",
+        "t": "argent",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "city"
+}

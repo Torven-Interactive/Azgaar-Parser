@@ -1,0 +1,34 @@
+{
+  "cell": 694,
+  "x": 316.96,
+  "y": 218.75,
+  "i": 99,
+  "state": 10,
+  "culture": 9,
+  "name": "Pangen",
+  "feature": 7,
+  "capital": 0,
+  "port": 1,
+  "population": 1.565,
+  "type": "Naval",
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "windmill",
+        "t": "purpure",
+        "p": "jln",
+        "t2": "purpure",
+        "t3": "purpure",
+        "size": 0.7
+      }
+    ],
+    "shield": "french"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

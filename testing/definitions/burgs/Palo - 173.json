@@ -1,0 +1,38 @@
+{
+  "cell": 1005,
+  "x": 354.81,
+  "y": 259.81,
+  "i": 173,
+  "state": 10,
+  "culture": 7,
+  "name": "Palo",
+  "feature": 7,
+  "capital": 0,
+  "population": 1.587,
+  "type": "Hunting",
+  "coa": {
+    "t1": "gules",
+    "division": {
+      "division": "perBend",
+      "t": "or",
+      "line": "wavy"
+    },
+    "charges": [
+      {
+        "charge": "archer",
+        "t": "argent",
+        "p": "lm",
+        "t2": "argent",
+        "t3": "argent",
+        "size": 0.7
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

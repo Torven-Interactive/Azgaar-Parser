@@ -1,0 +1,37 @@
+{
+  "cell": 2340,
+  "x": 233.89,
+  "y": 372.67,
+  "i": 72,
+  "state": 13,
+  "culture": 5,
+  "name": "Plentzitia",
+  "feature": 14,
+  "capital": 0,
+  "port": 1,
+  "population": 2.025,
+  "type": "Naval",
+  "coa": {
+    "t1": "chequy-or-azure-small",
+    "division": {
+      "division": "perFess",
+      "t": "gules",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "crossOrthodox",
+        "t": "vert",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

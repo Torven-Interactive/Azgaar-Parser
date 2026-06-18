@@ -1,0 +1,36 @@
+{
+  "cell": 3179,
+  "x": 852.13,
+  "y": 458.38,
+  "i": 195,
+  "state": 12,
+  "culture": 8,
+  "name": "Ruesaqueque",
+  "feature": 19,
+  "capital": 0,
+  "port": 1,
+  "population": 13.116,
+  "type": "Naval",
+  "coa": {
+    "t1": "scaly-argent-purpure",
+    "division": {
+      "division": "perCross",
+      "t": "gules",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "bendletSinister",
+        "t": "azure",
+        "line": "straight"
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "city"
+}

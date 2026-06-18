@@ -1,0 +1,31 @@
+{
+  "cell": 1826,
+  "x": 528.64,
+  "y": 339.16,
+  "i": 100,
+  "state": 16,
+  "culture": 11,
+  "name": "Palhaoeival",
+  "feature": 12,
+  "capital": 0,
+  "population": 14.272,
+  "type": "Generic",
+  "coa": {
+    "t1": "purpure",
+    "charges": [
+      {
+        "charge": "horseshoe",
+        "t": "argent",
+        "p": "jln",
+        "size": 0.7
+      }
+    ],
+    "shield": "renaissance"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "city"
+}

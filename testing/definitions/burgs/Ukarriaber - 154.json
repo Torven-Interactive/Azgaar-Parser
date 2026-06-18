@@ -1,0 +1,32 @@
+{
+  "cell": 1547,
+  "x": 232.11,
+  "y": 323.36,
+  "i": 154,
+  "state": 13,
+  "culture": 5,
+  "name": "Ukarriaber",
+  "feature": 14,
+  "capital": 0,
+  "port": 1,
+  "population": 1.812,
+  "type": "Naval",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "mullet",
+        "t": "argent",
+        "p": "acegi",
+        "size": 0.4
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

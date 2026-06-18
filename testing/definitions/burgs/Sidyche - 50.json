@@ -1,0 +1,38 @@
+{
+  "cell": 2063,
+  "x": 553.94,
+  "y": 353.36,
+  "i": 50,
+  "state": 1,
+  "culture": 4,
+  "name": "Sidyche",
+  "feature": 12,
+  "capital": 0,
+  "population": 3.375,
+  "type": "Highland",
+  "coa": {
+    "t1": "vert",
+    "ordinaries": [
+      {
+        "ordinary": "pale",
+        "t": "argent",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "inescutcheon",
+        "t": "argent",
+        "p": "y",
+        "size": 0.5
+      }
+    ],
+    "shield": "polish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

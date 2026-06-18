@@ -1,0 +1,40 @@
+{
+  "cell": 2802,
+  "x": 693.23,
+  "y": 417.13,
+  "i": 275,
+  "state": 14,
+  "culture": 8,
+  "name": "Numanturon",
+  "feature": 4,
+  "capital": 0,
+  "population": 1.641,
+  "type": "Hunting",
+  "coa": {
+    "t1": "or",
+    "ordinaries": [
+      {
+        "ordinary": "pale",
+        "t": "gules",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "cavalier",
+        "t": "purpure",
+        "p": "y",
+        "t2": "purpure",
+        "t3": "purpure",
+        "size": 0.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

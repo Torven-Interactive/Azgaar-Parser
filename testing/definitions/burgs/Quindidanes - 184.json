@@ -1,0 +1,42 @@
+{
+  "cell": 2196,
+  "x": 742.68,
+  "y": 364,
+  "i": 184,
+  "state": 5,
+  "culture": 8,
+  "name": "Quindidanes",
+  "feature": 4,
+  "capital": 0,
+  "population": 1.79,
+  "type": "Generic",
+  "coa": {
+    "t1": "purpure",
+    "division": {
+      "division": "perPale",
+      "t": "or",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "inescutcheon",
+        "t": "argent",
+        "p": "pq",
+        "size": 0.7
+      },
+      {
+        "charge": "roundel2",
+        "t": "gules",
+        "p": "pq",
+        "size": 0.35
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

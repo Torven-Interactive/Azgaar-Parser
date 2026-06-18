@@ -1,0 +1,32 @@
+{
+  "cell": 1406,
+  "x": 888.2,
+  "y": 302.3,
+  "i": 239,
+  "state": 4,
+  "culture": 3,
+  "name": "Nesetrond",
+  "feature": 4,
+  "capital": 0,
+  "population": 6.987,
+  "type": "Hunting",
+  "coa": {
+    "t1": "sable",
+    "charges": [
+      {
+        "charge": "parrot",
+        "t": "argent",
+        "p": "e",
+        "t2": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

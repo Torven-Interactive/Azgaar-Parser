@@ -1,0 +1,43 @@
+{
+  "cell": 311,
+  "x": 1061.81,
+  "y": 170.59,
+  "i": 283,
+  "state": 6,
+  "culture": 2,
+  "name": "Rapunanyver",
+  "feature": 2,
+  "capital": 0,
+  "population": 5.667,
+  "type": "Generic",
+  "coa": {
+    "t1": "or",
+    "division": {
+      "division": "perBend",
+      "t": "gules",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "grenade",
+        "t": "vert",
+        "p": "l",
+        "t2": "vert",
+        "size": 0.7
+      },
+      {
+        "charge": "anchor",
+        "t": "argent",
+        "p": "m",
+        "size": 0.7
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

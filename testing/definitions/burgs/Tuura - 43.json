@@ -1,0 +1,39 @@
+{
+  "cell": 776,
+  "x": 358.33,
+  "y": 237.26,
+  "i": 43,
+  "state": 10,
+  "culture": 7,
+  "name": "Tuura",
+  "feature": 7,
+  "capital": 0,
+  "port": 1,
+  "population": 2.32,
+  "type": "Naval",
+  "coa": {
+    "t1": "vert",
+    "ordinaries": [
+      {
+        "ordinary": "saltireParted",
+        "t": "or",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "triangle",
+        "t": "gules",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

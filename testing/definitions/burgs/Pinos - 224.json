@@ -1,0 +1,39 @@
+{
+  "cell": 2191,
+  "x": 704.5,
+  "y": 366.9,
+  "i": 224,
+  "state": 5,
+  "culture": 8,
+  "name": "Pinos",
+  "feature": 4,
+  "capital": 0,
+  "population": 3.913,
+  "type": "Hunting",
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "bar",
+        "t": "vert",
+        "line": "engrailed"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "wolfHeadErased",
+        "t": "or",
+        "p": "def",
+        "t2": "or",
+        "size": 0.3
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

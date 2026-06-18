@@ -1,0 +1,31 @@
+{
+  "cell": 2080,
+  "x": 723.08,
+  "y": 351.08,
+  "i": 114,
+  "state": 5,
+  "culture": 8,
+  "name": "Trilvis",
+  "feature": 4,
+  "capital": 0,
+  "population": 4.64,
+  "type": "Generic",
+  "coa": {
+    "t1": "sable",
+    "charges": [
+      {
+        "charge": "anchor",
+        "t": "argent",
+        "p": "jln",
+        "size": 0.7
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

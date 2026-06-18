@@ -1,0 +1,40 @@
+{
+  "cell": 1489,
+  "x": 735.9,
+  "y": 310.9,
+  "i": 261,
+  "state": 5,
+  "culture": 8,
+  "name": "Pesolicanes",
+  "feature": 4,
+  "capital": 0,
+  "population": 0.752,
+  "type": "Hunting",
+  "coa": {
+    "t1": "sable",
+    "ordinaries": [
+      {
+        "ordinary": "bendlet",
+        "t": "or",
+        "line": "raguly"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "centaur",
+        "t": "purpure",
+        "p": "joe",
+        "t2": "purpure",
+        "t3": "purpure",
+        "size": 0.3
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 1,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "trading_post"
+}

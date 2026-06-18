@@ -1,0 +1,32 @@
+{
+  "cell": 1744,
+  "x": 803.13,
+  "y": 325.38,
+  "i": 285,
+  "state": 4,
+  "culture": 8,
+  "name": "Negradosqui",
+  "feature": 4,
+  "capital": 0,
+  "population": 1.401,
+  "type": "Lake",
+  "coa": {
+    "t1": "vert",
+    "charges": [
+      {
+        "charge": "salmon",
+        "t": "or",
+        "p": "jln",
+        "t2": "or",
+        "size": 0.7
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

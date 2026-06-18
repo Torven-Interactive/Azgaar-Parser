@@ -1,0 +1,31 @@
+{
+  "cell": 2629,
+  "x": 821.7,
+  "y": 401.2,
+  "i": 281,
+  "state": 12,
+  "culture": 8,
+  "name": "Palrio",
+  "feature": 19,
+  "capital": 0,
+  "population": 1.743,
+  "type": "Hunting",
+  "coa": {
+    "t1": "azure",
+    "charges": [
+      {
+        "charge": "pineCone",
+        "t": "argent",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

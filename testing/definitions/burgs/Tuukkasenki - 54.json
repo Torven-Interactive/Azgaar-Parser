@@ -1,0 +1,32 @@
+{
+  "cell": 774,
+  "x": 361.46,
+  "y": 234.66,
+  "i": 54,
+  "state": 10,
+  "culture": 7,
+  "name": "Tuukkasenki",
+  "feature": 7,
+  "capital": 0,
+  "port": 1,
+  "population": 1.19,
+  "type": "Naval",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "armillarySphere",
+        "t": "azure",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

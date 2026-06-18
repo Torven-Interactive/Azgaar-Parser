@@ -1,0 +1,38 @@
+{
+  "cell": 1926,
+  "x": 375.02,
+  "y": 340.87,
+  "i": 299,
+  "state": 18,
+  "culture": 5,
+  "name": "Ongo",
+  "feature": 18,
+  "capital": 0,
+  "population": 6.82,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "cross",
+        "t": "gules",
+        "line": "nebuly"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "crossLatin",
+        "t": "purpure",
+        "p": "acgi",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

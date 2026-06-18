@@ -1,0 +1,32 @@
+{
+  "cell": 2272,
+  "x": 513.81,
+  "y": 368.51,
+  "i": 31,
+  "state": 16,
+  "culture": 11,
+  "name": "Tranjeiro",
+  "feature": 12,
+  "capital": 0,
+  "port": 1,
+  "population": 11.472,
+  "type": "Naval",
+  "coa": {
+    "t1": "sable",
+    "charges": [
+      {
+        "charge": "skull2",
+        "t": "argent",
+        "p": "jln",
+        "size": 0.7
+      }
+    ],
+    "shield": "renaissance"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "city"
+}

@@ -1,0 +1,38 @@
+{
+  "cell": 2610,
+  "x": 699.81,
+  "y": 399.24,
+  "i": 231,
+  "state": 14,
+  "culture": 8,
+  "name": "Rinagaga",
+  "feature": 4,
+  "capital": 0,
+  "population": 3.661,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "orle",
+        "t": "vert",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "goutte",
+        "t": "vert",
+        "p": "e",
+        "size": 1.1
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

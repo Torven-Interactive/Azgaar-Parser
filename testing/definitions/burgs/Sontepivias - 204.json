@@ -1,0 +1,36 @@
+{
+  "cell": 1854,
+  "x": 758.6,
+  "y": 336.7,
+  "i": 204,
+  "state": 5,
+  "culture": 8,
+  "name": "Sontepivias",
+  "feature": 4,
+  "capital": 0,
+  "population": 1.404,
+  "type": "Generic",
+  "coa": {
+    "t1": "gules",
+    "division": {
+      "division": "perCross",
+      "t": "argent",
+      "line": "bevilled"
+    },
+    "charges": [
+      {
+        "charge": "mullet",
+        "t": "or",
+        "p": "jlmo",
+        "size": 0.6
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 1,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

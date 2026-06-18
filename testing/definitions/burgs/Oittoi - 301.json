@@ -1,0 +1,37 @@
+{
+  "cell": 1061,
+  "x": 278.73,
+  "y": 269.98,
+  "i": 301,
+  "state": 10,
+  "culture": 7,
+  "name": "Oittoi",
+  "feature": 7,
+  "capital": 0,
+  "port": 1,
+  "population": 2.679,
+  "type": "Naval",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "chevronny",
+      "t": "argent"
+    },
+    "charges": [
+      {
+        "charge": "mullet",
+        "t": "or",
+        "p": "kmo",
+        "divided": "counter",
+        "size": 0.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

@@ -1,0 +1,37 @@
+{
+  "cell": 3182,
+  "x": 870.1,
+  "y": 457.4,
+  "i": 246,
+  "state": 12,
+  "culture": 8,
+  "name": "Salfornal",
+  "feature": 19,
+  "capital": 0,
+  "population": 3.287,
+  "type": "Generic",
+  "coa": {
+    "t1": "gules",
+    "division": {
+      "division": "perCross",
+      "t": "or",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "key",
+        "t": "argent",
+        "p": "j",
+        "divided": "counter",
+        "size": 0.6
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

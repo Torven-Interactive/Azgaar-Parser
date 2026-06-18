@@ -1,0 +1,33 @@
+{
+  "cell": 2277,
+  "x": 552.12,
+  "y": 375.72,
+  "i": 32,
+  "state": 16,
+  "culture": 4,
+  "name": "Pubutsk",
+  "feature": 12,
+  "capital": 0,
+  "port": 1,
+  "population": 7.158,
+  "type": "Naval",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "dove",
+        "t": "argent",
+        "p": "jlh",
+        "t2": "argent",
+        "size": 0.7
+      }
+    ],
+    "shield": "polish"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

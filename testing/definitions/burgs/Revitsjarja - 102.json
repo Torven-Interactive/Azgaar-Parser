@@ -1,0 +1,34 @@
+{
+  "cell": 484,
+  "x": 386.06,
+  "y": 199.28,
+  "i": 102,
+  "state": 10,
+  "culture": 7,
+  "name": "Revitsjarja",
+  "feature": 7,
+  "capital": 0,
+  "port": 1,
+  "population": 8.879,
+  "type": "Naval",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "cavalier",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "t3": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

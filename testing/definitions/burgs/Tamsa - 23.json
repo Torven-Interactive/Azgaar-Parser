@@ -1,0 +1,38 @@
+{
+  "cell": 779,
+  "x": 380.44,
+  "y": 228.37,
+  "i": 23,
+  "state": 10,
+  "culture": 7,
+  "name": "Tamsa",
+  "feature": 7,
+  "capital": 0,
+  "population": 4.264,
+  "type": "Hunting",
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perCross",
+      "t": "sable",
+      "line": "raguly"
+    },
+    "charges": [
+      {
+        "charge": "falcon",
+        "t": "azure",
+        "p": "jo",
+        "t2": "azure",
+        "t3": "azure",
+        "size": 0.7
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

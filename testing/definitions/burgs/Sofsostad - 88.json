@@ -1,0 +1,44 @@
+{
+  "cell": 47,
+  "x": 837.9,
+  "y": 131.8,
+  "i": 88,
+  "state": 2,
+  "culture": 3,
+  "name": "Sofsostad",
+  "feature": 4,
+  "capital": 0,
+  "population": 6.292,
+  "type": "Generic",
+  "coa": {
+    "t1": "or",
+    "division": {
+      "division": "perPale",
+      "t": "azure",
+      "line": "invecked"
+    },
+    "charges": [
+      {
+        "charge": "arbalest",
+        "t": "sable",
+        "p": "p",
+        "t2": "sable",
+        "t3": "sable",
+        "size": 0.7
+      },
+      {
+        "charge": "pot",
+        "t": "argent",
+        "p": "q",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

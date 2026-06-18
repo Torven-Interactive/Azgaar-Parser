@@ -1,0 +1,34 @@
+{
+  "cell": 1609,
+  "x": 741.66,
+  "y": 321.66,
+  "i": 104,
+  "state": 5,
+  "culture": 8,
+  "name": "Olcozaste",
+  "feature": 4,
+  "capital": 0,
+  "port": 1,
+  "population": 1.993,
+  "type": "Naval",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "lymphad",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "t3": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

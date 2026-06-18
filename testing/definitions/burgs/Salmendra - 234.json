@@ -1,0 +1,38 @@
+{
+  "cell": 1979,
+  "x": 831.01,
+  "y": 342.39,
+  "i": 234,
+  "state": 4,
+  "culture": 8,
+  "name": "Salmendra",
+  "feature": 4,
+  "capital": 0,
+  "population": 6.879,
+  "type": "Generic",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "pale",
+        "t": "argent",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "goutte",
+        "t": "or",
+        "p": "y",
+        "size": 0.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

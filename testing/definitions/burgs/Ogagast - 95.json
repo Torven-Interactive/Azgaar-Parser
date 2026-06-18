@@ -1,0 +1,32 @@
+{
+  "cell": 126,
+  "x": 866.37,
+  "y": 146.09,
+  "i": 95,
+  "state": 2,
+  "culture": 3,
+  "name": "Ogagast",
+  "feature": 4,
+  "capital": 0,
+  "port": 1,
+  "population": 2.629,
+  "type": "Naval",
+  "coa": {
+    "t1": "pally-or-azure",
+    "charges": [
+      {
+        "charge": "roundel",
+        "t": "vert",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

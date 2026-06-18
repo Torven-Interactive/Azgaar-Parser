@@ -1,0 +1,37 @@
+{
+  "cell": 1832,
+  "x": 578.1,
+  "y": 333.21,
+  "i": 1,
+  "state": 1,
+  "culture": 4,
+  "name": "Sochere",
+  "feature": 12,
+  "capital": 1,
+  "population": 18.387,
+  "type": "River",
+  "coa": {
+    "t1": "gules",
+    "ordinaries": [
+      {
+        "ordinary": "pilesInPoint",
+        "t": "or"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "rake",
+        "t": "argent",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "polish"
+  },
+  "citadel": 1,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "capital"
+}

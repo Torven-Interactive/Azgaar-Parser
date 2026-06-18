@@ -1,0 +1,38 @@
+{
+  "cell": 615,
+  "x": 291.73,
+  "y": 219.98,
+  "i": 319,
+  "state": 10,
+  "culture": 9,
+  "name": "Norailleauran",
+  "feature": 7,
+  "capital": 0,
+  "port": 1,
+  "population": 1.324,
+  "type": "Naval",
+  "coa": {
+    "t1": "vert",
+    "ordinaries": [
+      {
+        "ordinary": "chevronReversed",
+        "t": "argent"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "gear",
+        "t": "argent",
+        "p": "b",
+        "size": 0.5
+      }
+    ],
+    "shield": "french"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

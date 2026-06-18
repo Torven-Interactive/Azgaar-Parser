@@ -1,0 +1,28 @@
+{
+  "cell": 1923,
+  "x": 362.7,
+  "y": 349.1,
+  "i": 254,
+  "state": 13,
+  "culture": 5,
+  "name": "Plentzukar",
+  "feature": 14,
+  "capital": 0,
+  "population": 0.931,
+  "type": "Generic",
+  "coa": {
+    "t1": "bendy-argent-purpure",
+    "division": {
+      "division": "perPale",
+      "t": "azure",
+      "line": "straight"
+    },
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

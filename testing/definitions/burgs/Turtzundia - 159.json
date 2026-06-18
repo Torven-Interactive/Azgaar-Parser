@@ -1,0 +1,31 @@
+{
+  "cell": 2927,
+  "x": 428.4,
+  "y": 432.35,
+  "i": 159,
+  "state": 18,
+  "culture": 5,
+  "name": "Turtzundia",
+  "feature": 12,
+  "capital": 0,
+  "population": 2.737,
+  "type": "Generic",
+  "coa": {
+    "t1": "azure",
+    "charges": [
+      {
+        "charge": "crossVoided",
+        "t": "argent",
+        "p": "def",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

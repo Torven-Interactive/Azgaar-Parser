@@ -1,0 +1,44 @@
+{
+  "cell": 1128,
+  "x": 294.6,
+  "y": 279.2,
+  "i": 176,
+  "state": 10,
+  "culture": 7,
+  "name": "Temsa",
+  "feature": 7,
+  "capital": 0,
+  "population": 8.004,
+  "type": "Generic",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "terrace",
+        "t": "or",
+        "line": "embattled"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "inescutcheon",
+        "t": "or",
+        "p": "bdf",
+        "size": 0.5
+      },
+      {
+        "charge": "crossArrowed",
+        "t": "azure",
+        "p": "bdf",
+        "size": 0.25
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

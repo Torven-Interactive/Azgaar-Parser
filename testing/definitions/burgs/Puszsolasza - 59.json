@@ -1,0 +1,42 @@
+{
+  "cell": 453,
+  "x": 1099.53,
+  "y": 186.73,
+  "i": 59,
+  "state": 15,
+  "culture": 2,
+  "name": "Puszsolasza",
+  "feature": 2,
+  "capital": 0,
+  "population": 0.906,
+  "type": "Hunting",
+  "coa": {
+    "t1": "or",
+    "division": {
+      "division": "perBendSinister",
+      "t": "azure",
+      "line": "potenty"
+    },
+    "charges": [
+      {
+        "charge": "mascle",
+        "t": "sable",
+        "p": "j",
+        "size": 0.7
+      },
+      {
+        "charge": "quatrefoil",
+        "t": "argent",
+        "p": "o",
+        "size": 0.7
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

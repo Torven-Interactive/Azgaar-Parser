@@ -1,0 +1,30 @@
+{
+  "cell": 1491,
+  "x": 755.73,
+  "y": 309.83,
+  "i": 70,
+  "state": 5,
+  "culture": 8,
+  "name": "Tierdiello",
+  "feature": 4,
+  "capital": 0,
+  "population": 0.529,
+  "type": "Generic",
+  "coa": {
+    "t1": "chequy-argent-gules",
+    "ordinaries": [
+      {
+        "ordinary": "bendSinister",
+        "t": "azure",
+        "line": "straight"
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

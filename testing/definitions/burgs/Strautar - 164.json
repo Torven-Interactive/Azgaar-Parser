@@ -1,0 +1,38 @@
+{
+  "cell": 802,
+  "x": 752.1,
+  "y": 238.2,
+  "i": 164,
+  "state": 7,
+  "culture": 3,
+  "name": "Strautar",
+  "feature": 4,
+  "capital": 0,
+  "population": 2.983,
+  "type": "Generic",
+  "coa": {
+    "t1": "or",
+    "division": {
+      "division": "perCross",
+      "t": "azure",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "bullHeadCaboshed",
+        "t": "vert",
+        "p": "j",
+        "t2": "vert",
+        "divided": "counter",
+        "size": 0.6
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

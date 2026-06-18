@@ -1,0 +1,32 @@
+{
+  "cell": 2975,
+  "x": 855.66,
+  "y": 433.85,
+  "i": 306,
+  "state": 12,
+  "culture": 8,
+  "name": "Riviastega",
+  "feature": 19,
+  "capital": 0,
+  "population": 3.081,
+  "type": "Generic",
+  "coa": {
+    "t1": "azure",
+    "charges": [
+      {
+        "charge": "lute",
+        "t": "or",
+        "p": "jlh",
+        "t2": "or",
+        "size": 0.7
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

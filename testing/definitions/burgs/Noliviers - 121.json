@@ -1,0 +1,35 @@
+{
+  "cell": 841,
+  "x": 293.58,
+  "y": 241.58,
+  "i": 121,
+  "state": 10,
+  "culture": 9,
+  "name": "Noliviers",
+  "feature": 7,
+  "capital": 0,
+  "port": 1,
+  "population": 10.237,
+  "type": "Naval",
+  "coa": {
+    "t1": "lozengy-azure-argent",
+    "division": {
+      "division": "perFess",
+      "t": "or",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "mount",
+        "t": "gules"
+      }
+    ],
+    "shield": "french"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "city"
+}

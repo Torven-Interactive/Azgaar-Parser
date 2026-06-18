@@ -1,0 +1,42 @@
+{
+  "cell": 3230,
+  "x": 767.9,
+  "y": 467,
+  "i": 22,
+  "state": 14,
+  "culture": 8,
+  "name": "Sejozastil",
+  "feature": 4,
+  "capital": 0,
+  "population": 5.297,
+  "type": "River",
+  "coa": {
+    "t1": "sable",
+    "division": {
+      "division": "perFess",
+      "t": "argent",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "mullet10",
+        "t": "or",
+        "p": "ABCDEFGHIJKL",
+        "size": 0.18
+      },
+      {
+        "charge": "hatchet",
+        "t": "or",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

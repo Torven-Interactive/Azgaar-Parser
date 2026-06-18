@@ -1,0 +1,37 @@
+{
+  "cell": 2174,
+  "x": 538.79,
+  "y": 365.07,
+  "i": 98,
+  "state": 16,
+  "culture": 4,
+  "name": "Svistisk",
+  "feature": 12,
+  "capital": 0,
+  "population": 2.76,
+  "type": "Generic",
+  "coa": {
+    "t1": "purpure",
+    "ordinaries": [
+      {
+        "ordinary": "chevron",
+        "t": "argent"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "crossSantiago",
+        "t": "sable",
+        "p": "ach",
+        "size": 0.5
+      }
+    ],
+    "shield": "polish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

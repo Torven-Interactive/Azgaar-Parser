@@ -1,0 +1,31 @@
+{
+  "cell": 510,
+  "x": 858.58,
+  "y": 199.84,
+  "i": 336,
+  "state": 2,
+  "culture": 3,
+  "name": "Stokken",
+  "feature": 4,
+  "capital": 0,
+  "population": 2.389,
+  "type": "River",
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "cancer",
+        "t": "sable",
+        "p": "jln",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

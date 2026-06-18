@@ -1,0 +1,32 @@
+{
+  "cell": 243,
+  "x": 1033.78,
+  "y": 162.13,
+  "i": 229,
+  "state": 6,
+  "culture": 2,
+  "name": "Szarba",
+  "feature": 2,
+  "capital": 0,
+  "port": 1,
+  "population": 2.891,
+  "type": "Naval",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "shipWheel",
+        "t": "azure",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

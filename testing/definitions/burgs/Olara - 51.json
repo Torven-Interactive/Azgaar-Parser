@@ -1,0 +1,45 @@
+{
+  "cell": 1920,
+  "x": 347.72,
+  "y": 342.22,
+  "i": 51,
+  "state": 13,
+  "culture": 5,
+  "name": "Olara",
+  "feature": 14,
+  "capital": 0,
+  "population": 3.403,
+  "type": "Hunting",
+  "coa": {
+    "t1": "semy_of_sunInSplendour-argent-gules-smaller",
+    "division": {
+      "division": "perPale",
+      "t": "vert",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "stagPassant",
+        "t": "sable",
+        "p": "e",
+        "t2": "sable",
+        "divided": "field",
+        "size": 1.5
+      },
+      {
+        "charge": "pique",
+        "t": "or",
+        "p": "e",
+        "divided": "division",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}
