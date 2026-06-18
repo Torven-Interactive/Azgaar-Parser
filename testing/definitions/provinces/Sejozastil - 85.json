@@ -1,0 +1,33 @@
+{
+  "i": 85,
+  "state": 14,
+  "center": 3230,
+  "burg": 22,
+  "name": "Sejozastil",
+  "formName": "Landgrave",
+  "fullName": "Sejozastil Landgrave",
+  "color": "#ffb084",
+  "coa": {
+    "t1": "sable",
+    "ordinaries": [
+      {
+        "ordinary": "pale",
+        "t": "or",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "mullet10",
+        "t": "sable",
+        "p": "beh",
+        "size": 0.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    757,
+    459
+  ]
+}

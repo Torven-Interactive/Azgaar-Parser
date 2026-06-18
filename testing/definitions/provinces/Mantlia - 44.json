@@ -1,0 +1,39 @@
+{
+  "i": 44,
+  "state": 10,
+  "center": 771,
+  "burg": 93,
+  "name": "Mantlia",
+  "formName": "County",
+  "fullName": "Mantlia County",
+  "color": "#dac7d8",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "perPale",
+      "t": "argent",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "trianglePierced",
+        "t": "or",
+        "p": "jl",
+        "divided": "field",
+        "size": 0.7
+      },
+      {
+        "charge": "butterfly",
+        "t": "azure",
+        "p": "e",
+        "divided": "division",
+        "size": 1.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "pole": [
+    329,
+    231
+  ]
+}

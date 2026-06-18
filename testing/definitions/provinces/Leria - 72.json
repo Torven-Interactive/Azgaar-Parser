@@ -1,0 +1,33 @@
+{
+  "i": 72,
+  "state": 13,
+  "center": 2122,
+  "burg": 61,
+  "name": "Leria",
+  "formName": "Republic",
+  "fullName": "Leria Republic",
+  "color": "#a2c3b7",
+  "coa": {
+    "t1": "purpure",
+    "ordinaries": [
+      {
+        "ordinary": "cross",
+        "t": "argent",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "armillarySphere",
+        "t": "sable",
+        "p": "beh",
+        "size": 0.3
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    209,
+    349
+  ]
+}

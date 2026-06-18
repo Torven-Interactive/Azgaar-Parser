@@ -1,0 +1,35 @@
+{
+  "i": 28,
+  "state": 6,
+  "center": 378,
+  "burg": 237,
+  "name": "Karospercsza",
+  "formName": "Parish",
+  "fullName": "Karospercsza Parish",
+  "color": "#e9f051",
+  "coa": {
+    "t1": "gules",
+    "ordinaries": [
+      {
+        "ordinary": "pale",
+        "t": "argent",
+        "line": "arched"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "griffinRampant",
+        "t": "gules",
+        "p": "e",
+        "t2": "gules",
+        "t3": "or",
+        "size": 0.7
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "pole": [
+    1090,
+    168
+  ]
+}

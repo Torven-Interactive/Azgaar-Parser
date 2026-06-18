@@ -1,0 +1,28 @@
+{
+  "i": 83,
+  "state": 14,
+  "center": 3218,
+  "burg": 112,
+  "name": "Alones",
+  "formName": "Earldom",
+  "fullName": "Alones Earldom",
+  "color": "#ffb580",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "cavalier",
+        "t": "sable",
+        "p": "e",
+        "t2": "sable",
+        "t3": "sable",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    699,
+    468
+  ]
+}

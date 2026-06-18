@@ -1,0 +1,38 @@
+{
+  "i": 40,
+  "state": 8,
+  "center": 2443,
+  "burg": 300,
+  "name": "Aranasuain",
+  "formName": "County",
+  "fullName": "Aranasuain County",
+  "color": "#ff8c91",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "perFess",
+      "t": "or",
+      "line": "embattledNotched"
+    },
+    "charges": [
+      {
+        "charge": "lambPassantReguardant",
+        "t": "argent",
+        "p": "k",
+        "t2": "argent",
+        "size": 0.7
+      },
+      {
+        "charge": "mace",
+        "t": "purpure",
+        "p": "n",
+        "size": 0.7
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    189,
+    383
+  ]
+}

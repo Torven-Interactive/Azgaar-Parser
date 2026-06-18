@@ -1,0 +1,33 @@
+{
+  "i": 59,
+  "state": 12,
+  "center": 2737,
+  "burg": 65,
+  "name": "Belforbanse",
+  "formName": "County",
+  "fullName": "Belforbanse County",
+  "color": "#ecff52",
+  "coa": {
+    "t1": "gules",
+    "ordinaries": [
+      {
+        "ordinary": "saltire",
+        "t": "argent",
+        "line": "nebuly"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "anchor",
+        "t": "purpure",
+        "p": "e",
+        "size": 0.7
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    841,
+    403
+  ]
+}

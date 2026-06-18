@@ -1,0 +1,27 @@
+{
+  "i": 13,
+  "state": 3,
+  "center": 1050,
+  "burg": 127,
+  "name": "Leiren",
+  "formName": "County",
+  "fullName": "Leiren County",
+  "color": "#91a4e4",
+  "coa": {
+    "t1": "azure",
+    "charges": [
+      {
+        "charge": "stagPassant",
+        "t": "argent",
+        "p": "jln",
+        "t2": "argent",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    866,
+    244
+  ]
+}

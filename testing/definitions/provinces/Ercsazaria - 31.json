@@ -1,0 +1,27 @@
+{
+  "i": 31,
+  "state": 6,
+  "center": 311,
+  "burg": 283,
+  "name": "Ercsazaria",
+  "formName": "Parish",
+  "fullName": "Ercsazaria Parish",
+  "color": "#ffcf51",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "grenade",
+        "t": "or",
+        "p": "e",
+        "t2": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "pole": [
+    1059,
+    169
+  ]
+}

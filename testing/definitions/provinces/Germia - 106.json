@@ -1,0 +1,39 @@
+{
+  "i": 106,
+  "state": 18,
+  "center": 2362,
+  "burg": 201,
+  "name": "Germia",
+  "formName": "County",
+  "fullName": "Germia County",
+  "color": "#f3f257",
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perBend",
+      "t": "azure",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "boarHeadErased",
+        "t": "gules",
+        "p": "l",
+        "t2": "gules",
+        "t3": "gules",
+        "size": 0.7
+      },
+      {
+        "charge": "axe",
+        "t": "argent",
+        "p": "m",
+        "size": 0.7
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    374,
+    366
+  ]
+}

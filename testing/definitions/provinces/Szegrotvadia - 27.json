@@ -1,0 +1,31 @@
+{
+  "i": 27,
+  "state": 6,
+  "center": 150,
+  "burg": 6,
+  "name": "Szegrotvadia",
+  "formName": "Parish",
+  "fullName": "Szegrotvadia Parish",
+  "color": "#f5f842",
+  "coa": {
+    "t1": "purpure",
+    "division": {
+      "division": "perBend",
+      "t": "argent",
+      "line": "invecked"
+    },
+    "charges": [
+      {
+        "charge": "compassRose",
+        "t": "or",
+        "p": "lm",
+        "size": 0.7
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "pole": [
+    1078,
+    148
+  ]
+}

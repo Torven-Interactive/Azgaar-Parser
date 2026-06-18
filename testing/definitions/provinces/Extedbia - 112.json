@@ -1,0 +1,34 @@
+{
+  "i": 112,
+  "state": 7,
+  "center": 1275,
+  "burg": 192,
+  "name": "Extedbia",
+  "formName": "Land",
+  "fullName": "Extedbia Land",
+  "color": "#e5a29e",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "cross",
+        "t": "or",
+        "line": "dovetailedIndented"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "pike",
+        "t": "azure",
+        "p": "behdf",
+        "t2": "azure",
+        "size": 0.3
+      }
+    ],
+    "shield": "wedged"
+  },
+  "pole": [
+    662,
+    284
+  ]
+}

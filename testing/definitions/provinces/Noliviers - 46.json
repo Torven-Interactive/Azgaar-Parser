@@ -1,0 +1,28 @@
+{
+  "i": 46,
+  "state": 10,
+  "center": 841,
+  "burg": 121,
+  "name": "Noliviers",
+  "formName": "County",
+  "fullName": "Noliviers County",
+  "color": "#c3beee",
+  "coa": {
+    "t1": "azure",
+    "charges": [
+      {
+        "charge": "centaur",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "t3": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "french"
+  },
+  "pole": [
+    285,
+    251
+  ]
+}

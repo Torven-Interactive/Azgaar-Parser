@@ -1,0 +1,27 @@
+{
+  "i": 26,
+  "state": 5,
+  "center": 2204,
+  "burg": 335,
+  "name": "Estrienalla",
+  "formName": "County",
+  "fullName": "Estrienalla County",
+  "color": "#b9f65f",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "boat",
+        "t": "or",
+        "p": "e",
+        "t2": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    800,
+    364
+  ]
+}

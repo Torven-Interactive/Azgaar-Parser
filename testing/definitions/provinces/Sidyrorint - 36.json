@@ -1,0 +1,28 @@
+{
+  "i": 36,
+  "state": 7,
+  "center": 866,
+  "burg": 241,
+  "name": "Sidyrorint",
+  "formName": "County",
+  "fullName": "Sidyrorint County",
+  "color": "#dcb0a9",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "bookClosed",
+        "t": "sable",
+        "p": "beh",
+        "t2": "sable",
+        "t3": "purpure",
+        "size": 0.5
+      }
+    ],
+    "shield": "boeotian"
+  },
+  "pole": [
+    510,
+    245
+  ]
+}

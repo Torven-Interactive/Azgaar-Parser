@@ -1,0 +1,32 @@
+{
+  "i": 6,
+  "state": 2,
+  "center": 79,
+  "burg": 205,
+  "name": "Hnifskorvi",
+  "formName": "Parish",
+  "fullName": "Hnifskorvi Parish",
+  "color": "#ff9e63",
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perFess",
+      "t": "vert",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "annulet",
+        "t": "gules",
+        "p": "e",
+        "divided": "counter",
+        "size": 1.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    822,
+    128
+  ]
+}

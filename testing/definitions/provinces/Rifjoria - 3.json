@@ -1,0 +1,32 @@
+{
+  "i": 3,
+  "state": 2,
+  "center": 124,
+  "burg": 2,
+  "name": "Rifjoria",
+  "formName": "Parish",
+  "fullName": "Rifjoria Parish",
+  "color": "#e7b07a",
+  "coa": {
+    "t1": "purpure",
+    "ordinaries": [
+      {
+        "ordinary": "canton",
+        "t": "or"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "cancer",
+        "t": "or",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    849,
+    201
+  ]
+}

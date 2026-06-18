@@ -1,0 +1,28 @@
+{
+  "i": 32,
+  "state": 7,
+  "center": 966,
+  "burg": 7,
+  "name": "Rifting",
+  "formName": "Earldom",
+  "fullName": "Rifting Earldom",
+  "color": "#ffb383",
+  "coa": {
+    "t1": "azure",
+    "charges": [
+      {
+        "charge": "wyvern",
+        "t": "or",
+        "p": "jln",
+        "t2": "or",
+        "t3": "or",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    724,
+    269
+  ]
+}

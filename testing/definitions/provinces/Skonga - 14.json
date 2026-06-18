@@ -1,0 +1,37 @@
+{
+  "i": 14,
+  "state": 3,
+  "center": 906,
+  "burg": 90,
+  "name": "Skonga",
+  "formName": "Margrave",
+  "fullName": "Skonga Margrave",
+  "color": "#83b9e2",
+  "coa": {
+    "t1": "fusily-or-sable",
+    "division": {
+      "division": "perFess",
+      "t": "gules",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "pot",
+        "t": "vert",
+        "p": "k",
+        "size": 0.7
+      },
+      {
+        "charge": "falcon",
+        "t": "argent",
+        "p": "n",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    856,
+    233
+  ]
+}

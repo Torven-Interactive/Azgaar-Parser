@@ -1,0 +1,27 @@
+{
+  "i": 61,
+  "state": 12,
+  "center": 2528,
+  "burg": 28,
+  "name": "Mondoso",
+  "formName": "County",
+  "fullName": "Mondoso County",
+  "color": "#e9ff56",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "agnusDei",
+        "t": "argent",
+        "p": "jlh",
+        "t2": "argent",
+        "size": 0.7
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    848,
+    391
+  ]
+}

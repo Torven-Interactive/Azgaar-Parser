@@ -1,0 +1,28 @@
+{
+  "i": 39,
+  "state": 8,
+  "center": 2441,
+  "burg": 255,
+  "name": "Duratua",
+  "formName": "Landgrave",
+  "fullName": "Duratua Landgrave",
+  "color": "#e5a1a0",
+  "coa": {
+    "t1": "vert",
+    "charges": [
+      {
+        "charge": "cossack",
+        "t": "argent",
+        "p": "e",
+        "t2": "or",
+        "t3": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    187,
+    386
+  ]
+}

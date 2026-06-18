@@ -1,0 +1,29 @@
+{
+  "i": 18,
+  "state": 4,
+  "center": 1406,
+  "burg": 239,
+  "name": "Hvolstad",
+  "formName": "State",
+  "fullName": "Hvolstad State",
+  "color": "#f3b1c2",
+  "coa": {
+    "t1": "sable",
+    "division": {
+      "division": "perSaltire",
+      "t": "argent"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "cross",
+        "t": "or",
+        "line": "straight"
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    879,
+    317
+  ]
+}

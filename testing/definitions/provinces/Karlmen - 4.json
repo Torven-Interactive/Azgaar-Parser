@@ -1,0 +1,35 @@
+{
+  "i": 4,
+  "state": 2,
+  "center": 171,
+  "burg": 35,
+  "name": "Karlmen",
+  "formName": "Parish",
+  "fullName": "Karlmen Parish",
+  "color": "#ff9866",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "bend",
+        "t": "argent",
+        "line": "invecked"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "lanceWithBanner",
+        "t": "purpure",
+        "p": "e",
+        "t2": "purpure",
+        "t3": "purpure",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    854,
+    144
+  ]
+}

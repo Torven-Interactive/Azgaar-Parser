@@ -1,0 +1,24 @@
+{
+  "i": 103,
+  "state": 18,
+  "center": 1926,
+  "burg": 299,
+  "name": "Ongo",
+  "formName": "Barony",
+  "fullName": "Ongo Barony",
+  "color": "#eedc70",
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "quarter",
+        "t": "azure"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    370,
+    335
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "i": 64,
+  "state": 13,
+  "center": 1998,
+  "burg": 160,
+  "name": "Oriatza",
+  "formName": "Province",
+  "fullName": "Oriatza Province",
+  "color": "#bcc6a9",
+  "coa": {
+    "t1": "or",
+    "ordinaries": [
+      {
+        "ordinary": "bendlet",
+        "t": "azure",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "scissors2",
+        "t": "argent",
+        "p": "joe",
+        "size": 0.3
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    163,
+    342
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "i": 98,
+  "state": 17,
+  "center": 1642,
+  "burg": 17,
+  "name": "Rauroyria",
+  "formName": "Department",
+  "fullName": "Rauroyria Department",
+  "color": "#d3ff61",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "perCross",
+      "t": "argent",
+      "line": "indented"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "pale",
+        "t": "or",
+        "line": "straight",
+        "divided": "counter"
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    968,
+    320
+  ]
+}

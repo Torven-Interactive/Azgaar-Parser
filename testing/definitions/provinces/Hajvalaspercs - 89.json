@@ -1,0 +1,39 @@
+{
+  "i": 89,
+  "state": 15,
+  "center": 384,
+  "burg": 140,
+  "name": "Hajvalaspercs",
+  "formName": "Earldom",
+  "fullName": "Hajvalaspercs Earldom",
+  "color": "#cbcfb7",
+  "coa": {
+    "t1": "purpure",
+    "division": {
+      "division": "perSaltire",
+      "t": "argent"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "flaunches",
+        "t": "or",
+        "line": "archedReversed"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "peacock",
+        "t": "or",
+        "p": "e",
+        "t2": "or",
+        "t3": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "pole": [
+    1105,
+    177
+  ]
+}

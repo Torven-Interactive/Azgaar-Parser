@@ -1,0 +1,33 @@
+{
+  "i": 48,
+  "state": 10,
+  "center": 842,
+  "burg": 128,
+  "name": "Clerolle",
+  "formName": "Barony",
+  "fullName": "Clerolle Barony",
+  "color": "#c7b3f5",
+  "coa": {
+    "t1": "gules",
+    "ordinaries": [
+      {
+        "ordinary": "cross",
+        "t": "argent",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "mullet",
+        "t": "sable",
+        "p": "behdf",
+        "size": 0.3
+      }
+    ],
+    "shield": "french"
+  },
+  "pole": [
+    302,
+    234
+  ]
+}

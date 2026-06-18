@@ -1,0 +1,28 @@
+{
+  "i": 77,
+  "state": 13,
+  "center": 1917,
+  "burg": 41,
+  "name": "Paiapia",
+  "formName": "Republic",
+  "fullName": "Paiapia Republic",
+  "color": "#98c8bc",
+  "coa": {
+    "t1": "vert",
+    "charges": [
+      {
+        "charge": "lymphad",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "t3": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    328,
+    346
+  ]
+}

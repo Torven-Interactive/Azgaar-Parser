@@ -1,0 +1,37 @@
+{
+  "i": 113,
+  "state": 9,
+  "center": 664,
+  "burg": 0,
+  "name": "Kalyurt",
+  "formName": "Territory",
+  "fullName": "Kalyurt Territory",
+  "color": "#ff9dba",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "perFess",
+      "t": "argent",
+      "line": "invecked"
+    },
+    "charges": [
+      {
+        "charge": "sextifoil",
+        "t": "or",
+        "p": "k",
+        "size": 0.7
+      },
+      {
+        "charge": "griffinRampant",
+        "t": "vert",
+        "p": "n",
+        "size": 0.7
+      }
+    ],
+    "shield": "round"
+  },
+  "pole": [
+    828,
+    220
+  ]
+}

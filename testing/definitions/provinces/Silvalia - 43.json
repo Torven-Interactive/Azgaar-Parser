@@ -1,0 +1,33 @@
+{
+  "i": 43,
+  "state": 10,
+  "center": 629,
+  "burg": 10,
+  "name": "Silvalia",
+  "formName": "County",
+  "fullName": "Silvalia County",
+  "color": "#c9c6e0",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "pall",
+        "t": "argent",
+        "line": "flechy"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "escallop",
+        "t": "purpure",
+        "p": "jleh",
+        "size": 0.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "pole": [
+    357,
+    217
+  ]
+}

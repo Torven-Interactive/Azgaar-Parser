@@ -1,0 +1,28 @@
+{
+  "i": 97,
+  "state": 16,
+  "center": 1944,
+  "burg": 322,
+  "name": "Chernik",
+  "formName": "County",
+  "fullName": "Chernik County",
+  "color": "#ff87e2",
+  "coa": {
+    "t1": "sable",
+    "charges": [
+      {
+        "charge": "wolfPassant",
+        "t": "or",
+        "p": "e",
+        "t2": "or",
+        "t3": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "polish"
+  },
+  "pole": [
+    539,
+    337
+  ]
+}

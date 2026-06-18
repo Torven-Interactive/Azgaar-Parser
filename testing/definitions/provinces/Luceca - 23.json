@@ -1,0 +1,27 @@
+{
+  "i": 23,
+  "state": 5,
+  "center": 1852,
+  "burg": 197,
+  "name": "Luceca",
+  "formName": "Earldom",
+  "fullName": "Luceca Earldom",
+  "color": "#c8e655",
+  "coa": {
+    "t1": "azure",
+    "charges": [
+      {
+        "charge": "stagPassant",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    739,
+    322
+  ]
+}

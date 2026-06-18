@@ -1,0 +1,39 @@
+{
+  "i": 22,
+  "state": 5,
+  "center": 1607,
+  "burg": 171,
+  "name": "Maledia",
+  "formName": "County",
+  "fullName": "Maledia County",
+  "color": "#c6ea56",
+  "coa": {
+    "t1": "fusily-or-vert",
+    "division": {
+      "division": "perPale",
+      "t": "gules",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "wingSword",
+        "t": "purpure",
+        "p": "p",
+        "t2": "purpure",
+        "t3": "purpure",
+        "size": 0.7
+      },
+      {
+        "charge": "lighthouse",
+        "t": "argent",
+        "p": "q",
+        "size": 0.7
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    738,
+    291
+  ]
+}

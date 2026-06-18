@@ -1,0 +1,38 @@
+{
+  "i": 111,
+  "state": 6,
+  "center": 155,
+  "burg": 0,
+  "name": "Lalasztasia",
+  "formName": "Island",
+  "fullName": "Lalasztasia Island",
+  "color": "#fff43a",
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "roundel",
+        "t": "gules",
+        "p": "eo",
+        "size": 0.5
+      },
+      {
+        "charge": "scalesHanging",
+        "t": "or",
+        "p": "y",
+        "size": 0.5
+      }
+    ],
+    "ordinaries": [
+      {
+        "ordinary": "canton",
+        "t": "gules"
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "pole": [
+    1098,
+    141
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "i": 29,
+  "state": 6,
+  "center": 63,
+  "burg": 82,
+  "name": "Marsado",
+  "formName": "Parish",
+  "fullName": "Marsado Parish",
+  "color": "#fef83d",
+  "coa": {
+    "t1": "lozengy-gules-argent",
+    "division": {
+      "division": "perBend",
+      "t": "argent",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "bendSinister",
+        "t": "or",
+        "line": "straight"
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "pole": [
+    1049,
+    130
+  ]
+}

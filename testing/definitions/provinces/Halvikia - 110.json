@@ -1,0 +1,26 @@
+{
+  "i": 110,
+  "state": 2,
+  "center": 30,
+  "burg": 0,
+  "name": "Halvikia",
+  "formName": "Island",
+  "fullName": "Halvikia Island",
+  "color": "#ff9170",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "mulletFaceted",
+        "t": "azure",
+        "p": "def",
+        "size": 0.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    862,
+    114
+  ]
+}

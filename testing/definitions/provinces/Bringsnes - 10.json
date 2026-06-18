@@ -1,0 +1,28 @@
+{
+  "i": 10,
+  "state": 2,
+  "center": 215,
+  "burg": 226,
+  "name": "Bringsnes",
+  "formName": "Parish",
+  "fullName": "Bringsnes Parish",
+  "color": "#e6ad7f",
+  "coa": {
+    "t1": "vert",
+    "charges": [
+      {
+        "charge": "dragonRampant",
+        "t": "argent",
+        "p": "e",
+        "t2": "or",
+        "t3": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    817,
+    174
+  ]
+}

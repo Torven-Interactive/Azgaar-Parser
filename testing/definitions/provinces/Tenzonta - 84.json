@@ -1,0 +1,33 @@
+{
+  "i": 84,
+  "state": 14,
+  "center": 2714,
+  "burg": 272,
+  "name": "Tenzonta",
+  "formName": "County",
+  "fullName": "Tenzonta County",
+  "color": "#d5bea2",
+  "coa": {
+    "t1": "barry-or-gules",
+    "ordinaries": [
+      {
+        "ordinary": "canton",
+        "t": "azure",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "shears",
+        "t": "argent",
+        "p": "y",
+        "size": 0.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    704,
+    409
+  ]
+}

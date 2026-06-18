@@ -1,0 +1,27 @@
+{
+  "i": 94,
+  "state": 16,
+  "center": 2281,
+  "burg": 264,
+  "name": "Roshizia",
+  "formName": "County",
+  "fullName": "Roshizia County",
+  "color": "#ff87e5",
+  "coa": {
+    "t1": "purpure",
+    "charges": [
+      {
+        "charge": "stirrup",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "polish"
+  },
+  "pole": [
+    563,
+    369
+  ]
+}

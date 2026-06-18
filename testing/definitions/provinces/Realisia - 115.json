@@ -1,0 +1,26 @@
+{
+  "i": 115,
+  "state": 14,
+  "center": 2877,
+  "burg": 0,
+  "name": "Realisia",
+  "formName": "Area",
+  "fullName": "Realisia Area",
+  "color": "#ffb282",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "fusil",
+        "t": "sable",
+        "p": "abcpqh",
+        "size": 0.5
+      }
+    ],
+    "shield": "round"
+  },
+  "pole": [
+    600,
+    422
+  ]
+}

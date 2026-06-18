@@ -1,0 +1,28 @@
+{
+  "i": 87,
+  "state": 14,
+  "center": 3337,
+  "burg": 125,
+  "name": "Alhonguiba",
+  "formName": "Margrave",
+  "fullName": "Alhonguiba Margrave",
+  "color": "#e0afa1",
+  "coa": {
+    "t1": "barry-or-gules",
+    "charges": [
+      {
+        "charge": "dragonPassant",
+        "t": "sable",
+        "p": "e",
+        "t2": "sable",
+        "t3": "purpure",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    757,
+    486
+  ]
+}

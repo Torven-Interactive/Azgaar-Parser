@@ -1,0 +1,24 @@
+{
+  "i": 62,
+  "state": 12,
+  "center": 2971,
+  "burg": 153,
+  "name": "Oriruesia",
+  "formName": "Earldom",
+  "fullName": "Oriruesia Earldom",
+  "color": "#e6ff6c",
+  "coa": {
+    "t1": "vert",
+    "ordinaries": [
+      {
+        "ordinary": "pallReversed",
+        "t": "or"
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    841,
+    428
+  ]
+}

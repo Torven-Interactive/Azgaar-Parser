@@ -1,0 +1,44 @@
+{
+  "i": 114,
+  "state": 10,
+  "center": 1566,
+  "burg": 53,
+  "name": "Oria",
+  "formName": "Island",
+  "fullName": "Oria Island",
+  "color": "#e09eec",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "perFess",
+      "t": "argent",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "attire",
+        "t": "or",
+        "p": "kn",
+        "divided": "counter",
+        "size": 0.7
+      },
+      {
+        "charge": "crossClechy",
+        "t": "azure",
+        "p": "y",
+        "size": 0.5
+      }
+    ],
+    "ordinaries": [
+      {
+        "ordinary": "canton",
+        "t": "or"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    449,
+    313
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "i": 88,
+  "state": 15,
+  "center": 535,
+  "burg": 15,
+  "name": "Mindsnabads",
+  "formName": "County",
+  "fullName": "Mindsnabads County",
+  "color": "#c9d1b7",
+  "coa": {
+    "t1": "vert",
+    "charges": [
+      {
+        "charge": "armillarySphere",
+        "t": "or",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "horsehead2"
+  },
+  "pole": [
+    1119,
+    197
+  ]
+}

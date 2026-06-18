@@ -1,0 +1,35 @@
+{
+  "i": 1,
+  "state": 1,
+  "center": 1832,
+  "burg": 1,
+  "name": "Moborod",
+  "formName": "County",
+  "fullName": "Moborod County",
+  "color": "#62dfb7",
+  "coa": {
+    "t1": "gules",
+    "ordinaries": [
+      {
+        "ordinary": "chief",
+        "t": "argent",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "unicornRampant",
+        "t": "vert",
+        "p": "abc",
+        "t2": "vert",
+        "t3": "vert",
+        "size": 0.5
+      }
+    ],
+    "shield": "polish"
+  },
+  "pole": [
+    575,
+    337
+  ]
+}

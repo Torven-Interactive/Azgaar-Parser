@@ -1,0 +1,23 @@
+{
+  "i": 16,
+  "state": 4,
+  "center": 1746,
+  "burg": 142,
+  "name": "Holmen",
+  "formName": "State",
+  "fullName": "Holmen State",
+  "color": "#ff9db9",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "perFess",
+      "t": "argent",
+      "line": "wavy"
+    },
+    "shield": "heater"
+  },
+  "pole": [
+    814,
+    338
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "i": 71,
+  "state": 13,
+  "center": 1919,
+  "burg": 89,
+  "name": "Gorrata",
+  "formName": "State",
+  "fullName": "Gorrata State",
+  "color": "#aec2b5",
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "laurelWreath",
+        "t": "purpure",
+        "p": "e",
+        "t2": "vert",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    352,
+    351
+  ]
+}

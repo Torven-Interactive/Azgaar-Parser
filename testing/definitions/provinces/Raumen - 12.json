@@ -1,0 +1,31 @@
+{
+  "i": 12,
+  "state": 3,
+  "center": 828,
+  "burg": 315,
+  "name": "Raumen",
+  "formName": "Margrave",
+  "fullName": "Raumen Margrave",
+  "color": "#b7a4cb",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "perSaltire",
+      "t": "argent"
+    },
+    "charges": [
+      {
+        "charge": "sunInSplendour",
+        "t": "or",
+        "p": "bhdf",
+        "divided": "counter",
+        "size": 0.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    895,
+    234
+  ]
+}

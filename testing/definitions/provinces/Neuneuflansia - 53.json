@@ -1,0 +1,28 @@
+{
+  "i": 53,
+  "state": 10,
+  "center": 542,
+  "burg": 289,
+  "name": "Neuneuflansia",
+  "formName": "County",
+  "fullName": "Neuneuflansia County",
+  "color": "#f6aad3",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "cowStatant",
+        "t": "or",
+        "p": "e",
+        "t2": "argent",
+        "t3": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "french"
+  },
+  "pole": [
+    304,
+    217
+  ]
+}

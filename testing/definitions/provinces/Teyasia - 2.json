@@ -1,0 +1,32 @@
+{
+  "i": 2,
+  "state": 1,
+  "center": 2067,
+  "burg": 328,
+  "name": "Teyasia",
+  "formName": "Barony",
+  "fullName": "Teyasia Barony",
+  "color": "#62dfb7",
+  "coa": {
+    "t1": "vert",
+    "charges": [
+      {
+        "charge": "inescutcheon",
+        "t": "argent",
+        "p": "e",
+        "size": 1.5
+      },
+      {
+        "charge": "trefle",
+        "t": "azure",
+        "p": "e",
+        "size": 0.75
+      }
+    ],
+    "shield": "polish"
+  },
+  "pole": [
+    592,
+    361
+  ]
+}

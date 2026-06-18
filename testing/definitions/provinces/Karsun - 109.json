@@ -1,0 +1,32 @@
+{
+  "i": 109,
+  "state": 1,
+  "center": 1828,
+  "burg": 288,
+  "name": "Karsun",
+  "formName": "Territory",
+  "fullName": "Karsun Territory",
+  "color": "#94c5a5",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "inescutcheon",
+        "t": "argent",
+        "p": "abcpqh",
+        "size": 0.5
+      },
+      {
+        "charge": "hatchet",
+        "t": "vert",
+        "p": "abcpqh",
+        "size": 0.25
+      }
+    ],
+    "shield": "polish"
+  },
+  "pole": [
+    553,
+    343
+  ]
+}

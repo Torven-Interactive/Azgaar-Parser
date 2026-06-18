@@ -1,0 +1,33 @@
+{
+  "i": 15,
+  "state": 4,
+  "center": 2098,
+  "burg": 4,
+  "name": "Mares",
+  "formName": "Council",
+  "fullName": "Mares Council",
+  "color": "#ea89d5",
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "pale",
+        "t": "gules",
+        "line": "indented"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "helmetZischagge",
+        "t": "argent",
+        "p": "beh",
+        "size": 0.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    821,
+    369
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "i": 108,
+  "state": 18,
+  "center": 2770,
+  "burg": 200,
+  "name": "Lezu",
+  "formName": "Captaincy",
+  "fullName": "Lezu Captaincy",
+  "color": "#ffe94b",
+  "coa": {
+    "t1": "bendy-argent-sable",
+    "division": {
+      "division": "perPile",
+      "t": "chainy-argent-vert",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "bendSinister",
+        "t": "azure",
+        "line": "straight"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    408,
+    418
+  ]
+}

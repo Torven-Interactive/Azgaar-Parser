@@ -1,0 +1,24 @@
+{
+  "i": 7,
+  "state": 2,
+  "center": 81,
+  "burg": 332,
+  "name": "Sandrekia",
+  "formName": "Parish",
+  "fullName": "Sandrekia Parish",
+  "color": "#fdb46b",
+  "coa": {
+    "t1": "scaly-purpure-or",
+    "ordinaries": [
+      {
+        "ordinary": "chevron",
+        "t": "argent"
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    828,
+    121
+  ]
+}

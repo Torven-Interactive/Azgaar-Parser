@@ -1,0 +1,30 @@
+{
+  "i": 51,
+  "state": 10,
+  "center": 398,
+  "burg": 206,
+  "name": "Kaumaa",
+  "formName": "County",
+  "fullName": "Kaumaa County",
+  "color": "#ef9ee7",
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "gyronny",
+      "t": "azure"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "fess",
+        "t": "gules",
+        "line": "straight",
+        "divided": "counter"
+      }
+    ],
+    "shield": "pavise"
+  },
+  "pole": [
+    363,
+    189
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "i": 24,
+  "state": 5,
+  "center": 1610,
+  "burg": 305,
+  "name": "Pebolgarro",
+  "formName": "County",
+  "fullName": "Pebolgarro County",
+  "color": "#a9d377",
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "trefle",
+        "t": "purpure",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    766,
+    314
+  ]
+}

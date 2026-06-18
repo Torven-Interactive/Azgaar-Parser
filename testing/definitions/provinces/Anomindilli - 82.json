@@ -1,0 +1,49 @@
+{
+  "i": 82,
+  "state": 14,
+  "center": 2959,
+  "burg": 94,
+  "name": "Anomindilli",
+  "formName": "County",
+  "fullName": "Anomindilli County",
+  "color": "#f6a69a",
+  "coa": {
+    "t1": "vert",
+    "division": {
+      "division": "perCross",
+      "t": "argent",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "key",
+        "t": "or",
+        "p": "j",
+        "size": 0.6
+      },
+      {
+        "charge": "parrot",
+        "t": "azure",
+        "p": "l",
+        "size": 0.6
+      },
+      {
+        "charge": "camel",
+        "t": "vert",
+        "p": "m",
+        "size": 0.6
+      },
+      {
+        "charge": "cock",
+        "t": "argent",
+        "p": "o",
+        "size": 0.6
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    717,
+    447
+  ]
+}

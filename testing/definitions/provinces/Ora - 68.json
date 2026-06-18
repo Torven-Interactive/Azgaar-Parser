@@ -1,0 +1,28 @@
+{
+  "i": 68,
+  "state": 13,
+  "center": 2555,
+  "burg": 36,
+  "name": "Ora",
+  "formName": "Province",
+  "fullName": "Ora Province",
+  "color": "#b5df98",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "griffinRampant",
+        "t": "gules",
+        "p": "jlh",
+        "t2": "gules",
+        "t3": "vert",
+        "size": 0.7
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    225,
+    397
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "i": 42,
+  "state": 9,
+  "center": 732,
+  "burg": 165,
+  "name": "Hvamsund",
+  "formName": "County",
+  "fullName": "Hvamsund County",
+  "color": "#f6bcbe",
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perPale",
+      "t": "azure",
+      "line": "rayonne"
+    },
+    "charges": [
+      {
+        "charge": "fountain",
+        "t": "azure",
+        "p": "p",
+        "size": 0.7
+      },
+      {
+        "charge": "sagittarius",
+        "t": "argent",
+        "p": "q",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    777,
+    222
+  ]
+}

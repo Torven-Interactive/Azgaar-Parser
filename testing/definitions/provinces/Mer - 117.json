@@ -1,0 +1,42 @@
+{
+  "i": 117,
+  "state": 17,
+  "center": 1428,
+  "burg": 0,
+  "name": "Mer",
+  "formName": "Islands",
+  "fullName": "Mer Islands",
+  "color": "#cbe174",
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "pilesInPoint",
+        "t": "gules"
+      },
+      {
+        "ordinary": "canton",
+        "t": "purpure"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "mullet4",
+        "t": "vert",
+        "p": "def",
+        "size": 0.5
+      },
+      {
+        "charge": "boarHeadErased",
+        "t": "argent",
+        "p": "y",
+        "size": 0.5
+      }
+    ],
+    "shield": "round"
+  },
+  "pole": [
+    1044,
+    296
+  ]
+}

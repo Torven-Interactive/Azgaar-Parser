@@ -1,0 +1,28 @@
+{
+  "i": 100,
+  "state": 18,
+  "center": 2367,
+  "burg": 18,
+  "name": "Beguiamu",
+  "formName": "Barony",
+  "fullName": "Beguiamu Barony",
+  "color": "#ffc865",
+  "coa": {
+    "t1": "vert",
+    "charges": [
+      {
+        "charge": "caravel",
+        "t": "or",
+        "p": "jln",
+        "t2": "or",
+        "t3": "or",
+        "size": 0.7
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    404,
+    375
+  ]
+}

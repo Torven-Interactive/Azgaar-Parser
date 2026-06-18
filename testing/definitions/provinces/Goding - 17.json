@@ -1,0 +1,26 @@
+{
+  "i": 17,
+  "state": 4,
+  "center": 1749,
+  "burg": 258,
+  "name": "Goding",
+  "formName": "Council",
+  "fullName": "Goding Council",
+  "color": "#ff8cc9",
+  "coa": {
+    "t1": "vert",
+    "charges": [
+      {
+        "charge": "trefle",
+        "t": "or",
+        "p": "jlh",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    835,
+    329
+  ]
+}

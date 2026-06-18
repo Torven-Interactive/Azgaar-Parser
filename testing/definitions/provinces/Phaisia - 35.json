@@ -1,0 +1,32 @@
+{
+  "i": 35,
+  "state": 7,
+  "center": 715,
+  "burg": 109,
+  "name": "Phaisia",
+  "formName": "Margrave",
+  "fullName": "Phaisia Margrave",
+  "color": "#d9b4a9",
+  "coa": {
+    "t1": "gules",
+    "division": {
+      "division": "perCross",
+      "t": "maily-argent-purpure",
+      "line": "urdy"
+    },
+    "charges": [
+      {
+        "charge": "boat",
+        "t": "or",
+        "p": "jo",
+        "t2": "or",
+        "size": 0.7
+      }
+    ],
+    "shield": "boeotian"
+  },
+  "pole": [
+    496,
+    207
+  ]
+}

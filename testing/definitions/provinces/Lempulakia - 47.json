@@ -1,0 +1,28 @@
+{
+  "i": 47,
+  "state": 10,
+  "center": 484,
+  "burg": 102,
+  "name": "Lempulakia",
+  "formName": "County",
+  "fullName": "Lempulakia County",
+  "color": "#c4bcef",
+  "coa": {
+    "t1": "sable",
+    "charges": [
+      {
+        "charge": "cavalier",
+        "t": "or",
+        "p": "e",
+        "t2": "or",
+        "t3": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "pole": [
+    387,
+    194
+  ]
+}

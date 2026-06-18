@@ -1,0 +1,31 @@
+{
+  "i": 52,
+  "state": 10,
+  "center": 486,
+  "burg": 317,
+  "name": "Klovs",
+  "formName": "Earldom",
+  "fullName": "Klovs Earldom",
+  "color": "#f29fe6",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "gyronny",
+      "t": "or"
+    },
+    "charges": [
+      {
+        "charge": "escallop",
+        "t": "argent",
+        "p": "abcpqh",
+        "divided": "counter",
+        "size": 0.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "pole": [
+    396,
+    185
+  ]
+}

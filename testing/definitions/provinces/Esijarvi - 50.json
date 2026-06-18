@@ -1,0 +1,30 @@
+{
+  "i": 50,
+  "state": 10,
+  "center": 399,
+  "burg": 172,
+  "name": "Esijarvi",
+  "formName": "County",
+  "fullName": "Esijarvi County",
+  "color": "#c4bbf0",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "perCross",
+      "t": "argent",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "pallReversed",
+        "t": "or",
+        "divided": "counter"
+      }
+    ],
+    "shield": "pavise"
+  },
+  "pole": [
+    371,
+    173
+  ]
+}

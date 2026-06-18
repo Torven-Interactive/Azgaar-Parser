@@ -1,0 +1,27 @@
+{
+  "i": 25,
+  "state": 5,
+  "center": 2077,
+  "burg": 78,
+  "name": "Sansa",
+  "formName": "Earldom",
+  "fullName": "Sansa Earldom",
+  "color": "#9fe17d",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "dolphin",
+        "t": "or",
+        "p": "e",
+        "t2": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    727,
+    365
+  ]
+}

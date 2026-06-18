@@ -1,0 +1,37 @@
+{
+  "i": 41,
+  "state": 9,
+  "center": 411,
+  "burg": 9,
+  "name": "Bifjor",
+  "formName": "County",
+  "fullName": "Bifjor County",
+  "color": "#f898d5",
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perBend",
+      "t": "counterPotent-argent-purpure",
+      "line": "dovetailed"
+    },
+    "charges": [
+      {
+        "charge": "lozengeFaceted",
+        "t": "gules",
+        "p": "l",
+        "size": 0.7
+      },
+      {
+        "charge": "ladder",
+        "t": "vert",
+        "p": "m",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    798,
+    202
+  ]
+}

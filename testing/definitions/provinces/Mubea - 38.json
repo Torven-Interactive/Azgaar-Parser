@@ -1,0 +1,34 @@
+{
+  "i": 38,
+  "state": 8,
+  "center": 2538,
+  "burg": 76,
+  "name": "Mubea",
+  "formName": "County",
+  "fullName": "Mubea County",
+  "color": "#e69fa1",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "cross",
+        "t": "or",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "boat",
+        "t": "azure",
+        "p": "behdf",
+        "t2": "azure",
+        "size": 0.3
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    161,
+    398
+  ]
+}

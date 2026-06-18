@@ -1,0 +1,32 @@
+{
+  "i": 49,
+  "state": 10,
+  "center": 1128,
+  "burg": 176,
+  "name": "Temsa",
+  "formName": "Earldom",
+  "fullName": "Temsa Earldom",
+  "color": "#d7c7d8",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "quarter",
+        "t": "or"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "trefoil",
+        "t": "purpure",
+        "p": "j",
+        "size": 0.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "pole": [
+    293,
+    271
+  ]
+}

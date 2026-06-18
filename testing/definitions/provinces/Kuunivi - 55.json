@@ -1,0 +1,26 @@
+{
+  "i": 55,
+  "state": 10,
+  "center": 847,
+  "burg": 161,
+  "name": "Kuunivi",
+  "formName": "Earldom",
+  "fullName": "Kuunivi Earldom",
+  "color": "#ee9ee9",
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "inescutcheon",
+        "t": "purpure",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "pole": [
+    353,
+    236
+  ]
+}

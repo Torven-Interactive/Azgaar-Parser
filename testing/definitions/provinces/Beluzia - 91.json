@@ -1,0 +1,28 @@
+{
+  "i": 91,
+  "state": 16,
+  "center": 1826,
+  "burg": 100,
+  "name": "Beluzia",
+  "formName": "County",
+  "fullName": "Beluzia County",
+  "color": "#fa87e5",
+  "coa": {
+    "t1": "azure",
+    "charges": [
+      {
+        "charge": "windmill",
+        "t": "argent",
+        "p": "jln",
+        "t2": "argent",
+        "t3": "or",
+        "size": 0.7
+      }
+    ],
+    "shield": "renaissance"
+  },
+  "pole": [
+    531,
+    333
+  ]
+}

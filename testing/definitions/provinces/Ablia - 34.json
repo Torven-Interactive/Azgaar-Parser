@@ -1,0 +1,37 @@
+{
+  "i": 34,
+  "state": 7,
+  "center": 714,
+  "burg": 137,
+  "name": "Ablia",
+  "formName": "County",
+  "fullName": "Ablia County",
+  "color": "#ffa298",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "perBend",
+      "t": "or",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "arbalest2",
+        "t": "argent",
+        "p": "l",
+        "size": 0.7
+      },
+      {
+        "charge": "skull",
+        "t": "gules",
+        "p": "m",
+        "size": 0.7
+      }
+    ],
+    "shield": "boeotian"
+  },
+  "pole": [
+    490,
+    220
+  ]
+}

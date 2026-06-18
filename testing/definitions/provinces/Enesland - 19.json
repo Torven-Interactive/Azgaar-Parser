@@ -1,0 +1,26 @@
+{
+  "i": 19,
+  "state": 4,
+  "center": 1504,
+  "burg": 212,
+  "name": "Enesland",
+  "formName": "State",
+  "fullName": "Enesland State",
+  "color": "#fa89d3",
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "crossTemplar",
+        "t": "sable",
+        "p": "jeo",
+        "size": 0.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    856,
+    319
+  ]
+}

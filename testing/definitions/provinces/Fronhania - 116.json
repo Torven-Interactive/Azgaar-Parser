@@ -1,0 +1,44 @@
+{
+  "i": 116,
+  "state": 16,
+  "center": 3085,
+  "burg": 0,
+  "name": "Fronhania",
+  "formName": "Clan",
+  "fullName": "Fronhania Clan",
+  "color": "#ec92ee",
+  "coa": {
+    "t1": "bendySinister-argent-sable",
+    "division": {
+      "division": "perPale",
+      "t": "purpure",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "fess",
+        "t": "azure",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "inescutcheon",
+        "t": "or",
+        "p": "def",
+        "size": 0.5
+      },
+      {
+        "charge": "cavalier",
+        "t": "vert",
+        "p": "def",
+        "size": 0.25
+      }
+    ],
+    "shield": "renaissance"
+  },
+  "pole": [
+    418,
+    480
+  ]
+}

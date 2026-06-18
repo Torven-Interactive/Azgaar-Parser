@@ -1,0 +1,31 @@
+{
+  "i": 11,
+  "state": 3,
+  "center": 670,
+  "burg": 3,
+  "name": "Sendogia",
+  "formName": "Earldom",
+  "fullName": "Sendogia Earldom",
+  "color": "#95c5c9",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "perCross",
+      "t": "or",
+      "line": "angled"
+    },
+    "charges": [
+      {
+        "charge": "crossPatteeAlisee",
+        "t": "argent",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    874,
+    215
+  ]
+}

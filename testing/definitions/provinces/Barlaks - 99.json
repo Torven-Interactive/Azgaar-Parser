@@ -1,0 +1,25 @@
+{
+  "i": 99,
+  "state": 17,
+  "center": 1324,
+  "burg": 233,
+  "name": "Barlaks",
+  "formName": "Canton",
+  "fullName": "Barlaks Canton",
+  "color": "#b8f57e",
+  "coa": {
+    "t1": "lozengy-gules-argent",
+    "ordinaries": [
+      {
+        "ordinary": "bar",
+        "t": "or",
+        "line": "straight"
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    964,
+    294
+  ]
+}

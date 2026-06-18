@@ -1,0 +1,28 @@
+{
+  "i": 73,
+  "state": 13,
+  "center": 1776,
+  "burg": 96,
+  "name": "Oreta",
+  "formName": "Republic",
+  "fullName": "Oreta Republic",
+  "color": "#bcc8a7",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "lymphad",
+        "t": "purpure",
+        "p": "e",
+        "t2": "purpure",
+        "t3": "gules",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    169,
+    329
+  ]
+}

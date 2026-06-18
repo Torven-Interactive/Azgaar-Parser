@@ -1,0 +1,26 @@
+{
+  "i": 57,
+  "state": 12,
+  "center": 3114,
+  "burg": 269,
+  "name": "Sondavillo",
+  "formName": "County",
+  "fullName": "Sondavillo County",
+  "color": "#eafa6c",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "crossLatin",
+        "t": "gules",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    839,
+    451
+  ]
+}

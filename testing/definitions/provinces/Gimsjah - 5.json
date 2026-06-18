@@ -1,0 +1,37 @@
+{
+  "i": 5,
+  "state": 2,
+  "center": 284,
+  "burg": 57,
+  "name": "Gimsjah",
+  "formName": "Parish",
+  "fullName": "Gimsjah Parish",
+  "color": "#ff8b7e",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "perBend",
+      "t": "or",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "inescutcheon",
+        "t": "argent",
+        "p": "l",
+        "size": 0.7
+      },
+      {
+        "charge": "drawingCompass",
+        "t": "sable",
+        "p": "m",
+        "size": 0.7
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    858,
+    180
+  ]
+}

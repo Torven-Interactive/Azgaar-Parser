@@ -1,0 +1,26 @@
+{
+  "i": 81,
+  "state": 14,
+  "center": 2506,
+  "burg": 103,
+  "name": "Lillos",
+  "formName": "Shire",
+  "fullName": "Lillos Shire",
+  "color": "#d7baa4",
+  "coa": {
+    "t1": "purpure",
+    "charges": [
+      {
+        "charge": "crosslet",
+        "t": "argent",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    715,
+    390
+  ]
+}

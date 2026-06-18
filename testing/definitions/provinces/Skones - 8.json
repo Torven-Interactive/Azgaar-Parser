@@ -1,0 +1,28 @@
+{
+  "i": 8,
+  "state": 2,
+  "center": 231,
+  "burg": 145,
+  "name": "Skones",
+  "formName": "Parish",
+  "fullName": "Skones Parish",
+  "color": "#ff8b7f",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "lymphad",
+        "t": "gules",
+        "p": "e",
+        "t2": "gules",
+        "t3": "sable",
+        "size": 1.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "pole": [
+    924,
+    163
+  ]
+}

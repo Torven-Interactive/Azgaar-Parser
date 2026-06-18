@@ -1,0 +1,30 @@
+{
+  "i": 37,
+  "state": 8,
+  "center": 2224,
+  "burg": 8,
+  "name": "Gausurnia",
+  "formName": "County",
+  "fullName": "Gausurnia County",
+  "color": "#ffab7d",
+  "coa": {
+    "t1": "vairAncien-argent-azure",
+    "division": {
+      "division": "perChevronReversed",
+      "t": "azure",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "pale",
+        "t": "gules",
+        "line": "straight"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    169,
+    375
+  ]
+}

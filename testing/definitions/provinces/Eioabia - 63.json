@@ -1,0 +1,35 @@
+{
+  "i": 63,
+  "state": 13,
+  "center": 1781,
+  "burg": 13,
+  "name": "Eioabia",
+  "formName": "Republic",
+  "fullName": "Eioabia Republic",
+  "color": "#b8c4b1",
+  "coa": {
+    "t1": "bendy-argent-purpure",
+    "ordinaries": [
+      {
+        "ordinary": "bendlet",
+        "t": "sable",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "boarRampant",
+        "t": "or",
+        "p": "joe",
+        "t2": "or",
+        "t3": "or",
+        "size": 0.3
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    207,
+    350
+  ]
+}

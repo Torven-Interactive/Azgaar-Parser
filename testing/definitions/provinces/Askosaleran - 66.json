@@ -1,0 +1,26 @@
+{
+  "i": 66,
+  "state": 13,
+  "center": 2236,
+  "burg": 308,
+  "name": "Askosaleran",
+  "formName": "Republic",
+  "fullName": "Askosaleran Republic",
+  "color": "#8deaad",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "anchor",
+        "t": "gules",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    244,
+    379
+  ]
+}

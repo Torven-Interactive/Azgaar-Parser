@@ -1,0 +1,29 @@
+{
+  "i": 102,
+  "state": 18,
+  "center": 2852,
+  "burg": 181,
+  "name": "Letataruria",
+  "formName": "County",
+  "fullName": "Letataruria County",
+  "color": "#f4d56f",
+  "coa": {
+    "t1": "sable",
+    "division": {
+      "division": "perBend",
+      "t": "or",
+      "line": "invecked"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "pile",
+        "t": "argent"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    426,
+    420
+  ]
+}

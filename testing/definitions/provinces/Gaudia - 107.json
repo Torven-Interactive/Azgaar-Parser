@@ -1,0 +1,26 @@
+{
+  "i": 107,
+  "state": 18,
+  "center": 1927,
+  "burg": 169,
+  "name": "Gaudia",
+  "formName": "Seneschalty",
+  "fullName": "Gaudia Seneschalty",
+  "color": "#ffec4d",
+  "coa": {
+    "t1": "bendy-or-azure",
+    "charges": [
+      {
+        "charge": "goutte",
+        "t": "gules",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    393,
+    346
+  ]
+}

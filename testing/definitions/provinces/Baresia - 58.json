@@ -1,0 +1,24 @@
+{
+  "i": 58,
+  "state": 12,
+  "center": 3179,
+  "burg": 195,
+  "name": "Baresia",
+  "formName": "County",
+  "fullName": "Baresia County",
+  "color": "#fff44e",
+  "coa": {
+    "t1": "scaly-argent-purpure",
+    "ordinaries": [
+      {
+        "ordinary": "point",
+        "t": "azure"
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    873,
+    444
+  ]
+}

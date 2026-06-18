@@ -1,0 +1,34 @@
+{
+  "i": 96,
+  "state": 16,
+  "center": 1943,
+  "burg": 314,
+  "name": "Drestrog",
+  "formName": "Margrave",
+  "fullName": "Drestrog Margrave",
+  "color": "#ff88df",
+  "coa": {
+    "t1": "or",
+    "division": {
+      "division": "perBend",
+      "t": "purpure",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "talbotSejant",
+        "t": "gules",
+        "p": "e",
+        "t2": "gules",
+        "t3": "gules",
+        "divided": "counter",
+        "size": 1.5
+      }
+    ],
+    "shield": "polish"
+  },
+  "pole": [
+    529,
+    338
+  ]
+}

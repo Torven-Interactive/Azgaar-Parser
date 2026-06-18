@@ -1,0 +1,26 @@
+{
+  "i": 65,
+  "state": 13,
+  "center": 2233,
+  "burg": 270,
+  "name": "Laga",
+  "formName": "Province",
+  "fullName": "Laga Province",
+  "color": "#b0c3b4",
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "annulet",
+        "t": "purpure",
+        "p": "jleh",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "pole": [
+    214,
+    365
+  ]
+}

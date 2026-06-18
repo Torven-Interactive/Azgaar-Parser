@@ -1,0 +1,33 @@
+{
+  "i": 56,
+  "state": 12,
+  "center": 2824,
+  "burg": 12,
+  "name": "Quincos",
+  "formName": "County",
+  "fullName": "Quincos County",
+  "color": "#e2ff63",
+  "coa": {
+    "t1": "vert",
+    "ordinaries": [
+      {
+        "ordinary": "bendletSinister",
+        "t": "argent",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "crossPommy",
+        "t": "sable",
+        "p": "lem",
+        "size": 0.3
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    823,
+    410
+  ]
+}

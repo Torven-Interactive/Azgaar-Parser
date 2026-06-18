@@ -1,0 +1,26 @@
+{
+  "i": 60,
+  "state": 12,
+  "center": 2639,
+  "burg": 86,
+  "name": "Lucia",
+  "formName": "County",
+  "fullName": "Lucia County",
+  "color": "#e7ff56",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "fusil",
+        "t": "gules",
+        "p": "behdf",
+        "size": 0.4
+      }
+    ],
+    "shield": "spanish"
+  },
+  "pole": [
+    865,
+    394
+  ]
+}
