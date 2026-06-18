@@ -1,0 +1,29 @@
+{
+  "cell": 299,
+  "x": 935.96,
+  "y": 170.05,
+  "i": 55,
+  "state": 2,
+  "culture": 3,
+  "name": "Unnsjahlid",
+  "feature": 6,
+  "capital": 0,
+  "population": 3.609,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "pile",
+        "t": "sable"
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

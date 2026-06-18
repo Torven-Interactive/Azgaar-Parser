@@ -1,0 +1,40 @@
+{
+  "cell": 884,
+  "x": 751.03,
+  "y": 243.9,
+  "i": 37,
+  "state": 7,
+  "culture": 3,
+  "name": "Unnskenes",
+  "feature": 4,
+  "capital": 0,
+  "port": 1,
+  "population": 13.006,
+  "type": "Naval",
+  "coa": {
+    "t1": "or",
+    "ordinaries": [
+      {
+        "ordinary": "bendSinister",
+        "t": "gules",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "donkeyHeadCaboshed",
+        "t": "argent",
+        "p": "lem",
+        "t2": "vert",
+        "size": 0.5
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "city"
+}

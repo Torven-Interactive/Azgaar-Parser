@@ -1,0 +1,29 @@
+{
+  "cell": 1217,
+  "x": 772.58,
+  "y": 280.05,
+  "i": 284,
+  "state": 7,
+  "culture": 3,
+  "name": "Valdumen",
+  "feature": 4,
+  "capital": 0,
+  "population": 3.066,
+  "type": "River",
+  "coa": {
+    "t1": "chequy-argent-purpure-smaller",
+    "ordinaries": [
+      {
+        "ordinary": "chevronReversed",
+        "t": "gules"
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

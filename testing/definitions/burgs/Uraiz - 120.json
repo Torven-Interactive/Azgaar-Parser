@@ -1,0 +1,54 @@
+{
+  "cell": 3138,
+  "x": 456.62,
+  "y": 454.12,
+  "i": 120,
+  "state": 16,
+  "culture": 5,
+  "name": "Uraiz",
+  "feature": 12,
+  "capital": 0,
+  "population": 0.932,
+  "type": "Generic",
+  "coa": {
+    "t1": "or",
+    "division": {
+      "division": "perCross",
+      "t": "gules",
+      "line": "bevilled"
+    },
+    "charges": [
+      {
+        "charge": "key",
+        "t": "azure",
+        "p": "j",
+        "size": 0.6
+      },
+      {
+        "charge": "elephant",
+        "t": "argent",
+        "p": "l",
+        "size": 0.6
+      },
+      {
+        "charge": "scissors2",
+        "t": "argent",
+        "p": "m",
+        "size": 0.6
+      },
+      {
+        "charge": "crossHummetty",
+        "t": "sable",
+        "p": "o",
+        "size": 0.6
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

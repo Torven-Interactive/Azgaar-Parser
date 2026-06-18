@@ -1,0 +1,39 @@
+{
+  "cell": 2122,
+  "x": 226.89,
+  "y": 362.61,
+  "i": 61,
+  "state": 13,
+  "culture": 5,
+  "name": "Zabia",
+  "feature": 14,
+  "capital": 0,
+  "port": 1,
+  "population": 6.767,
+  "type": "Naval",
+  "coa": {
+    "t1": "bendy-argent-purpure",
+    "division": {
+      "division": "perPile",
+      "t": "azure",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "wyvernWithWingsDisplayed",
+        "t": "sable",
+        "p": "e",
+        "t2": "sable",
+        "t3": "sable",
+        "size": 0.7
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

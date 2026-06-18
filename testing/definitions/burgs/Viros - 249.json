@@ -1,0 +1,38 @@
+{
+  "cell": 2380,
+  "x": 508.05,
+  "y": 374.16,
+  "i": 249,
+  "state": 16,
+  "culture": 11,
+  "name": "Viros",
+  "feature": 12,
+  "capital": 0,
+  "port": 1,
+  "population": 1.197,
+  "type": "Naval",
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "point",
+        "t": "azure"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "crossBottony",
+        "t": "azure",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "renaissance"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

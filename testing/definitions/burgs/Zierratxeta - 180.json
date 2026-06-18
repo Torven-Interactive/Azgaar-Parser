@@ -1,0 +1,35 @@
+{
+  "cell": 2231,
+  "x": 210.82,
+  "y": 366.96,
+  "i": 180,
+  "state": 13,
+  "culture": 5,
+  "name": "Zierratxeta",
+  "feature": 14,
+  "capital": 0,
+  "population": 6.298,
+  "type": "Generic",
+  "coa": {
+    "t1": "bendySinister-argent-purpure",
+    "division": {
+      "division": "perPale",
+      "t": "sable",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "bend",
+        "t": "vert",
+        "line": "straight"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

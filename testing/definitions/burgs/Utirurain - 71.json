@@ -1,0 +1,36 @@
+{
+  "cell": 3072,
+  "x": 448.63,
+  "y": 453.78,
+  "i": 71,
+  "state": 16,
+  "culture": 5,
+  "name": "Utirurain",
+  "feature": 12,
+  "capital": 0,
+  "port": 1,
+  "population": 9.188,
+  "type": "Naval",
+  "coa": {
+    "t1": "barry-argent-purpure-smallest",
+    "division": {
+      "division": "perFess",
+      "t": "gules",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "bendSinister",
+        "t": "sable",
+        "line": "straight"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

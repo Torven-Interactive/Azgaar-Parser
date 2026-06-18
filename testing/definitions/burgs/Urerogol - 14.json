@@ -1,0 +1,35 @@
+{
+  "cell": 2723,
+  "x": 762.54,
+  "y": 409.3,
+  "i": 14,
+  "state": 14,
+  "culture": 8,
+  "name": "Urerogol",
+  "feature": 4,
+  "capital": 1,
+  "port": 1,
+  "population": 13.337,
+  "type": "Naval",
+  "coa": {
+    "t1": "barry-or-gules",
+    "division": {
+      "division": "perPale",
+      "t": "azure",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "pile",
+        "t": "sable"
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 1,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "capital"
+}

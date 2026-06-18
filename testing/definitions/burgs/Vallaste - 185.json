@@ -1,0 +1,44 @@
+{
+  "cell": 2627,
+  "x": 822.3,
+  "y": 396.87,
+  "i": 185,
+  "state": 12,
+  "culture": 8,
+  "name": "Vallaste",
+  "feature": 19,
+  "capital": 0,
+  "population": 1.825,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perPale",
+      "t": "grillage-gules-or",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "trianglePierced",
+        "t": "sable",
+        "p": "e",
+        "divided": "field",
+        "size": 1.5
+      },
+      {
+        "charge": "serpent",
+        "t": "purpure",
+        "p": "e",
+        "divided": "division",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

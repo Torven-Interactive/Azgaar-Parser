@@ -1,0 +1,33 @@
+{
+  "cell": 2865,
+  "x": 509.48,
+  "y": 425.28,
+  "i": 16,
+  "state": 16,
+  "culture": 11,
+  "name": "Virao",
+  "feature": 12,
+  "capital": 1,
+  "port": 1,
+  "population": 2.291,
+  "type": "Naval",
+  "coa": {
+    "t1": "vert",
+    "charges": [
+      {
+        "charge": "rapier",
+        "t": "or",
+        "p": "e",
+        "t2": "or",
+        "size": 1.5
+      }
+    ],
+    "shield": "renaissance"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "capital"
+}

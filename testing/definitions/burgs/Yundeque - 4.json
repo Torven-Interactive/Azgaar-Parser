@@ -1,0 +1,32 @@
+{
+  "cell": 2098,
+  "x": 859.59,
+  "y": 356.69,
+  "i": 4,
+  "state": 4,
+  "culture": 8,
+  "name": "Yundeque",
+  "feature": 4,
+  "capital": 1,
+  "port": 1,
+  "population": 14.845,
+  "type": "Naval",
+  "coa": {
+    "t1": "argent",
+    "charges": [
+      {
+        "charge": "helmetZischagge",
+        "t": "sable",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 1,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "capital"
+}

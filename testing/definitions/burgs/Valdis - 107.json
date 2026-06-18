@@ -1,0 +1,31 @@
+{
+  "cell": 403,
+  "x": 406.1,
+  "y": 190.4,
+  "i": 107,
+  "state": 10,
+  "culture": 7,
+  "name": "Valdis",
+  "feature": 7,
+  "capital": 0,
+  "population": 4.29,
+  "type": "Generic",
+  "coa": {
+    "t1": "gules",
+    "charges": [
+      {
+        "charge": "crossFitchy",
+        "t": "or",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

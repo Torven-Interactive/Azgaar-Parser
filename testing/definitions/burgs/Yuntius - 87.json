@@ -1,0 +1,33 @@
+{
+  "cell": 2525,
+  "x": 841.12,
+  "y": 388.21,
+  "i": 87,
+  "state": 12,
+  "culture": 8,
+  "name": "Yuntius",
+  "feature": 19,
+  "capital": 0,
+  "population": 3.131,
+  "type": "Generic",
+  "coa": {
+    "t1": "azure",
+    "charges": [
+      {
+        "charge": "eagle",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "t3": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

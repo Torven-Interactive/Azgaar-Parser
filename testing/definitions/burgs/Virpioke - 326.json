@@ -1,0 +1,36 @@
+{
+  "cell": 1001,
+  "x": 334.47,
+  "y": 253.84,
+  "i": 326,
+  "state": 10,
+  "culture": 7,
+  "name": "Virpioke",
+  "feature": 7,
+  "capital": 0,
+  "population": 1.799,
+  "type": "Generic",
+  "coa": {
+    "t1": "azure",
+    "division": {
+      "division": "perCross",
+      "t": "or",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "fess",
+        "t": "argent",
+        "line": "angled",
+        "divided": "field"
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

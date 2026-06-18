@@ -1,0 +1,38 @@
+{
+  "cell": 2659,
+  "x": 225.02,
+  "y": 406.19,
+  "i": 182,
+  "state": 13,
+  "culture": 5,
+  "name": "Zubioa",
+  "feature": 14,
+  "capital": 0,
+  "population": 0.923,
+  "type": "Generic",
+  "coa": {
+    "t1": "bendy-argent-purpure",
+    "ordinaries": [
+      {
+        "ordinary": "pile",
+        "t": "vert",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "earOfWheat",
+        "t": "vert",
+        "p": "acdfgi",
+        "size": 0.4
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

@@ -1,0 +1,36 @@
+{
+  "cell": 2924,
+  "x": 401.72,
+  "y": 431.85,
+  "i": 327,
+  "state": 18,
+  "culture": 5,
+  "name": "Ziortza",
+  "feature": 12,
+  "capital": 0,
+  "population": 0.903,
+  "type": "Generic",
+  "coa": {
+    "t1": "gules",
+    "division": {
+      "division": "perPale",
+      "t": "argent",
+      "line": "straight"
+    },
+    "ordinaries": [
+      {
+        "ordinary": "cross",
+        "t": "or",
+        "line": "straight",
+        "divided": "counter"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

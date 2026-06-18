@@ -1,0 +1,43 @@
+{
+  "cell": 2448,
+  "x": 248.89,
+  "y": 383.51,
+  "i": 323,
+  "state": 13,
+  "culture": 5,
+  "name": "Zagutigoiku",
+  "feature": 14,
+  "capital": 0,
+  "population": 0.38,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "division": {
+      "division": "perFess",
+      "t": "azure",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "saw",
+        "t": "purpure",
+        "p": "k",
+        "t2": "vert",
+        "size": 0.7
+      },
+      {
+        "charge": "snail",
+        "t": "or",
+        "p": "n",
+        "size": 0.7
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

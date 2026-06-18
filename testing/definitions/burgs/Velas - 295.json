@@ -1,0 +1,32 @@
+{
+  "cell": 2376,
+  "x": 487.7,
+  "y": 375.65,
+  "i": 295,
+  "state": 16,
+  "culture": 11,
+  "name": "Velas",
+  "feature": 12,
+  "capital": 0,
+  "port": 1,
+  "population": 2.356,
+  "type": "Naval",
+  "coa": {
+    "t1": "vert",
+    "charges": [
+      {
+        "charge": "fusil",
+        "t": "argent",
+        "p": "jln",
+        "size": 0.7
+      }
+    ],
+    "shield": "renaissance"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

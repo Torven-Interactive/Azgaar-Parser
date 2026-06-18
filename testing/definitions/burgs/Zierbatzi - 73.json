@@ -1,0 +1,40 @@
+{
+  "cell": 1679,
+  "x": 326.5,
+  "y": 329,
+  "i": 73,
+  "state": 13,
+  "culture": 5,
+  "name": "Zierbatzi",
+  "feature": 14,
+  "capital": 0,
+  "population": 8.839,
+  "type": "Generic",
+  "coa": {
+    "t1": "bendy-argent-purpure",
+    "ordinaries": [
+      {
+        "ordinary": "gemelle",
+        "t": "sable",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "ramHeadErased",
+        "t": "azure",
+        "p": "abc",
+        "t2": "azure",
+        "t3": "sable",
+        "size": 0.5
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

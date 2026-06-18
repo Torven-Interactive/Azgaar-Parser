@@ -1,0 +1,39 @@
+{
+  "cell": 750,
+  "x": 889.01,
+  "y": 222.98,
+  "i": 297,
+  "state": 3,
+  "culture": 3,
+  "name": "Vardabygd",
+  "feature": 4,
+  "capital": 0,
+  "population": 0.947,
+  "type": "Generic",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "bar",
+        "t": "argent",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "plaice",
+        "t": "purpure",
+        "p": "def",
+        "t2": "purpure",
+        "size": 0.3
+      }
+    ],
+    "shield": "heater"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

@@ -1,0 +1,29 @@
+{
+  "cell": 2077,
+  "x": 712.71,
+  "y": 355.56,
+  "i": 78,
+  "state": 5,
+  "culture": 8,
+  "name": "Venano",
+  "feature": 4,
+  "capital": 0,
+  "population": 7.648,
+  "type": "Generic",
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "chevron",
+        "t": "gules"
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

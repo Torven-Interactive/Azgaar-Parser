@@ -1,0 +1,39 @@
+{
+  "cell": 2209,
+  "x": 846.36,
+  "y": 364.6,
+  "i": 45,
+  "state": 4,
+  "culture": 8,
+  "name": "Vallorredo",
+  "feature": 4,
+  "capital": 0,
+  "population": 5.642,
+  "type": "Hunting",
+  "coa": {
+    "t1": "vert",
+    "ordinaries": [
+      {
+        "ordinary": "pale",
+        "t": "or",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "scale",
+        "t": "gules",
+        "p": "e",
+        "t2": "argent",
+        "size": 0.7
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

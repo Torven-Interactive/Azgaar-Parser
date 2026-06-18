@@ -1,0 +1,32 @@
+{
+  "cell": 703,
+  "x": 373.58,
+  "y": 221.13,
+  "i": 81,
+  "state": 10,
+  "culture": 7,
+  "name": "Valvali",
+  "feature": 7,
+  "capital": 0,
+  "population": 1.013,
+  "type": "Generic",
+  "coa": {
+    "t1": "vert",
+    "charges": [
+      {
+        "charge": "maces",
+        "t": "argent",
+        "p": "e",
+        "t2": "argent",
+        "size": 1.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

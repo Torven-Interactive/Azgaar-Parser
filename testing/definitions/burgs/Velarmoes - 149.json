@@ -1,0 +1,31 @@
+{
+  "cell": 2582,
+  "x": 457.35,
+  "y": 397.16,
+  "i": 149,
+  "state": 16,
+  "culture": 11,
+  "name": "Velarmoes",
+  "feature": 12,
+  "capital": 0,
+  "population": 0.867,
+  "type": "Generic",
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "crossHummetty",
+        "t": "sable",
+        "p": "e",
+        "size": 1.5
+      }
+    ],
+    "shield": "renaissance"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

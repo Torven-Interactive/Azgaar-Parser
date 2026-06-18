@@ -1,0 +1,37 @@
+{
+  "cell": 3276,
+  "x": 710.99,
+  "y": 476.99,
+  "i": 329,
+  "state": 14,
+  "culture": 8,
+  "name": "Vevillonil",
+  "feature": 4,
+  "capital": 0,
+  "population": 0.853,
+  "type": "Hunting",
+  "coa": {
+    "t1": "argent",
+    "ordinaries": [
+      {
+        "ordinary": "quarter",
+        "t": "gules"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "crescent",
+        "t": "argent",
+        "p": "j",
+        "size": 0.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

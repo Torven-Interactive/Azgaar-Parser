@@ -1,0 +1,39 @@
+{
+  "cell": 1827,
+  "x": 535.71,
+  "y": 337.62,
+  "i": 338,
+  "state": 16,
+  "culture": 4,
+  "name": "Zhitin",
+  "feature": 12,
+  "capital": 0,
+  "population": 1.806,
+  "type": "Hunting",
+  "coa": {
+    "t1": "vert",
+    "ordinaries": [
+      {
+        "ordinary": "bar",
+        "t": "argent",
+        "line": "straight"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "saw",
+        "t": "gules",
+        "p": "def",
+        "t2": "gules",
+        "size": 0.3
+      }
+    ],
+    "shield": "polish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

@@ -1,0 +1,30 @@
+{
+  "cell": 2998,
+  "x": 425.56,
+  "y": 437.86,
+  "i": 77,
+  "state": 18,
+  "culture": 5,
+  "name": "Zazulestu",
+  "feature": 12,
+  "capital": 0,
+  "population": 0.779,
+  "type": "Generic",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "crossParted",
+        "t": "argent",
+        "line": "straight"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "village"
+}

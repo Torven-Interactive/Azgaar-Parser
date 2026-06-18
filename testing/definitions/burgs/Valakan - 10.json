@@ -1,0 +1,40 @@
+{
+  "cell": 629,
+  "x": 348.1,
+  "y": 209.13,
+  "i": 10,
+  "state": 10,
+  "culture": 7,
+  "name": "Valakan",
+  "feature": 7,
+  "capital": 1,
+  "port": 1,
+  "population": 2.771,
+  "type": "Naval",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "pall",
+        "t": "or"
+      }
+    ],
+    "charges": [
+      {
+        "charge": "archer",
+        "t": "gules",
+        "p": "jleh",
+        "t2": "or",
+        "t3": "gules",
+        "size": 0.5
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 1,
+  "plaza": 0,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "capital"
+}

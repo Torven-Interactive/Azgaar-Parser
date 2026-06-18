@@ -1,0 +1,39 @@
+{
+  "cell": 2995,
+  "x": 403.28,
+  "y": 436.52,
+  "i": 148,
+  "state": 18,
+  "culture": 5,
+  "name": "Urbelubi",
+  "feature": 12,
+  "capital": 0,
+  "port": 1,
+  "population": 10.352,
+  "type": "Naval",
+  "coa": {
+    "t1": "or",
+    "division": {
+      "division": "perCross",
+      "t": "vert",
+      "line": "straight"
+    },
+    "charges": [
+      {
+        "charge": "laurelWreath",
+        "t": "sable",
+        "p": "jo",
+        "t2": "sable",
+        "divided": "counter",
+        "size": 0.7
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 1,
+  "walls": 1,
+  "shanty": 0,
+  "temple": 0,
+  "group": "city"
+}

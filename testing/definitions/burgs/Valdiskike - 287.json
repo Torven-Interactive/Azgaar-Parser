@@ -1,0 +1,30 @@
+{
+  "cell": 1127,
+  "x": 303.9,
+  "y": 274.4,
+  "i": 287,
+  "state": 10,
+  "culture": 7,
+  "name": "Valdiskike",
+  "feature": 7,
+  "capital": 0,
+  "population": 4.781,
+  "type": "Hunting",
+  "coa": {
+    "t1": "azure",
+    "ordinaries": [
+      {
+        "ordinary": "chief",
+        "t": "or",
+        "line": "dovetailed"
+      }
+    ],
+    "shield": "pavise"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

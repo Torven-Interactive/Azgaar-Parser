@@ -1,0 +1,30 @@
+{
+  "cell": 2342,
+  "x": 241.11,
+  "y": 382.58,
+  "i": 186,
+  "state": 13,
+  "culture": 5,
+  "name": "Urnekoramiz",
+  "feature": 14,
+  "capital": 0,
+  "population": 5.14,
+  "type": "Hunting",
+  "coa": {
+    "t1": "or",
+    "ordinaries": [
+      {
+        "ordinary": "pile",
+        "t": "gules",
+        "line": "straight"
+      }
+    ],
+    "shield": "oldFrench"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "town"
+}

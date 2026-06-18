@@ -1,0 +1,33 @@
+{
+  "cell": 2528,
+  "x": 850.8,
+  "y": 389.15,
+  "i": 28,
+  "state": 12,
+  "culture": 8,
+  "name": "Zargaz",
+  "feature": 19,
+  "capital": 0,
+  "port": 1,
+  "population": 9.761,
+  "type": "Naval",
+  "coa": {
+    "t1": "or",
+    "charges": [
+      {
+        "charge": "plaice",
+        "t": "sable",
+        "p": "e",
+        "t2": "sable",
+        "size": 1.5
+      }
+    ],
+    "shield": "spanish"
+  },
+  "citadel": 0,
+  "plaza": 0,
+  "walls": 0,
+  "shanty": 0,
+  "temple": 0,
+  "group": "city"
+}
